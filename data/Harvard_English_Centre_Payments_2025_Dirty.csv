@@ -1,1 +1,2021 @@
-
+Payment_ID,Payment_Date,Month,Student_ID,Subject,Level,Tutor,Payment_Method,Course_Fee,Discount,Amount_Paid,Payment_Status,Student_Status
+PAY01001,2025-11-24,November,STU0115,IELTS,Advanced,Sarah, Cash ,500000,,,paid,Active
+PAY01002,2025/10/30,October,STU0120,English,Advanced,Linda, Cash ,500000,0,500000,paid,Actve
+PAY01003,2025/04/23,April,STU0004,IELTS,Advanced,Jhon,Bank Transfer,5000000,50000,4950000,Unpaid,Inactive
+PAY01004,"Apr 21, 2025",April,STU0184,Grammar,Advanced,David,,500000,0,500000,Paid,Actve
+PAY01005,2025-10-02,October,STU0425,Grammar,Advanced,Linda, Cash ,750000,0,750000,Paid,Active
+PAY01006,05/12/2025,December,STU0444,Math,Intermediate,David,transfer,700000,0,700000,paid,active
+PAY01007,"Mar 25, 2025",March,STU0360,Math,Advanced,Michael,E-Wallet,700000,25000,675000,paid,Inactive
+PAY01008,2025/03/25,March,STU0328,TOEFL,Advanced,Emily,,750000,50000,700000,Paid,Inactive
+PAY01009,"Jan 17, 2025",January,STU0468,Grammar,Beginner, john ,transfer,750000,50000,700000,paid,Actve
+PAY01010,"Mar 15, 2025",March,STU0276,Speaking,Advanced,,transfer,650000,25000,625000,paid,Actve
+PAY01011,05/07/2025,July,STU0387,English,Beginner,Michael, Cash ,650000,-50000,700000,Paid,Actve
+PAY01012,2025-11-02,November,STU0240,Speaking,Advanced,John, Cash ,750000,100000,650000,paid,Active
+PAY01013,"Dec 16, 2025",December,STU0081,ENG,Beginner,David,E-Wallet,700000,0,700000,Paid,Active
+PAY01014,"Nov 17, 2025",November,STU0192,IELTS,Advanced,SARAH,Cash,5000000,-50000,5050000,paid,active
+PAY01015,2025-09-08,September,STU0426,Speaking,Beginner,John,Transfer,500000,50000,450000,paid,Active
+PAY01016,2025/02/13,February,STU0066,ENG,Advanced,Michael,Bank Transfer,500000,-50000,550000,paid,Actve
+PAY01017,19/04/2025,April,STU0333,Grammar,Intermediate,SARAH,transfer,700000,100000,600000,Paid,Inactive
+PAY01018,2025-04-26,April,STU0118,TOEFL,Beginner,Sarah, Cash ,700000,0,700000,paid,Active
+PAY01019,2025-04-28,April,STU0122,Speaking,Advanced, john ,Transfer,500000,50000,450000,paid,Inactive
+PAY01020,2025/10/20,October,STU0098,Math,Beginner,Jhon,Bank Transfer,650000,100000,550000,Unpaid,Actve
+PAY01021,2025-08-28,August,STU0174,Math,Beginner,Linda,Transfer,500000,0,500000,paid,Actve
+PAY01022,2025/03/13,March,STU0448,Math,Intermediate,SARAH,Cash,650000,50000,600000,Paid,Active
+PAY01023,17/02/2025,February,STU0110,english,Beginner,Michael,transfer,650000,100000,550000,Paid,Actve
+PAY01024,2025/05/16,May,STU0375,ENG,Beginner,Linda,Bank Transfer,700000,100000,600000,Paid,Active
+PAY01025,2025-10-24,October,STU0245,IELTS,Beginner,SARAH,Cash,700000,0,700000,Paid,Active
+PAY01026,2025-11-01,November,STU0456,TOEFL,Advanced,,Cash,650000,100000,550000,paid,Active
+PAY01027,"Aug 03, 2025",August,STU0161,TOEFL,Intermediate,Jhon,Transfer,700000,25000,675000,paid,active
+PAY01028,"Aug 23, 2025",August,STU0289,Math,Beginner,SARAH,Transfer,500000,0,500000,paid,active
+PAY01029,"Mar 09, 2025",March,STU0081,ENG,Advanced,David,E-Wallet,500000,25000,475000,paid,Active
+PAY01030,"Dec 08, 2025",December,STU0456,Math,Advanced,SARAH,Transfer,500000,25000,475000,Unpaid,active
+PAY01031,06/11/2025,November,STU0437,Speaking,Advanced, john ,Bank Transfer,700000,25000,675000,Paid,Active
+PAY01032,2025/11/21,November,STU0395,IELTS,Advanced,David,Transfer,700000,0,-700000,paid,Actve
+PAY01033,2025/10/10,October,STU0484,IELTS,Advanced,John,,5000000,0,5000000,Unpaid,Inactive
+PAY01034,09/08/2025,August,STU0478,English,Intermediate,Linda, Cash ,500000,50000,450000,Paid,Active
+PAY01035,2025/07/01,July,STU0477,TOEFL,Beginner,Michael,transfer,5000000,,,Paid,Inactive
+PAY01036,2025/06/20,June,STU0360,Math,Intermediate,John,,650000,50000,600000,Unpaid,Inactive
+PAY01037,2025/04/13,April,STU0447,TOEFL,Beginner,John, Cash ,700000,50000,650000,Paid,Actve
+PAY01038,"Jun 18, 2025",June,STU0261,english,Advanced,SARAH,Bank Transfer,500000,50000,450000,Paid,Active
+PAY01039,14/05/2025,May,STU0306,english,Intermediate,Emily,transfer,5000000,50000,4950000,paid,Active
+PAY01040,17/07/2025,July,STU0001,TOEFL,Intermediate,Jhon,Cash,700000,0,700000,paid,active
+PAY01041,"Nov 16, 2025",November,STU0260,Speaking,Advanced,Jhon,Bank Transfer,500000,,,Unpaid,active
+PAY01042,11/10/2025,October,STU0195,IELTS,Advanced,,Bank Transfer,650000,100000,550000,Unpaid,Active
+PAY01043,"Jun 05, 2025",June,STU0311,Grammar,Intermediate, john ,transfer,650000,100000,550000,paid,Inactive
+PAY01044,2025/09/19,September,STU0264,Grammar,Beginner,Linda, Cash ,650000,,,Unpaid,Inactive
+PAY01045,12/04/2025,April,STU0244,Math,Intermediate,Jhon, Cash ,500000,0,500000,paid,Inactive
+PAY01046,2025/12/23,December,STU0336,English,Beginner,Jhon,Transfer,750000,100000,650000,Paid,Actve
+PAY01047,26/01/2025,January,STU0238,Grammar,Intermediate,,,500000,100000,400000,paid,Actve
+PAY01048,2025/10/08,October,STU0231,Speaking,Beginner,David,,650000,,,paid,Actve
+PAY01049,17/11/2025,November,STU0147,TOEFL,Intermediate,Emily,Bank Transfer,700000,100000,600000,paid,Active
+PAY01050,12/03/2025,March,STU0362,TOEFL,Beginner,Jhon,transfer,650000,100000,550000,Unpaid,Actve
+PAY01051,2025-08-01,August,STU0395,English,Advanced,Jhon,transfer,650000,100000,550000,Paid,active
+PAY01052,2025/06/02,June,STU0280,TOEFL,Intermediate,Linda,Bank Transfer,750000,-50000,800000,Unpaid,Actve
+PAY01053,2025/01/15,January,STU0208,IELTS,Intermediate,Michael,E-Wallet,700000,,,paid,Active
+PAY01054,2025-07-21,July,STU0444,ENG,Beginner,John,Bank Transfer,500000,,,Unpaid,active
+PAY01055,2025/04/19,April,STU0195,Speaking,Intermediate,David,,700000,50000,650000,Paid,Actve
+PAY01056,2025-01-10,January,STU0400,English,Beginner,Linda,Transfer,700000,25000,675000,Paid,Inactive
+PAY01057,03/05/2025,May,STU0486,TOEFL,Intermediate,David,,750000,,,Unpaid,Inactive
+PAY01058,2025-11-07,November,STU0014,Speaking,Advanced,Jhon,transfer,650000,50000,600000,paid,Inactive
+PAY01059,08/02/2025,February,STU0436,Math,Advanced,John,Bank Transfer,500000,,,paid,Actve
+PAY01060,"Dec 05, 2025",December,STU0007,english,Intermediate,Sarah,transfer,500000,-50000,550000,Unpaid,Actve
+PAY01061,29/12/2025,December,STU0495,Speaking,Advanced,SARAH,,750000,25000,725000,Unpaid,Actve
+PAY01062,"Aug 12, 2025",August,STU0045,Speaking,Intermediate,Linda,,700000,25000,675000,Unpaid,Actve
+PAY01063,2025-06-22,June,STU0109,Grammar,Intermediate,Emily,Bank Transfer,750000,50000,700000,paid,active
+PAY01064,2025-10-12,October,STU0369,english,Intermediate,SARAH,,5000000,25000,4975000,Paid,Actve
+PAY01065,2025/11/27,November,STU0114,english,Advanced,Linda,Bank Transfer,750000,0,750000,paid,active
+PAY01066,"Aug 31, 2025",August,STU0181,ENG,Intermediate,David,Bank Transfer,750000,,,Paid,Active
+PAY01067,"Apr 09, 2025",April,STU0391,IELTS,Beginner,Linda, Cash ,500000,,,Unpaid,active
+PAY01068,"Oct 29, 2025",October,STU0185,IELTS,Intermediate,John, Cash ,500000,25000,475000,paid,Inactive
+PAY01069,2025-05-21,May,STU0484,IELTS,Advanced, john ,Cash,500000,-50000,550000,Paid,active
+PAY01070,2025/08/29,August,STU0027,Speaking,Intermediate,Sarah,,750000,50000,700000,Paid,Actve
+PAY01071,2025-09-09,September,STU0078,IELTS,Advanced,David,Cash,5000000,,,Paid,Active
+PAY01072,2025/10/13,October,STU0116,english,Intermediate, john ,Bank Transfer,5000000,-50000,5050000,paid,Actve
+PAY01073,2025-06-06,June,STU0391,TOEFL,Advanced,Linda,Bank Transfer,5000000,,,paid,Active
+PAY01074,22/03/2025,March,STU0002,english,Intermediate,,transfer,650000,-50000,700000,Unpaid,Active
+PAY01075,"Apr 29, 2025",April,STU0037,TOEFL,Intermediate,, Cash ,700000,,,Paid,Actve
+PAY01076,28/02/2025,February,STU0037,English,Beginner,David,E-Wallet,650000,50000,600000,paid,active
+PAY01077,2025-08-13,August,STU0207,Speaking,Advanced,SARAH,transfer,750000,,,Unpaid,Active
+PAY01078,2025-11-03,November,STU0129,English,Beginner,Linda, Cash ,750000,,,paid,Active
+PAY01079,"Dec 11, 2025",December,STU0090,ENG,Advanced, john ,Bank Transfer,5000000,0,5000000,Paid,Actve
+PAY01080,2025/11/22,November,STU0171,Grammar,Advanced,Sarah,,500000,100000,400000,Paid,active
+PAY01081,2025/07/30,July,STU0417,English,Intermediate,Sarah,Bank Transfer,700000,,,Unpaid,active
+PAY01082,2025/03/01,March,STU0278,ENG,Intermediate,John,Transfer,5000000,0,5000000,paid,active
+PAY01083,2025/11/15,November,STU0282,IELTS,Intermediate, john , Cash ,750000,0,750000,Unpaid,Active
+PAY01084,15/01/2025,January,STU0283,english,Beginner,Linda,,650000,50000,600000,Paid,Actve
+PAY01085,02/03/2025,March,STU0362,Speaking,Intermediate, john ,transfer,750000,,,Paid,Actve
+PAY01086,10/10/2025,October,STU0261,IELTS,Beginner,David,,750000,25000,725000,Unpaid,active
+PAY01087,"Sep 17, 2025",September,STU0429,ENG,Beginner, john ,E-Wallet,500000,50000,450000,Unpaid,active
+PAY01088,2025/06/20,June,STU0358,TOEFL,Advanced,Jhon,Transfer,750000,50000,700000,Unpaid,Active
+PAY01089,2025/06/12,June,STU0406,IELTS,Intermediate,John,Transfer,750000,100000,650000,paid,active
+PAY01090,2025/02/21,February,STU0008,IELTS,Intermediate,Michael,Cash,500000,-50000,550000,Unpaid,active
+PAY01091,2025/06/23,June,STU0440,english,Intermediate, john ,,500000,50000,450000,paid,Active
+PAY01092,2025-11-13,November,STU0148,TOEFL,Advanced,Sarah,transfer,650000,,,Paid,Active
+PAY01093,16/08/2025,August,STU0408,English,Intermediate,Emily,Bank Transfer,700000,0,700000,Unpaid,Inactive
+PAY01094,2025/05/06,May,STU0088,IELTS,Beginner,,,5000000,,,Unpaid,Inactive
+PAY01095,12/09/2025,September,STU0236,Speaking,Advanced,John,,650000,100000,550000,Unpaid,active
+PAY01096,13/12/2025,December,STU0301,Speaking,Advanced,Jhon, Cash ,500000,100000,400000,Unpaid,Actve
+PAY01097,04/06/2025,June,STU0196,Grammar,Advanced,David, Cash ,750000,100000,650000,Unpaid,Active
+PAY01098,2025/12/04,December,STU0352,English,Advanced, john ,,700000,0,700000,Unpaid,Inactive
+PAY01099,"Nov 07, 2025",November,STU0129,IELTS,Advanced,Sarah, Cash ,650000,,,paid,Active
+PAY01100,2025/06/08,June,STU0068,Math,Intermediate,Emily, Cash ,500000,-50000,550000,Unpaid,Inactive
+PAY01101,13/04/2025,April,STU0468,Speaking,Beginner,David,,5000000,50000,4950000,Unpaid,active
+PAY01102,2025-06-23,June,STU0495,TOEFL,Advanced,Jhon,,750000,0,750000,paid,active
+PAY01103,2025/02/16,February,STU0233,Grammar,Advanced,David,E-Wallet,500000,50000,450000,Unpaid,active
+PAY01104,25/02/2025,February,STU0483,Grammar,Advanced,Linda, Cash ,750000,0,750000,Paid,Actve
+PAY01105,"Dec 25, 2025",December,STU0485,English,Intermediate, john ,Cash,750000,0,750000,Paid,Inactive
+PAY01106,03/10/2025,October,STU0487,english,Advanced,Michael,transfer,750000,100000,650000,paid,Active
+PAY01107,2025/09/08,September,STU0112,ENG,Intermediate,Linda,,700000,0,700000,Unpaid,Active
+PAY01108,"Dec 18, 2025",December,STU0204,Speaking,Beginner,Sarah,,5000000,,,Unpaid,Active
+PAY01109,06/12/2025,December,STU0171,TOEFL,Beginner,,Transfer,5000000,0,5000000,Paid,Inactive
+PAY01110,28/10/2025,October,STU0404,English,Intermediate,Michael,Transfer,650000,50000,600000,paid,active
+PAY01111,2025-03-31,March,STU0405,TOEFL,Advanced,Emily,Cash,500000,25000,-475000,Paid,active
+PAY01112,27/01/2025,January,STU0033,ENG,Intermediate,Emily,E-Wallet,750000,-50000,800000,paid,Active
+PAY01113,20/08/2025,August,STU0466,Speaking,Intermediate,John,Cash,5000000,0,5000000,Unpaid,Actve
+PAY01114,2025-08-07,August,STU0038,Math,Intermediate,,Transfer,750000,,,Paid,Inactive
+PAY01115,"May 21, 2025",May,STU0233,english,Beginner,Sarah,,750000,-50000,800000,paid,Inactive
+PAY01116,2025/08/09,August,STU0233,english,Intermediate,Sarah,Bank Transfer,650000,100000,550000,Unpaid,active
+PAY01117,"Dec 07, 2025",December,STU0243,Math,Beginner,Sarah,Cash,700000,25000,675000,Unpaid,Active
+PAY01118,10/07/2025,July,STU0288,Grammar,Advanced,Sarah,transfer,5000000,0,5000000,Unpaid,Actve
+PAY01119,"Jan 27, 2025",January,STU0296,TOEFL,Beginner, john ,Transfer,5000000,50000,4950000,Paid,active
+PAY01120,"Oct 12, 2025",October,STU0414,english,Advanced,,E-Wallet,500000,50000,450000,paid,Active
+PAY01121,"Nov 08, 2025",November,STU0391,Speaking,Intermediate,Emily,Cash,500000,25000,475000,Paid,Inactive
+PAY01122,2025/10/17,October,STU0498,English,Beginner,SARAH,Transfer,500000,25000,475000,Unpaid,Actve
+PAY01123,"Aug 21, 2025",August,STU0167,Math,Beginner,Michael,Transfer,650000,50000,600000,paid,Active
+PAY01124,2025-12-12,December,STU0249,ENG,Intermediate,David,Transfer,700000,100000,600000,paid,Active
+PAY01125,2025/06/26,June,STU0304,ENG,Advanced,David,Cash,500000,50000,450000,Paid,Actve
+PAY01126,2025-11-03,November,STU0109,IELTS,Intermediate,David,Bank Transfer,500000,25000,475000,Paid,Active
+PAY01127,2025/09/12,September,STU0361,TOEFL,Advanced,SARAH,,650000,25000,625000,paid,active
+PAY01128,2025/02/06,February,STU0472,Math,Intermediate,,transfer,500000,100000,-400000,paid,Actve
+PAY01129,2025/12/30,December,STU0495,Grammar,Beginner,,transfer,700000,0,700000,paid,active
+PAY01130,2025/02/15,February,STU0206,Math,Intermediate,David, Cash ,500000,25000,475000,Unpaid,Inactive
+PAY01131,20/06/2025,June,STU0272,TOEFL,Intermediate,Emily, Cash ,500000,-50000,550000,paid,Inactive
+PAY01132,2025-05-01,May,STU0309,IELTS,Advanced,Sarah,Transfer,650000,50000,600000,paid,Actve
+PAY01133,2025/08/26,August,STU0320,Grammar,Advanced,Emily,Transfer,5000000,,,Unpaid,Active
+PAY01134,2025/08/29,August,STU0181,Math,Intermediate, john ,transfer,700000,50000,650000,Paid,Active
+PAY01135,"Jul 08, 2025",July,STU0438,Math,Advanced,,E-Wallet,500000,,,Unpaid,Actve
+PAY01136,2025-10-25,October,STU0165,ENG,Advanced,Michael,Cash,750000,-50000,800000,Unpaid,Active
+PAY01137,2025-06-25,June,STU0127,ENG,Intermediate,SARAH,E-Wallet,5000000,,,paid,Inactive
+PAY01138,"Jul 06, 2025",July,STU0174,English,Advanced,Emily,Cash,700000,100000,600000,Unpaid,Active
+PAY01139,2025/10/13,October,STU0337,IELTS,Intermediate,Sarah,E-Wallet,700000,50000,650000,paid,Inactive
+PAY01140,"Jun 29, 2025",June,STU0481,Math,Intermediate,SARAH,transfer,750000,25000,725000,paid,active
+PAY01141,2025-03-07,March,STU0186,Speaking,Beginner,Linda,Bank Transfer,750000,-50000,800000,Unpaid,Inactive
+PAY01142,26/04/2025,April,STU0404,Math,Advanced,SARAH,,650000,0,650000,paid,Active
+PAY01143,"Dec 05, 2025",December,STU0079,IELTS,Beginner,,,5000000,25000,4975000,Paid,Actve
+PAY01144,2025/01/23,January,STU0497,ENG,Advanced,David,,700000,,,paid,Actve
+PAY01145,30/04/2025,April,STU0100,Grammar,Advanced,,transfer,700000,100000,600000,Unpaid,active
+PAY01146,2025/07/15,July,STU0071,Speaking,Beginner, john ,,650000,25000,625000,Unpaid,Active
+PAY01147,2025-12-31,December,STU0140,ENG,Advanced,Michael,,700000,0,700000,Unpaid,Active
+PAY01148,2025/04/24,April,STU0203,Grammar,Beginner,Jhon,Cash,700000,0,700000,Unpaid,Inactive
+PAY01149,"Jan 15, 2025",January,STU0406,IELTS,Beginner,John,Bank Transfer,500000,,,Unpaid,Inactive
+PAY01150,2025/12/28,December,STU0041,English,Intermediate,Linda,,750000,-50000,-800000,Paid,Actve
+PAY01151,"Feb 26, 2025",February,STU0123,english,Advanced,,transfer,650000,50000,600000,Paid,Active
+PAY01152,2025-09-13,September,STU0074,Speaking,Intermediate,John,E-Wallet,5000000,-50000,5050000,Unpaid,Inactive
+PAY01153,2025/10/20,October,STU0269,Grammar,Beginner,SARAH,E-Wallet,650000,,,paid,Active
+PAY01154,2025/07/19,July,STU0192,Speaking,Advanced,John,Bank Transfer,500000,,,Paid,active
+PAY01155,2025-05-04,May,STU0069,English,Intermediate,SARAH,Bank Transfer,5000000,,,paid,Inactive
+PAY01156,2025/12/17,December,STU0070,Math,Advanced, john ,Cash,750000,,,Unpaid,Inactive
+PAY01157,23/01/2025,January,STU0264,english,Advanced, john ,Bank Transfer,500000,50000,450000,Paid,Inactive
+PAY01158,"May 27, 2025",May,STU0064,Grammar,Intermediate,Jhon, Cash ,500000,,,Unpaid,Actve
+PAY01159,23/06/2025,June,STU0474,Speaking,Beginner,Jhon,Cash,750000,,,Unpaid,Inactive
+PAY01160,"Oct 07, 2025",October,STU0339,Speaking,Intermediate, john ,E-Wallet,700000,0,700000,paid,Actve
+PAY01161,2025/03/27,March,STU0446,Grammar,Advanced,Jhon,Bank Transfer,700000,100000,600000,paid,Active
+PAY01162,2025/02/08,February,STU0348,IELTS,Beginner,Michael,,700000,-50000,750000,paid,Actve
+PAY01163,18/01/2025,January,STU0188,Grammar,Intermediate,,Cash,500000,25000,475000,paid,Inactive
+PAY01164,2025/12/14,December,STU0040,IELTS,Advanced,Emily,transfer,700000,50000,650000,Unpaid,active
+PAY01165,2025-05-08,May,STU0266,english,Advanced,Sarah,Bank Transfer,500000,,,Unpaid,Actve
+PAY01166,"Apr 20, 2025",April,STU0437,Math,Intermediate,Michael, Cash ,750000,25000,725000,Unpaid,Active
+PAY01167,"Dec 16, 2025",December,STU0278,Speaking,Intermediate,Michael, Cash ,700000,,,paid,Inactive
+PAY01168,05/07/2025,July,STU0122,ENG,Beginner,Emily,E-Wallet,500000,25000,475000,paid,active
+PAY01169,28/08/2025,August,STU0204,ENG,Advanced,Jhon,,5000000,0,5000000,Unpaid,Active
+PAY01170,"Mar 06, 2025",March,STU0265,Grammar,Beginner,SARAH, Cash ,500000,100000,400000,paid,Inactive
+PAY01171,2025/03/08,March,STU0266,IELTS,Intermediate,Michael,Transfer,5000000,0,5000000,Unpaid,Inactive
+PAY01172,"Jun 27, 2025",June,STU0490,Speaking,Beginner,David,E-Wallet,500000,50000,450000,paid,Active
+PAY01173,15/09/2025,September,STU0338,Grammar,Advanced,John,,5000000,-50000,5050000,Paid,Active
+PAY01174,"Jan 24, 2025",January,STU0328,English,Intermediate,SARAH,Bank Transfer,650000,-50000,700000,paid,active
+PAY01175,05/09/2025,September,STU0353,English,Beginner, john ,transfer,750000,50000,700000,Unpaid,Actve
+PAY01176,"Apr 15, 2025",April,STU0368,Grammar,Advanced,Emily,transfer,5000000,25000,4975000,Paid,active
+PAY01177,2025-09-21,September,STU0137,ENG,Beginner,Michael,Cash,700000,25000,675000,Paid,active
+PAY01178,2025/07/16,July,STU0479,Grammar,Beginner,Michael,transfer,650000,25000,625000,paid,Actve
+PAY01179,"Sep 13, 2025",September,STU0202,ENG,Beginner,Linda,E-Wallet,750000,0,750000,Unpaid,Active
+PAY01180,"Jan 26, 2025",January,STU0335,ENG,Intermediate,SARAH,Cash,750000,-50000,800000,Paid,Actve
+PAY01181,"Mar 10, 2025",March,STU0206,English,Advanced,SARAH,Transfer,700000,100000,600000,Unpaid,active
+PAY01182,2025/02/07,February,STU0144,Math,Beginner,Sarah,transfer,5000000,100000,4900000,Unpaid,active
+PAY01183,"Oct 13, 2025",October,STU0206,English,Beginner,John,Transfer,650000,25000,625000,paid,active
+PAY01184,2025/08/31,August,STU0072,Grammar,Advanced,Emily,Transfer,650000,-50000,700000,Unpaid,active
+PAY01185,"Oct 31, 2025",October,STU0363,Speaking,Intermediate,John,Bank Transfer,5000000,-50000,5050000,Unpaid,Active
+PAY01186,"Aug 02, 2025",August,STU0496,TOEFL,Advanced,John,E-Wallet,500000,-50000,550000,Unpaid,Inactive
+PAY01187,2025/09/26,September,STU0294,Math,Beginner,John,transfer,650000,,,Unpaid,Actve
+PAY01188,2025/03/19,March,STU0314,ENG,Advanced,John, Cash ,650000,100000,550000,Paid,Inactive
+PAY01189,"Oct 15, 2025",October,STU0490,IELTS,Intermediate,SARAH,Bank Transfer,750000,-50000,800000,paid,active
+PAY01190,"Dec 13, 2025",December,STU0127,Speaking,Advanced,David,Transfer,5000000,100000,4900000,Unpaid,active
+PAY01191,27/12/2025,December,STU0287,Speaking,Intermediate,Sarah,E-Wallet,750000,50000,700000,paid,Actve
+PAY01192,"Jul 22, 2025",July,STU0490,Math,Intermediate, john , Cash ,650000,50000,600000,Unpaid,Actve
+PAY01193,20/04/2025,April,STU0357,Speaking,Beginner,Sarah,E-Wallet,5000000,50000,4950000,paid,Inactive
+PAY01194,2025-05-05,May,STU0027,Math,Intermediate,Emily, Cash ,5000000,25000,4975000,Unpaid,Active
+PAY01195,15/12/2025,December,STU0081,english,Advanced, john ,transfer,500000,-50000,550000,paid,Inactive
+PAY01196,"May 28, 2025",May,STU0394,Math,Advanced,,Transfer,700000,,,paid,Active
+PAY01197,2025/03/31,March,STU0204,ENG,Beginner,David,Cash,650000,0,650000,Paid,active
+PAY01198,2025-10-18,October,STU0329,ENG,Beginner,SARAH,transfer,700000,50000,650000,Unpaid,Inactive
+PAY01199,"Feb 27, 2025",February,STU0132,IELTS,Beginner,Emily,,650000,,,Unpaid,Inactive
+PAY01200,2025/03/31,March,STU0206,Math,Beginner,Michael,transfer,750000,-50000,800000,Unpaid,Inactive
+PAY01201,"Jan 04, 2025",January,STU0137,Grammar,Intermediate,, Cash ,750000,25000,725000,paid,Active
+PAY01202,"May 14, 2025",May,STU0239,Speaking,Beginner,Jhon, Cash ,650000,0,650000,paid,active
+PAY01203,2025-12-20,December,STU0113,IELTS,Intermediate,Michael,transfer,700000,50000,650000,paid,active
+PAY01204,2025/08/01,August,STU0391,TOEFL,Advanced,,,5000000,,,Paid,Actve
+PAY01205,"Sep 28, 2025",September,STU0425,TOEFL,Advanced,SARAH,Transfer,500000,-50000,550000,Paid,active
+PAY01206,2025/09/24,September,STU0299,ENG,Beginner,SARAH,transfer,500000,,,Paid,Actve
+PAY01207,2025/03/09,March,STU0237,Speaking,Advanced,John,transfer,750000,-50000,800000,Unpaid,Active
+PAY01208,2025-04-22,April,STU0033,English,Beginner, john ,Cash,500000,100000,400000,Unpaid,Actve
+PAY01209,03/04/2025,April,STU0196,ENG,Intermediate,Jhon,Cash,750000,50000,700000,paid,Inactive
+PAY01210,"Dec 01, 2025",December,STU0202,IELTS,Advanced,Linda,,500000,25000,475000,Paid,Active
+PAY01211,2025/06/02,June,STU0422,TOEFL,Beginner, john ,Bank Transfer,5000000,100000,4900000,Paid,active
+PAY01212,2025-04-07,April,STU0393,English,Beginner,Linda,Cash,500000,,,Paid,Active
+PAY01213,2025-08-17,August,STU0225,TOEFL,Advanced,Linda,,650000,,,Paid,Inactive
+PAY01214,"Sep 15, 2025",September,STU0296,Grammar,Beginner,David,Transfer,650000,,,paid,Inactive
+PAY01215,"Jul 31, 2025",July,STU0303,IELTS,Advanced,Jhon,E-Wallet,700000,0,700000,Unpaid,Active
+PAY01216,2025/06/26,June,STU0210,IELTS,Intermediate,Jhon,Transfer,5000000,50000,4950000,paid,Actve
+PAY01217,04/05/2025,May,STU0238,English,Advanced,Jhon,transfer,700000,,,paid,Inactive
+PAY01218,18/07/2025,July,STU0041,ENG,Intermediate,Sarah,E-Wallet,700000,25000,675000,paid,Inactive
+PAY01219,"Jan 27, 2025",January,STU0021,Math,Beginner,, Cash ,750000,,,paid,Inactive
+PAY01220,03/09/2025,September,STU0008,TOEFL,Beginner,Sarah, Cash ,700000,50000,650000,Unpaid,Inactive
+PAY01221,23/12/2025,December,STU0398,Speaking,Intermediate, john ,E-Wallet,750000,25000,725000,paid,active
+PAY01222,"Jun 07, 2025",June,STU0239,Math,Advanced, john ,,700000,-50000,750000,Unpaid,Inactive
+PAY01223,"Jul 09, 2025",July,STU0114,IELTS,Beginner,David,E-Wallet,750000,0,750000,paid,Actve
+PAY01224,01/06/2025,June,STU0292,TOEFL,Intermediate,SARAH, Cash ,650000,50000,600000,paid,active
+PAY01225,2025/05/12,May,STU0408,Grammar,Beginner,Michael, Cash ,750000,100000,650000,paid,Actve
+PAY01226,2025-04-05,April,STU0039,English,Beginner,Jhon,Transfer,5000000,0,5000000,paid,Inactive
+PAY01227,04/02/2025,February,STU0192,English,Advanced,,transfer,500000,25000,475000,paid,Actve
+PAY01228,2025-01-09,January,STU0009,Speaking,Advanced,David,Cash,5000000,-50000,5050000,paid,Actve
+PAY01229,2025-04-02,April,STU0099,Speaking,Intermediate,David,,500000,-50000,550000,Unpaid,Active
+PAY01230,2025/07/11,July,STU0357,TOEFL,Intermediate,Sarah, Cash ,750000,-50000,800000,paid,Active
+PAY01231,2025/02/17,February,STU0029,English,Advanced,Michael,Cash,750000,100000,650000,Unpaid,Actve
+PAY01232,"Nov 27, 2025",November,STU0471,English,Beginner,Linda,,5000000,0,5000000,paid,Actve
+PAY01233,2025-05-19,May,STU0461,English,Beginner,Emily,Cash,500000,,,Paid,Inactive
+PAY01234,2025/12/31,December,STU0124,english,Advanced,SARAH,Bank Transfer,500000,50000,450000,Unpaid,Inactive
+PAY01235,2025-12-19,December,STU0028,Math,Intermediate,Linda,,5000000,,,Paid,active
+PAY01236,2025/11/06,November,STU0402,ENG,Intermediate,Linda,Bank Transfer,700000,0,700000,paid,Actve
+PAY01237,10/08/2025,August,STU0396,Speaking,Beginner,Sarah,Cash,5000000,,,Unpaid,Inactive
+PAY01238,14/07/2025,July,STU0047,English,Intermediate, john ,Bank Transfer,750000,50000,700000,Unpaid,Active
+PAY01239,2025-03-09,March,STU0285,english,Beginner,John,Cash,650000,100000,550000,Unpaid,Active
+PAY01240,"Nov 02, 2025",November,STU0199,Math,Advanced,SARAH,Transfer,750000,0,750000,paid,Inactive
+PAY01241,2025/12/17,December,STU0138,ENG,Beginner,Sarah,Transfer,650000,25000,625000,Unpaid,active
+PAY01242,"Aug 04, 2025",August,STU0484,TOEFL,Advanced, john ,E-Wallet,750000,0,750000,paid,Inactive
+PAY01243,2025-08-23,August,STU0203,Grammar,Advanced,Jhon,,650000,50000,-600000,Unpaid,Actve
+PAY01244,2025/06/21,June,STU0309,TOEFL,Intermediate,Emily,Transfer,5000000,25000,4975000,Unpaid,active
+PAY01245,2025/05/30,May,STU0144,english,Intermediate,Sarah,E-Wallet,5000000,25000,4975000,Paid,Inactive
+PAY01246,2025-12-16,December,STU0409,Speaking,Advanced,Sarah,,750000,,,Unpaid,Actve
+PAY01247,"Mar 13, 2025",March,STU0367,english,Intermediate,Sarah,transfer,650000,50000,600000,paid,Actve
+PAY01248,2025/10/26,October,STU0446,english,Advanced,John,,5000000,-50000,5050000,Unpaid,Active
+PAY01249,25/02/2025,February,STU0023,english,Intermediate,Jhon,Cash,700000,25000,675000,Paid,Active
+PAY01250,13/05/2025,May,STU0298,TOEFL,Intermediate,Emily,transfer,5000000,,,Unpaid,Inactive
+PAY01251,2025-06-26,June,STU0472,Math,Beginner,Michael,Bank Transfer,750000,0,750000,Unpaid,active
+PAY01252,22/08/2025,August,STU0050,ENG,Advanced, john ,Bank Transfer,5000000,100000,4900000,Paid,active
+PAY01253,2025-01-23,January,STU0347,IELTS,Advanced,Linda,E-Wallet,500000,50000,450000,Paid,Inactive
+PAY01254,2025/06/19,June,STU0323,IELTS,Beginner,Jhon,transfer,750000,25000,725000,Paid,Inactive
+PAY01255,2025/08/19,August,STU0106,Speaking,Advanced,Sarah,E-Wallet,750000,0,750000,Paid,Inactive
+PAY01256,"Jul 07, 2025",July,STU0344,ENG,Advanced,Emily,E-Wallet,650000,100000,550000,Unpaid,Actve
+PAY01257,2025-10-28,October,STU0317,IELTS,Advanced,David,E-Wallet,700000,50000,650000,paid,Active
+PAY01258,11/12/2025,December,STU0060,IELTS,Intermediate,Michael,E-Wallet,700000,0,700000,Unpaid,Actve
+PAY01259,02/11/2025,November,STU0250,IELTS,Advanced,Michael,transfer,5000000,100000,4900000,Unpaid,Inactive
+PAY01260,"Apr 06, 2025",April,STU0184,English,Intermediate,Michael,Transfer,750000,-50000,800000,Unpaid,Actve
+PAY01261,2025/07/29,July,STU0251,IELTS,Beginner,,Cash,750000,,,Paid,active
+PAY01262,"Jan 17, 2025",January,STU0400,ENG,Advanced, john ,E-Wallet,650000,-50000,700000,paid,Active
+PAY01263,2025-10-21,October,STU0188,English,Advanced, john ,E-Wallet,700000,-50000,750000,Paid,Actve
+PAY01264,22/02/2025,February,STU0179,Math,Intermediate,Sarah,,700000,0,700000,Paid,Inactive
+PAY01265,"Oct 29, 2025",October,STU0316,IELTS,Beginner,Linda,,5000000,,,Paid,active
+PAY01266,"Sep 30, 2025",September,STU0361,Speaking,Intermediate,,Bank Transfer,5000000,-50000,5050000,paid,Active
+PAY01267,2025/03/11,March,STU0065,IELTS,Beginner,Michael, Cash ,500000,50000,450000,Unpaid,Inactive
+PAY01268,2025/12/13,December,STU0138,english,Intermediate, john ,Cash,750000,25000,725000,paid,Active
+PAY01269,"Jul 26, 2025",July,STU0168,English,Advanced,Sarah, Cash ,700000,100000,600000,Unpaid,active
+PAY01270,2025/02/02,February,STU0254,Speaking,Intermediate,David,Bank Transfer,650000,100000,550000,paid,Inactive
+PAY01271,2025/10/17,October,STU0024,Math,Advanced, john ,Cash,700000,,,Paid,Inactive
+PAY01272,2025/08/14,August,STU0353,IELTS,Advanced,David,Transfer,500000,100000,400000,Unpaid,Active
+PAY01273,"Dec 02, 2025",December,STU0463,IELTS,Beginner,Jhon, Cash ,700000,0,700000,Unpaid,Inactive
+PAY01274,2025-08-08,August,STU0040,IELTS,Advanced,Linda,E-Wallet,500000,0,500000,paid,Actve
+PAY01275,2025-01-05,January,STU0217,IELTS,Intermediate,Sarah,Transfer,700000,0,700000,Unpaid,Active
+PAY01276,2025-02-22,February,STU0071,english,Beginner,Michael,Cash,700000,50000,650000,paid,Active
+PAY01277,09/11/2025,November,STU0322,IELTS,Intermediate,, Cash ,750000,50000,700000,Unpaid,Inactive
+PAY01278,2025-02-14,February,STU0197,Grammar,Intermediate,Emily,,650000,0,650000,Paid,Inactive
+PAY01279,2025-05-22,May,STU0370,Speaking,Advanced,John,,650000,-50000,700000,paid,active
+PAY01280,16/04/2025,April,STU0402,TOEFL,Intermediate,Jhon,Cash,750000,50000,700000,Paid,Actve
+PAY01281,2025-11-23,November,STU0479,Grammar,Beginner,Jhon,,5000000,0,5000000,paid,Actve
+PAY01282,07/07/2025,July,STU0035,English,Intermediate,Linda,Cash,750000,0,-750000,Paid,Actve
+PAY01283,"Sep 17, 2025",September,STU0206,Math,Advanced,SARAH,E-Wallet,5000000,100000,4900000,paid,Inactive
+PAY01284,2025-05-23,May,STU0105,IELTS,Advanced,Emily,transfer,700000,0,700000,paid,Active
+PAY01285,2025/06/08,June,STU0474,english,Beginner, john ,E-Wallet,650000,0,650000,paid,Active
+PAY01286,08/06/2025,June,STU0360,English,Beginner, john ,Bank Transfer,500000,0,500000,paid,active
+PAY01287,"Mar 27, 2025",March,STU0138,Math,Beginner,Emily,,650000,,,Unpaid,active
+PAY01288,2025-09-26,September,STU0322,Math,Intermediate, john ,E-Wallet,700000,,,Unpaid,Active
+PAY01289,13/09/2025,September,STU0053,Math,Beginner,SARAH,Cash,700000,25000,675000,Paid,Active
+PAY01290,2025-05-06,May,STU0077,IELTS,Beginner,SARAH,,750000,50000,700000,paid,Actve
+PAY01291,"Apr 25, 2025",April,STU0164,Speaking,Beginner,,Bank Transfer,650000,100000,550000,Paid,Active
+PAY01292,02/04/2025,April,STU0036,ENG,Intermediate,David,Bank Transfer,5000000,0,5000000,Paid,Actve
+PAY01293,"Jan 05, 2025",January,STU0156,TOEFL,Intermediate,Emily,E-Wallet,650000,50000,600000,Unpaid,Inactive
+PAY01294,07/10/2025,October,STU0013,TOEFL,Advanced,Emily, Cash ,650000,0,650000,paid,Active
+PAY01295,2025-06-21,June,STU0054,TOEFL,Advanced,Linda,transfer,750000,,,Unpaid,Active
+PAY01296,"Mar 14, 2025",March,STU0460,english,Advanced,Emily,transfer,500000,0,500000,paid,Active
+PAY01297,2025-10-25,October,STU0202,Math,Advanced,,Cash,5000000,25000,4975000,Unpaid,Inactive
+PAY01298,"May 02, 2025",May,STU0202,Grammar,Intermediate, john ,Bank Transfer,700000,50000,650000,Paid,Active
+PAY01299,14/04/2025,April,STU0085,ENG,Intermediate,Emily,transfer,5000000,0,5000000,Paid,active
+PAY01300,2025/04/17,April,STU0062,Math,Beginner,David,,700000,100000,600000,paid,Active
+PAY01301,"Apr 21, 2025",April,STU0496,Grammar,Intermediate,SARAH,Cash,650000,0,650000,paid,active
+PAY01302,14/05/2025,May,STU0285,TOEFL,Beginner, john ,Cash,500000,100000,400000,Paid,Active
+PAY01303,2025-01-07,January,STU0206,Grammar,Advanced,Sarah,E-Wallet,650000,25000,625000,paid,active
+PAY01304,2025-02-08,February,STU0228,IELTS,Beginner,Emily,Cash,500000,25000,475000,Paid,Actve
+PAY01305,26/01/2025,January,STU0203,ENG,Beginner,Jhon, Cash ,5000000,100000,4900000,Unpaid,Inactive
+PAY01306,01/07/2025,July,STU0453,IELTS,Beginner,,E-Wallet,650000,50000,600000,paid,Inactive
+PAY01307,"Nov 28, 2025",November,STU0246,English,Beginner,David,transfer,750000,100000,650000,Paid,Actve
+PAY01308,13/04/2025,April,STU0401,Grammar,Intermediate,SARAH,,5000000,0,5000000,Unpaid,active
+PAY01309,"Oct 17, 2025",October,STU0164,TOEFL,Beginner,David,Cash,750000,50000,700000,Unpaid,active
+PAY01310,27/10/2025,October,STU0124,Speaking,Advanced,John,,650000,0,650000,Paid,Actve
+PAY01311,01/07/2025,July,STU0413,Grammar,Advanced,John, Cash ,650000,25000,625000,paid,active
+PAY01312,18/10/2025,October,STU0415,ENG,Advanced,David,Transfer,5000000,25000,4975000,Unpaid,Active
+PAY01313,2025-02-16,February,STU0270,ENG,Beginner,Emily,E-Wallet,650000,-50000,700000,Paid,Inactive
+PAY01314,24/06/2025,June,STU0301,IELTS,Beginner,SARAH,,700000,0,700000,Unpaid,Active
+PAY01315,2025/07/11,July,STU0166,IELTS,Beginner,Jhon,,5000000,0,5000000,paid,Actve
+PAY01316,"Nov 29, 2025",November,STU0356,Grammar,Beginner,,,650000,,,Paid,Actve
+PAY01317,"Jun 07, 2025",June,STU0486,english,Advanced,John,Transfer,650000,25000,625000,paid,active
+PAY01318,10/11/2025,November,STU0073,Grammar,Advanced,Sarah,Transfer,5000000,0,5000000,Unpaid,active
+PAY01319,2025-03-27,March,STU0108,TOEFL,Advanced,Sarah,Bank Transfer,700000,100000,-600000,Unpaid,Active
+PAY01320,2025-01-01,January,STU0497,IELTS,Intermediate, john ,transfer,750000,100000,650000,Unpaid,Actve
+PAY01321,2025/02/21,February,STU0116,IELTS,Intermediate,Sarah,,5000000,,,Paid,active
+PAY01322,"Jan 11, 2025",January,STU0088,english,Beginner,Sarah,E-Wallet,700000,0,700000,Paid,active
+PAY01323,2025/11/01,November,STU0085,english,Beginner,John,Cash,500000,100000,400000,Unpaid,Inactive
+PAY01324,2025/04/08,April,STU0277,Speaking,Advanced,David,Bank Transfer,5000000,,,Paid,Active
+PAY01325,2025/01/26,January,STU0079,English,Intermediate,John,transfer,5000000,-50000,5050000,Paid,active
+PAY01326,2025/12/05,December,STU0088,Speaking,Beginner, john ,,650000,0,650000,Paid,active
+PAY01327,2025/07/23,July,STU0329,english,Beginner,Emily,transfer,750000,,,Unpaid,Inactive
+PAY01328,2025-08-17,August,STU0116,Speaking,Advanced,John,Transfer,700000,100000,600000,paid,Active
+PAY01329,"Feb 13, 2025",February,STU0302,TOEFL,Advanced,John,,5000000,100000,4900000,Unpaid,Actve
+PAY01330,2025/10/02,October,STU0041,english,Advanced,John,E-Wallet,5000000,25000,4975000,paid,Inactive
+PAY01331,2025/03/03,March,STU0414,TOEFL,Beginner,John,transfer,650000,25000,625000,Paid,Actve
+PAY01332,14/04/2025,April,STU0373,Math,Beginner,Jhon,E-Wallet,5000000,50000,4950000,Unpaid,active
+PAY01333,2025/05/22,May,STU0268,english,Beginner,Jhon,Transfer,500000,,,Paid,Active
+PAY01334,2025-02-24,February,STU0450,english,Intermediate,Jhon, Cash ,700000,-50000,750000,Unpaid,Actve
+PAY01335,20/01/2025,January,STU0312,english,Beginner,Jhon,Bank Transfer,700000,100000,600000,paid,Inactive
+PAY01336,2025/01/26,January,STU0419,Speaking,Intermediate,David,,700000,50000,650000,Unpaid,Active
+PAY01337,27/04/2025,April,STU0423,Grammar,Intermediate,Jhon,E-Wallet,700000,,,paid,Active
+PAY01338,2025/04/07,April,STU0389,Grammar,Beginner,SARAH,,650000,100000,550000,Paid,Active
+PAY01339,2025/06/09,June,STU0015,IELTS,Beginner,Linda,,650000,-50000,700000,Paid,Inactive
+PAY01340,2025/01/17,January,STU0141,Grammar,Intermediate,SARAH,transfer,500000,50000,450000,paid,Active
+PAY01341,2025-12-15,December,STU0229,IELTS,Intermediate,,E-Wallet,650000,50000,600000,Unpaid,active
+PAY01342,"Mar 25, 2025",March,STU0026,IELTS,Advanced,Linda,,500000,50000,450000,Paid,Inactive
+PAY01343,13/12/2025,December,STU0011,English,Intermediate,Michael, Cash ,700000,,,Paid,Active
+PAY01344,"Apr 25, 2025",April,STU0364,Speaking,Intermediate,Jhon,,5000000,50000,4950000,Unpaid,Actve
+PAY01345,10/05/2025,May,STU0423,english,Advanced,Sarah,Cash,750000,50000,700000,paid,active
+PAY01346,"Oct 15, 2025",October,STU0033,Grammar,Intermediate,Emily,,700000,,,Unpaid,active
+PAY01347,"Dec 02, 2025",December,STU0124,English,Advanced,Jhon, Cash ,650000,25000,625000,Unpaid,Inactive
+PAY01348,2025/01/14,January,STU0208,english,Advanced,John,E-Wallet,700000,50000,650000,paid,Inactive
+PAY01349,25/06/2025,June,STU0465,Grammar,Advanced,David,,5000000,,,Paid,Inactive
+PAY01350,2025-05-31,May,STU0372,IELTS,Advanced,Emily, Cash ,750000,25000,725000,Paid,Inactive
+PAY01351,01/07/2025,July,STU0170,Grammar,Intermediate,,Bank Transfer,700000,100000,600000,Unpaid,Active
+PAY01352,2025-08-29,August,STU0037,ENG,Beginner,SARAH,Cash,5000000,-50000,5050000,paid,Actve
+PAY01353,"Sep 29, 2025",September,STU0078,IELTS,Beginner,Emily,transfer,750000,0,750000,paid,Actve
+PAY01354,"Mar 15, 2025",March,STU0324,IELTS,Intermediate,John,Cash,650000,0,650000,Unpaid,active
+PAY01355,18/04/2025,April,STU0391,Math,Beginner,,transfer,5000000,25000,4975000,paid,Actve
+PAY01356,2025/07/26,July,STU0274,TOEFL,Advanced,Emily,Cash,750000,100000,-650000,Unpaid,Inactive
+PAY01357,2025-01-10,January,STU0177,Speaking,Beginner,Sarah,transfer,650000,25000,625000,paid,active
+PAY01358,2025-03-27,March,STU0234,Grammar,Intermediate,Michael,Bank Transfer,500000,50000,450000,Unpaid,active
+PAY01359,07/04/2025,April,STU0373,IELTS,Beginner,John,E-Wallet,750000,0,750000,paid,Inactive
+PAY01360,"Mar 05, 2025",March,STU0131,English,Advanced,John, Cash ,500000,100000,400000,Paid,Active
+PAY01361,2025-01-25,January,STU0281,Speaking,Intermediate,Michael,Transfer,750000,100000,650000,paid,Active
+PAY01362,2025/06/04,June,STU0319,IELTS,Intermediate,Sarah,E-Wallet,500000,,,paid,Active
+PAY01363,2025-05-25,May,STU0103,Speaking,Advanced,Linda,Bank Transfer,500000,100000,400000,paid,Actve
+PAY01364,01/06/2025,June,STU0107,ENG,Intermediate,Linda,Cash,500000,-50000,550000,Paid,Active
+PAY01365,2025/02/26,February,STU0039,Math,Intermediate,Linda,transfer,650000,0,650000,Unpaid,active
+PAY01366,2025-08-26,August,STU0437,Speaking,Intermediate,Emily,transfer,500000,25000,475000,paid,Active
+PAY01367,2025-02-18,February,STU0088,Grammar,Intermediate, john ,E-Wallet,500000,25000,475000,Unpaid,Active
+PAY01368,"Jul 10, 2025",July,STU0493,ENG,Intermediate,Jhon, Cash ,650000,0,650000,Unpaid,Actve
+PAY01369,29/11/2025,November,STU0031,IELTS,Beginner,Jhon,E-Wallet,500000,25000,475000,Unpaid,Actve
+PAY01370,2025/04/03,April,STU0351,IELTS,Intermediate, john ,Cash,700000,-50000,750000,Unpaid,Actve
+PAY01371,2025-01-24,January,STU0361,TOEFL,Advanced,Emily,E-Wallet,700000,,,paid,Active
+PAY01372,10/08/2025,August,STU0329,english,Beginner,SARAH,E-Wallet,750000,50000,700000,Paid,Active
+PAY01373,26/11/2025,November,STU0446,IELTS,Beginner, john ,Bank Transfer,5000000,100000,4900000,Paid,active
+PAY01374,2025-05-23,May,STU0194,english,Beginner,Sarah,transfer,5000000,25000,4975000,Unpaid,Actve
+PAY01375,2025/02/15,February,STU0255,English,Beginner,Jhon,transfer,750000,50000,700000,Paid,Active
+PAY01376,"Feb 16, 2025",February,STU0344,ENG,Intermediate,Emily,,5000000,-50000,5050000,Paid,Inactive
+PAY01377,"Aug 21, 2025",August,STU0367,Grammar,Advanced, john ,Cash,5000000,-50000,5050000,Paid,Inactive
+PAY01378,"Jan 02, 2025",January,STU0150,Grammar,Advanced,Sarah,Cash,700000,,,Paid,Actve
+PAY01379,2025/03/13,March,STU0097,Math,Intermediate,Linda,transfer,500000,50000,450000,Paid,active
+PAY01380,2025/02/25,February,STU0302,Math,Intermediate, john , Cash ,500000,,,paid,Inactive
+PAY01381,2025-09-13,September,STU0479,english,Advanced, john ,E-Wallet,5000000,,,Paid,Inactive
+PAY01382,2025-03-07,March,STU0452,Grammar,Advanced,Jhon,transfer,750000,,,paid,Inactive
+PAY01383,2025/05/21,May,STU0069,IELTS,Intermediate,, Cash ,700000,50000,650000,paid,active
+PAY01384,"Dec 26, 2025",December,STU0108,Speaking,Advanced,Emily, Cash ,5000000,,,Paid,Inactive
+PAY01385,"Sep 15, 2025",September,STU0299,english,Advanced,SARAH,Bank Transfer,500000,50000,450000,Unpaid,Active
+PAY01386,2025-09-25,September,STU0344,English,Beginner,David,,500000,100000,400000,Paid,active
+PAY01387,"Dec 16, 2025",December,STU0152,TOEFL,Advanced,John,Bank Transfer,650000,0,650000,Unpaid,Active
+PAY01388,12/11/2025,November,STU0402,Speaking,Advanced,John,transfer,5000000,100000,4900000,Unpaid,Actve
+PAY01389,"Dec 17, 2025",December,STU0129,TOEFL,Advanced, john ,,5000000,0,-5000000,Paid,active
+PAY01390,29/10/2025,October,STU0350,Math,Beginner,Michael, Cash ,650000,50000,600000,paid,Active
+PAY01391,2025-07-13,July,STU0067,IELTS,Advanced,David,Cash,750000,50000,700000,Unpaid,Actve
+PAY01392,30/12/2025,December,STU0306,English,Advanced,,,500000,25000,475000,paid,active
+PAY01393,"Sep 09, 2025",September,STU0113,IELTS,Advanced,Sarah,,500000,,,paid,Inactive
+PAY01394,2025/08/01,August,STU0110,Grammar,Intermediate,Emily,Bank Transfer,500000,50000,450000,Paid,Actve
+PAY01395,2025-10-15,October,STU0124,TOEFL,Beginner,Emily,transfer,500000,,,Paid,Actve
+PAY01396,"May 12, 2025",May,STU0192,ENG,Intermediate,John,Bank Transfer,500000,-50000,550000,paid,Inactive
+PAY01397,2025-06-14,June,STU0396,English,Advanced,Sarah,Transfer,500000,25000,475000,paid,Inactive
+PAY01398,2025/12/17,December,STU0360,english,Advanced,Sarah, Cash ,500000,25000,475000,paid,Inactive
+PAY01399,2025/01/13,January,STU0028,IELTS,Intermediate,SARAH,Cash,700000,0,700000,paid,Inactive
+PAY01400,2025/05/13,May,STU0222,Grammar,Beginner,Jhon, Cash ,750000,100000,650000,Paid,Active
+PAY01401,2025-11-25,November,STU0038,Grammar,Advanced,Sarah,Bank Transfer,5000000,0,5000000,paid,active
+PAY01402,2025-11-07,November,STU0421,English,Intermediate,Michael,E-Wallet,700000,100000,600000,Paid,Inactive
+PAY01403,"Jul 20, 2025",July,STU0469,Grammar,Beginner,SARAH,,650000,50000,600000,paid,Inactive
+PAY01404,2025-03-05,March,STU0276,Math,Intermediate,Linda, Cash ,500000,-50000,550000,paid,active
+PAY01405,2025/04/19,April,STU0114,Speaking,Beginner,Sarah,Transfer,5000000,25000,4975000,paid,Active
+PAY01406,2025/10/09,October,STU0035,Speaking,Beginner,Linda, Cash ,5000000,0,5000000,paid,Actve
+PAY01407,"Jun 19, 2025",June,STU0052,Speaking,Advanced,Sarah,Transfer,650000,,,Unpaid,Actve
+PAY01408,"Aug 19, 2025",August,STU0300,IELTS,Advanced,,Bank Transfer,5000000,,,Unpaid,Actve
+PAY01409,2025-03-28,March,STU0365,english,Intermediate,Emily,Transfer,700000,25000,675000,paid,active
+PAY01410,2025/09/03,September,STU0250,Math,Beginner,,Cash,750000,50000,700000,Unpaid,Inactive
+PAY01411,03/10/2025,October,STU0040,Math,Beginner,SARAH, Cash ,700000,,,Paid,Actve
+PAY01412,30/10/2025,October,STU0458,ENG,Advanced,Michael,Bank Transfer,500000,-50000,550000,Unpaid,Inactive
+PAY01413,"Oct 29, 2025",October,STU0047,english,Intermediate,SARAH,Cash,650000,100000,550000,paid,Inactive
+PAY01414,11/11/2025,November,STU0092,IELTS,Advanced, john ,Bank Transfer,5000000,25000,4975000,Paid,Inactive
+PAY01415,07/09/2025,September,STU0022,TOEFL,Advanced,Emily,transfer,500000,50000,450000,Unpaid,Actve
+PAY01416,2025-01-24,January,STU0267,Speaking,Advanced,David,E-Wallet,700000,0,700000,paid,Inactive
+PAY01417,2025/07/12,July,STU0428,Math,Advanced,David,transfer,700000,-50000,750000,Paid,Actve
+PAY01418,"Jun 30, 2025",June,STU0004,IELTS,Intermediate,Michael,Transfer,750000,100000,650000,Paid,active
+PAY01419,19/04/2025,April,STU0368,Math,Advanced,Linda,transfer,650000,25000,625000,Unpaid,Active
+PAY01420,2025/09/04,September,STU0332,english,Beginner,Linda,Cash,750000,25000,725000,Paid,Inactive
+PAY01421,2025-03-10,March,STU0133,IELTS,Advanced,Jhon,E-Wallet,5000000,25000,4975000,paid,Active
+PAY01422,"Dec 05, 2025",December,STU0242,ENG,Beginner,Linda,,500000,25000,475000,Unpaid,Inactive
+PAY01423,26/10/2025,October,STU0086,Grammar,Intermediate,,E-Wallet,5000000,,,Paid,Inactive
+PAY01424,2025/07/13,July,STU0268,english,Beginner,,Cash,650000,0,-650000,Paid,Actve
+PAY01425,2025-11-11,November,STU0048,ENG,Advanced,Michael,E-Wallet,5000000,-50000,5050000,paid,Active
+PAY01426,2025/12/14,December,STU0023,english,Beginner, john ,,5000000,100000,4900000,Unpaid,active
+PAY01427,2025-10-29,October,STU0393,TOEFL,Beginner,David,E-Wallet,750000,25000,725000,paid,Actve
+PAY01428,12/05/2025,May,STU0004,Math,Advanced,John,transfer,500000,,,paid,Inactive
+PAY01429,"Dec 19, 2025",December,STU0219,Speaking,Intermediate,SARAH,transfer,750000,50000,700000,paid,active
+PAY01430,"Nov 10, 2025",November,STU0402,ENG,Beginner,Emily,E-Wallet,750000,25000,725000,paid,Actve
+PAY01431,"May 10, 2025",May,STU0204,IELTS,Advanced,Sarah, Cash ,5000000,50000,4950000,Paid,Actve
+PAY01432,25/12/2025,December,STU0403,Grammar,Advanced,, Cash ,500000,25000,475000,paid,Active
+PAY01433,2025/03/24,March,STU0242,english,Beginner,Sarah,Bank Transfer,500000,0,500000,Paid,active
+PAY01434,2025-02-10,February,STU0267,Speaking,Advanced,,Cash,750000,100000,650000,Paid,Actve
+PAY01435,2025-08-13,August,STU0266,Speaking,Beginner,John,,650000,,,paid,Inactive
+PAY01436,11/11/2025,November,STU0001,IELTS,Beginner,David,,500000,50000,450000,Unpaid,active
+PAY01437,2025/12/09,December,STU0008,Math,Beginner,SARAH,Bank Transfer,750000,-50000,800000,paid,active
+PAY01438,"Jun 27, 2025",June,STU0233,english,Advanced,John,Bank Transfer,650000,-50000,700000,Paid,Actve
+PAY01439,2025-09-17,September,STU0175,Math,Advanced,David,E-Wallet,5000000,0,5000000,paid,active
+PAY01440,2025/12/22,December,STU0125,Grammar,Intermediate, john ,E-Wallet,750000,-50000,800000,Paid,Actve
+PAY01441,"Mar 01, 2025",March,STU0113,TOEFL,Intermediate,Jhon,Bank Transfer,500000,100000,400000,paid,Active
+PAY01442,"Dec 25, 2025",December,STU0345,Grammar,Beginner,SARAH,Transfer,650000,50000,600000,Unpaid,active
+PAY01443,01/07/2025,July,STU0383,TOEFL,Intermediate,Linda,Transfer,5000000,50000,4950000,paid,Inactive
+PAY01444,16/05/2025,May,STU0429,Grammar,Beginner,Sarah,Cash,650000,25000,625000,Paid,Actve
+PAY01445,2025-11-11,November,STU0191,Grammar,Intermediate,,,5000000,0,5000000,Unpaid,Actve
+PAY01446,"Apr 04, 2025",April,STU0066,English,Advanced,Jhon,transfer,750000,25000,725000,paid,Active
+PAY01447,"Sep 15, 2025",September,STU0235,Math,Advanced,SARAH,transfer,750000,,,Unpaid,Active
+PAY01448,07/01/2025,January,STU0186,Speaking,Beginner,SARAH,Bank Transfer,750000,-50000,800000,Paid,active
+PAY01449,"Aug 30, 2025",August,STU0108,english,Advanced,Emily,Bank Transfer,700000,25000,675000,Unpaid,active
+PAY01450,19/08/2025,August,STU0352,TOEFL,Beginner,David,,5000000,25000,4975000,Paid,Actve
+PAY01451,15/07/2025,July,STU0413,English,Beginner,Jhon,transfer,650000,,,Paid,active
+PAY01452,"Sep 07, 2025",September,STU0025,english,Beginner,Michael,Cash,700000,-50000,750000,Paid,active
+PAY01453,2025-09-01,September,STU0185,Grammar,Advanced,SARAH,,750000,,,Unpaid,active
+PAY01454,2025/01/11,January,STU0494,TOEFL,Advanced,, Cash ,500000,50000,450000,paid,Inactive
+PAY01455,"May 26, 2025",May,STU0397,ENG,Beginner,Jhon,E-Wallet,700000,,,Unpaid,Actve
+PAY01456,20/11/2025,November,STU0173,english,Advanced,,E-Wallet,650000,,,Unpaid,Active
+PAY01457,10/02/2025,February,STU0335,Speaking,Advanced,David,E-Wallet,700000,25000,675000,paid,Actve
+PAY01458,2025/05/19,May,STU0495,ENG,Intermediate,Michael,Transfer,700000,,,Paid,Inactive
+PAY01459,"May 01, 2025",May,STU0053,Math,Beginner, john ,E-Wallet,500000,25000,475000,Paid,Active
+PAY01460,2025-07-23,July,STU0044,english,Intermediate,Linda,Transfer,500000,50000,450000,paid,active
+PAY01461,15/08/2025,August,STU0015,English,Advanced,Emily,,650000,-50000,700000,Unpaid,Actve
+PAY01462,"Aug 28, 2025",August,STU0486,IELTS,Advanced,,transfer,5000000,100000,4900000,paid,Actve
+PAY01463,"Sep 26, 2025",September,STU0413,Math,Intermediate,David,Bank Transfer,700000,100000,600000,Unpaid,active
+PAY01464,"Mar 21, 2025",March,STU0389,IELTS,Intermediate,David,transfer,500000,0,500000,paid,Active
+PAY01465,2025/12/19,December,STU0221,Speaking,Advanced,Linda,,750000,50000,-700000,Paid,active
+PAY01466,2025/04/07,April,STU0084,english,Intermediate,Linda,Bank Transfer,5000000,100000,4900000,Paid,Actve
+PAY01467,17/11/2025,November,STU0351,Speaking,Intermediate,SARAH,,5000000,-50000,5050000,Unpaid,Actve
+PAY01468,2025-04-07,April,STU0327,ENG,Advanced, john ,Bank Transfer,650000,25000,625000,paid,Actve
+PAY01469,"Apr 07, 2025",April,STU0274,English,Beginner,Sarah,Bank Transfer,500000,25000,475000,Unpaid,Inactive
+PAY01470,2025-08-13,August,STU0253,TOEFL,Intermediate,Jhon,Bank Transfer,650000,0,650000,Unpaid,active
+PAY01471,2025-08-26,August,STU0488,IELTS,Beginner,David,,700000,0,700000,Unpaid,Active
+PAY01472,2025/10/06,October,STU0129,english,Beginner,Sarah,,650000,25000,625000,paid,Inactive
+PAY01473,2025/07/17,July,STU0102,ENG,Advanced,Sarah,E-Wallet,650000,,,paid,Inactive
+PAY01474,2025/08/31,August,STU0373,English,Advanced,SARAH,E-Wallet,700000,50000,650000,Paid,active
+PAY01475,"Sep 04, 2025",September,STU0443,TOEFL,Beginner,Linda, Cash ,650000,50000,600000,Unpaid,active
+PAY01476,08/01/2025,January,STU0405,TOEFL,Beginner,John,E-Wallet,700000,-50000,750000,paid,Actve
+PAY01477,19/12/2025,December,STU0256,Math,Advanced,,Bank Transfer,700000,0,700000,paid,Active
+PAY01478,"Jan 31, 2025",January,STU0055,IELTS,Intermediate,Linda,Bank Transfer,650000,,,paid,active
+PAY01479,13/08/2025,August,STU0371,IELTS,Intermediate,John,transfer,500000,,,paid,Actve
+PAY01480,"Oct 14, 2025",October,STU0291,IELTS,Advanced,Emily,Bank Transfer,5000000,,,paid,Actve
+PAY01481,21/05/2025,May,STU0152,Speaking,Advanced,Emily,transfer,500000,-50000,550000,Paid,Actve
+PAY01482,2025-04-05,April,STU0123,Grammar,Advanced,Sarah, Cash ,5000000,50000,4950000,paid,Actve
+PAY01483,2025/04/08,April,STU0166,english,Advanced,Emily,Cash,5000000,25000,4975000,Paid,Active
+PAY01484,23/01/2025,January,STU0249,TOEFL,Beginner,John,E-Wallet,650000,0,650000,paid,Actve
+PAY01485,2025/12/03,December,STU0132,English,Intermediate,Linda,E-Wallet,5000000,-50000,5050000,paid,Active
+PAY01486,07/01/2025,January,STU0328,English,Intermediate,SARAH, Cash ,750000,0,750000,Unpaid,active
+PAY01487,2025-12-29,December,STU0376,Math,Intermediate,Sarah,Transfer,5000000,50000,4950000,paid,Active
+PAY01488,21/02/2025,February,STU0270,TOEFL,Advanced,Michael,E-Wallet,5000000,100000,4900000,paid,Actve
+PAY01489,"Feb 24, 2025",February,STU0453,Math,Beginner,Michael,E-Wallet,750000,,,Unpaid,active
+PAY01490,03/12/2025,December,STU0181,Grammar,Advanced,Emily,,5000000,-50000,5050000,Unpaid,Actve
+PAY01491,2025/11/21,November,STU0280,TOEFL,Intermediate,SARAH, Cash ,700000,-50000,750000,Unpaid,active
+PAY01492,2025/08/20,August,STU0146,English,Advanced,Michael,Bank Transfer,750000,0,750000,Paid,active
+PAY01493,24/04/2025,April,STU0483,Speaking,Advanced,SARAH,E-Wallet,700000,0,700000,paid,Inactive
+PAY01494,2025-02-18,February,STU0136,Grammar,Advanced,Linda,Transfer,750000,50000,700000,Unpaid,active
+PAY01495,2025/02/17,February,STU0371,Grammar,Intermediate,Michael,transfer,5000000,25000,4975000,paid,Active
+PAY01496,"Nov 01, 2025",November,STU0196,Math,Beginner,Emily,Bank Transfer,500000,,,Unpaid,Actve
+PAY01497,03/03/2025,March,STU0324,english,Beginner,David,E-Wallet,5000000,0,5000000,Paid,active
+PAY01498,04/10/2025,October,STU0079,English,Advanced,Jhon,transfer,700000,-50000,750000,paid,Active
+PAY01499,2025/04/24,April,STU0173,Math,Intermediate,, Cash ,700000,100000,600000,Paid,Actve
+PAY01500,2025-05-15,May,STU0358,IELTS,Beginner, john ,E-Wallet,750000,-50000,800000,Paid,Actve
+PAY01501,22/07/2025,July,STU0269,TOEFL,Beginner,Sarah,Bank Transfer,5000000,-50000,5050000,Unpaid,active
+PAY01502,2025-12-17,December,STU0188,Grammar,Beginner,Emily,Bank Transfer,500000,,,paid,Active
+PAY01503,06/06/2025,June,STU0412,ENG,Advanced,Michael,transfer,700000,-50000,750000,Paid,Inactive
+PAY01504,"Apr 13, 2025",April,STU0058,English,Beginner,,Transfer,650000,,,Unpaid,Active
+PAY01505,2025-06-25,June,STU0170,TOEFL,Advanced,SARAH,Transfer,700000,100000,600000,Paid,active
+PAY01506,2025/10/08,October,STU0356,English,Intermediate,, Cash ,5000000,,,paid,Active
+PAY01507,11/05/2025,May,STU0357,Speaking,Beginner, john , Cash ,500000,50000,450000,Paid,Active
+PAY01508,"Jul 18, 2025",July,STU0445,english,Beginner,Jhon,E-Wallet,700000,0,-700000,paid,Active
+PAY01509,2025/06/11,June,STU0102,ENG,Advanced,John,Cash,5000000,-50000,5050000,Paid,active
+PAY01510,2025/06/20,June,STU0178,Grammar,Intermediate,David,Transfer,750000,,,paid,active
+PAY01511,"Feb 01, 2025",February,STU0486,Speaking,Beginner,Michael,Bank Transfer,750000,0,750000,Unpaid,Inactive
+PAY01512,2025/02/14,February,STU0321,TOEFL,Intermediate,Linda,E-Wallet,5000000,,,Paid,Actve
+PAY01513,"Jun 09, 2025",June,STU0335,IELTS,Advanced,SARAH, Cash ,750000,-50000,800000,Paid,Inactive
+PAY01514,08/06/2025,June,STU0290,IELTS,Intermediate,Sarah,E-Wallet,750000,25000,725000,paid,Active
+PAY01515,"Apr 05, 2025",April,STU0164,english,Intermediate,David,transfer,650000,,,paid,active
+PAY01516,19/03/2025,March,STU0391,Speaking,Advanced,,E-Wallet,500000,25000,475000,Paid,Inactive
+PAY01517,2025-04-29,April,STU0245,IELTS,Advanced,,transfer,700000,0,700000,paid,active
+PAY01518,2025/04/05,April,STU0099,TOEFL,Beginner,Jhon,,750000,100000,650000,Paid,active
+PAY01519,31/07/2025,July,STU0475,ENG,Advanced, john , Cash ,650000,25000,625000,Unpaid,Actve
+PAY01520,2025/05/07,May,STU0423,english,Advanced,Emily,transfer,750000,0,750000,paid,Active
+PAY01521,2025-09-24,September,STU0022,TOEFL,Advanced,SARAH,transfer,750000,100000,650000,paid,Active
+PAY01522,2025/10/13,October,STU0098,Speaking,Intermediate,Jhon,Bank Transfer,5000000,,,Unpaid,Actve
+PAY01523,2025/03/27,March,STU0354,IELTS,Intermediate, john ,Cash,700000,-50000,750000,paid,Active
+PAY01524,03/04/2025,April,STU0013,IELTS,Intermediate,, Cash ,750000,100000,650000,Paid,Actve
+PAY01525,"Feb 16, 2025",February,STU0365,IELTS,Advanced,Sarah,Cash,700000,,,Paid,Actve
+PAY01526,"Nov 21, 2025",November,STU0373,IELTS,Intermediate,SARAH,transfer,500000,-50000,550000,Paid,Inactive
+PAY01527,21/06/2025,June,STU0365,English,Intermediate,David,Bank Transfer,650000,25000,625000,paid,Actve
+PAY01528,28/05/2025,May,STU0002,Speaking,Beginner, john ,transfer,500000,25000,475000,Unpaid,Active
+PAY01529,2025/11/08,November,STU0244,ENG,Intermediate, john ,Cash,650000,25000,625000,paid,Active
+PAY01530,"May 06, 2025",May,STU0423,TOEFL,Beginner,Michael,Transfer,5000000,,,Paid,active
+PAY01531,19/01/2025,January,STU0309,Speaking,Intermediate,Sarah,Cash,500000,,,Paid,Actve
+PAY01532,02/04/2025,April,STU0359,IELTS,Intermediate,,Bank Transfer,700000,-50000,750000,Paid,Active
+PAY01533,"Jun 03, 2025",June,STU0389,english,Advanced,Sarah,Bank Transfer,700000,100000,600000,Unpaid,Inactive
+PAY01534,"Mar 04, 2025",March,STU0108,TOEFL,Advanced,John,Cash,700000,-50000,750000,paid,Active
+PAY01535,"Sep 05, 2025",September,STU0133,Grammar,Beginner,,E-Wallet,750000,-50000,800000,Unpaid,Actve
+PAY01536,10/09/2025,September,STU0100,English,Beginner,John,transfer,5000000,25000,4975000,paid,Active
+PAY01537,2025/04/17,April,STU0287,TOEFL,Beginner,Linda, Cash ,750000,0,750000,Unpaid,active
+PAY01538,"Feb 04, 2025",February,STU0393,English,Beginner,Emily,Bank Transfer,700000,-50000,750000,Unpaid,Active
+PAY01539,31/03/2025,March,STU0246,ENG,Beginner,Michael,transfer,700000,50000,650000,Paid,Actve
+PAY01540,"Oct 02, 2025",October,STU0029,Speaking,Advanced,Emily,E-Wallet,750000,100000,650000,paid,Active
+PAY01541,"Apr 17, 2025",April,STU0144,English,Intermediate,Jhon, Cash ,700000,0,700000,paid,Inactive
+PAY01542,2025/10/20,October,STU0401,Speaking,Advanced,Emily, Cash ,650000,-50000,700000,Paid,active
+PAY01543,2025-07-31,July,STU0425,Speaking,Beginner,SARAH,Bank Transfer,750000,25000,725000,Paid,Active
+PAY01544,2025-07-11,July,STU0013,ENG,Advanced,Michael,Transfer,650000,0,650000,Unpaid,Actve
+PAY01545,"Sep 26, 2025",September,STU0051,IELTS,Beginner,John,transfer,700000,25000,675000,Unpaid,Active
+PAY01546,"Jan 03, 2025",January,STU0447,Math,Intermediate, john ,Cash,500000,,,Paid,active
+PAY01547,"Jan 12, 2025",January,STU0147,Speaking,Advanced,Emily,,650000,50000,600000,Unpaid,Active
+PAY01548,20/05/2025,May,STU0491,Math,Beginner,SARAH,Bank Transfer,650000,50000,600000,paid,active
+PAY01549,19/05/2025,May,STU0037,Speaking,Advanced,Emily,E-Wallet,700000,-50000,750000,Unpaid,Active
+PAY01550,2025-03-08,March,STU0197,English,Beginner,Jhon,transfer,750000,,,Paid,Actve
+PAY01551,"Nov 12, 2025",November,STU0366,Math,Intermediate,,Transfer,700000,50000,650000,Paid,Actve
+PAY01552,2025/02/19,February,STU0393,ENG,Intermediate,Linda,Transfer,700000,,,Paid,active
+PAY01553,2025/07/06,July,STU0170,Grammar,Intermediate, john ,Cash,650000,,,Paid,Actve
+PAY01554,"Feb 27, 2025",February,STU0145,Grammar,Advanced,,Transfer,750000,100000,650000,paid,Active
+PAY01555,2025-07-27,July,STU0406,Speaking,Advanced, john ,transfer,700000,-50000,750000,paid,Actve
+PAY01556,03/05/2025,May,STU0197,Math,Intermediate,Linda,,5000000,25000,4975000,paid,Actve
+PAY01557,"Aug 11, 2025",August,STU0340,Math,Advanced,,,5000000,,,Unpaid,Active
+PAY01558,2025/10/31,October,STU0228,IELTS,Intermediate,Jhon,Cash,700000,-50000,750000,paid,Active
+PAY01559,2025/12/17,December,STU0032,Math,Beginner,Michael,E-Wallet,700000,100000,600000,paid,Active
+PAY01560,17/03/2025,March,STU0316,ENG,Beginner,Linda, Cash ,750000,-50000,800000,Unpaid,active
+PAY01561,"Oct 19, 2025",October,STU0177,Math,Advanced,John,E-Wallet,750000,,,paid,Actve
+PAY01562,"Mar 07, 2025",March,STU0496,English,Beginner,SARAH,,500000,50000,450000,Unpaid,Active
+PAY01563,2025-05-25,May,STU0202,Grammar,Advanced,Jhon,transfer,650000,100000,550000,Unpaid,Actve
+PAY01564,07/10/2025,October,STU0285,english,Intermediate,Jhon,Transfer,650000,100000,550000,Unpaid,Inactive
+PAY01565,2025-03-10,March,STU0370,ENG,Advanced,Jhon,Transfer,500000,,,Paid,Inactive
+PAY01566,2025/11/25,November,STU0218,IELTS,Intermediate,SARAH,transfer,750000,,,paid,Actve
+PAY01567,"Jul 16, 2025",July,STU0004,ENG,Advanced,Linda, Cash ,650000,25000,625000,paid,active
+PAY01568,"Jul 30, 2025",July,STU0361,Grammar,Beginner,,transfer,500000,0,500000,paid,Active
+PAY01569,"Mar 14, 2025",March,STU0456,Math,Beginner, john , Cash ,750000,-50000,800000,paid,Active
+PAY01570,"Dec 17, 2025",December,STU0274,English,Intermediate, john ,E-Wallet,5000000,0,5000000,Unpaid,active
+PAY01571,"Aug 04, 2025",August,STU0356,Speaking,Advanced,,Bank Transfer,700000,50000,650000,Paid,Actve
+PAY01572,24/10/2025,October,STU0150,English,Intermediate, john ,Cash,5000000,0,5000000,Paid,Active
+PAY01573,"May 23, 2025",May,STU0440,Speaking,Beginner,Sarah,E-Wallet,650000,-50000,700000,Paid,Inactive
+PAY01574,2025/12/04,December,STU0359,TOEFL,Intermediate,Michael,,700000,25000,675000,paid,Active
+PAY01575,2025-06-25,June,STU0079,ENG,Intermediate,Jhon,Transfer,650000,-50000,700000,paid,Actve
+PAY01576,23/11/2025,November,STU0177,English,Advanced,David,,650000,-50000,700000,Paid,Active
+PAY01577,2025/03/27,March,STU0383,TOEFL,Intermediate,Jhon,transfer,750000,100000,650000,Unpaid,Inactive
+PAY01578,2025/09/29,September,STU0230,english,Advanced,Emily,E-Wallet,500000,50000,450000,paid,Active
+PAY01579,"Feb 19, 2025",February,STU0440,Speaking,Intermediate,David,Bank Transfer,750000,-50000,800000,Paid,active
+PAY01580,2025/12/02,December,STU0376,TOEFL,Advanced,Emily, Cash ,750000,,,paid,Inactive
+PAY01581,2025-06-10,June,STU0051,Math,Advanced, john ,Bank Transfer,500000,0,-500000,Paid,active
+PAY01582,09/05/2025,May,STU0030,TOEFL,Advanced,Sarah, Cash ,500000,0,500000,Paid,Active
+PAY01583,06/11/2025,November,STU0332,IELTS,Beginner,Michael,Bank Transfer,750000,,,Unpaid,Actve
+PAY01584,2025-12-05,December,STU0355,Grammar,Intermediate,Michael,,750000,50000,700000,Paid,active
+PAY01585,2025/02/01,February,STU0133,Speaking,Beginner, john ,Cash,750000,50000,700000,Unpaid,Inactive
+PAY01586,2025/11/09,November,STU0074,english,Beginner,, Cash ,650000,,,Paid,Actve
+PAY01587,2025-05-13,May,STU0373,Speaking,Intermediate,John,transfer,500000,0,500000,Paid,Active
+PAY01588,2025/01/20,January,STU0464,english,Advanced,John,E-Wallet,700000,25000,675000,paid,Actve
+PAY01589,2025/09/02,September,STU0403,Math,Advanced,Linda,Cash,750000,,,Unpaid,Actve
+PAY01590,"Mar 04, 2025",March,STU0029,Math,Intermediate,SARAH,,700000,,,Unpaid,Active
+PAY01591,"Aug 24, 2025",August,STU0496,english,Advanced,Linda,Bank Transfer,650000,25000,625000,paid,Actve
+PAY01592,"Feb 24, 2025",February,STU0225,TOEFL,Beginner,John,Transfer,750000,0,750000,Paid,Inactive
+PAY01593,2025/09/08,September,STU0256,ENG,Beginner,John,Bank Transfer,500000,-50000,550000,Paid,active
+PAY01594,2025/01/22,January,STU0342,ENG,Advanced,SARAH,Transfer,500000,25000,475000,paid,Inactive
+PAY01595,2025-02-06,February,STU0242,English,Beginner,Michael,Cash,650000,100000,550000,Paid,Active
+PAY01596,2025-06-07,June,STU0303,Math,Beginner,Sarah,transfer,750000,-50000,800000,paid,Inactive
+PAY01597,02/02/2025,February,STU0378,english,Intermediate,Sarah, Cash ,750000,50000,700000,paid,Inactive
+PAY01598,14/06/2025,June,STU0033,Math,Intermediate,Michael,,500000,-50000,550000,Unpaid,Inactive
+PAY01599,"Dec 23, 2025",December,STU0474,English,Beginner,Sarah,,5000000,25000,4975000,paid,Actve
+PAY01600,2025-03-22,March,STU0092,Math,Advanced,,Bank Transfer,750000,0,-750000,Unpaid,Actve
+PAY01601,21/12/2025,December,STU0268,ENG,Intermediate,Linda,Transfer,650000,25000,625000,paid,Active
+PAY01602,02/11/2025,November,STU0322,Speaking,Intermediate,Jhon,Cash,750000,-50000,800000,paid,Inactive
+PAY01603,2025-04-09,April,STU0442,TOEFL,Intermediate,Linda,Bank Transfer,5000000,0,5000000,Paid,Inactive
+PAY01604,27/02/2025,February,STU0344,English,Beginner,Emily,Bank Transfer,750000,100000,650000,Paid,Actve
+PAY01605,"May 09, 2025",May,STU0380,English,Advanced,Michael,Transfer,5000000,100000,4900000,Paid,Actve
+PAY01606,2025-09-21,September,STU0304,Grammar,Intermediate,Linda, Cash ,500000,25000,475000,paid,active
+PAY01607,2025-04-28,April,STU0378,english,Beginner,Jhon,Transfer,700000,25000,675000,Paid,Actve
+PAY01608,2025/10/27,October,STU0476,ENG,Beginner,Jhon,Bank Transfer,500000,100000,400000,Paid,Actve
+PAY01609,"Apr 10, 2025",April,STU0017,English,Intermediate,Michael,Cash,700000,25000,675000,Unpaid,Actve
+PAY01610,03/08/2025,August,STU0310,IELTS,Advanced,,Transfer,700000,25000,675000,paid,Inactive
+PAY01611,2025/02/14,February,STU0111,ENG,Intermediate,David,Cash,5000000,100000,4900000,paid,Actve
+PAY01612,07/05/2025,May,STU0457,IELTS,Advanced,John,transfer,700000,100000,600000,Paid,Active
+PAY01613,2025-08-29,August,STU0415,Math,Intermediate, john ,Transfer,750000,-50000,800000,Paid,Active
+PAY01614,2025/12/21,December,STU0123,Math,Beginner, john , Cash ,650000,25000,625000,Unpaid,Inactive
+PAY01615,2025/12/27,December,STU0500,ENG,Intermediate,Michael,,5000000,,,paid,Actve
+PAY01616,"Apr 05, 2025",April,STU0441,Math,Intermediate,Emily,E-Wallet,750000,,,Paid,active
+PAY01617,"Aug 07, 2025",August,STU0107,Math,Advanced,Emily, Cash ,5000000,-50000,5050000,Paid,active
+PAY01618,2025-01-27,January,STU0021,Grammar,Intermediate,Michael, Cash ,750000,50000,700000,paid,Active
+PAY01619,15/10/2025,October,STU0059,ENG,Advanced,,,650000,50000,600000,paid,Inactive
+PAY01620,"Apr 26, 2025",April,STU0217,Speaking,Beginner,Sarah,Bank Transfer,700000,50000,650000,Unpaid,Actve
+PAY01621,2025-09-06,September,STU0423,Speaking,Intermediate,,Bank Transfer,750000,,,paid,Active
+PAY01622,2025/04/07,April,STU0092,Speaking,Beginner,Sarah,Transfer,500000,0,500000,Unpaid,Active
+PAY01623,23/12/2025,December,STU0267,English,Intermediate,Jhon, Cash ,750000,25000,725000,paid,Inactive
+PAY01624,"Aug 31, 2025",August,STU0011,Speaking,Beginner,Sarah,Cash,750000,100000,650000,Paid,active
+PAY01625,"Jul 30, 2025",July,STU0357,ENG,Intermediate,David,E-Wallet,700000,100000,600000,Paid,active
+PAY01626,"Mar 29, 2025",March,STU0148,English,Beginner,Emily,Bank Transfer,650000,100000,550000,Unpaid,Inactive
+PAY01627,13/11/2025,November,STU0090,IELTS,Beginner,Linda,Cash,5000000,50000,4950000,Paid,active
+PAY01628,22/10/2025,October,STU0106,English,Advanced,Emily,Bank Transfer,750000,50000,700000,Paid,active
+PAY01629,18/08/2025,August,STU0013,english,Intermediate,Michael,transfer,5000000,50000,4950000,Unpaid,Inactive
+PAY01630,"Jan 03, 2025",January,STU0497,IELTS,Advanced, john ,Bank Transfer,700000,100000,600000,paid,Active
+PAY01631,2025-09-03,September,STU0158,English,Intermediate,,,650000,,,Paid,Actve
+PAY01632,2025-07-02,July,STU0100,TOEFL,Intermediate,Linda,Cash,700000,0,700000,Paid,Actve
+PAY01633,2025-12-13,December,STU0163,English,Advanced,Emily,transfer,5000000,100000,4900000,Paid,Actve
+PAY01634,2025/07/09,July,STU0180,Speaking,Intermediate,SARAH,Cash,700000,0,700000,Paid,Actve
+PAY01635,2025/08/01,August,STU0497,english,Advanced,Jhon,Transfer,700000,25000,675000,paid,Active
+PAY01636,15/03/2025,March,STU0269,Grammar,Beginner,,,700000,100000,600000,Unpaid,Active
+PAY01637,2025/01/04,January,STU0237,IELTS,Beginner,Michael,,700000,100000,600000,Unpaid,active
+PAY01638,2025/10/11,October,STU0156,ENG,Advanced, john ,Transfer,500000,50000,450000,Paid,Active
+PAY01639,"Mar 20, 2025",March,STU0242,Math,Advanced,David,transfer,700000,,,Paid,Actve
+PAY01640,19/12/2025,December,STU0253,Math,Advanced,Emily,E-Wallet,500000,0,500000,Unpaid,Actve
+PAY01641,2025/05/13,May,STU0295,English,Intermediate,Michael,E-Wallet,500000,50000,450000,Paid,Inactive
+PAY01642,2025/06/13,June,STU0140,Grammar,Intermediate,Emily,Cash,650000,50000,600000,Unpaid,active
+PAY01643,2025-09-29,September,STU0094,Math,Advanced,Michael,E-Wallet,5000000,25000,4975000,Unpaid,active
+PAY01644,"Dec 17, 2025",December,STU0186,Math,Advanced,,Bank Transfer,700000,,,Paid,Active
+PAY01645,"Mar 12, 2025",March,STU0472,IELTS,Beginner,Linda,Transfer,700000,100000,600000,paid,Inactive
+PAY01646,2025-04-07,April,STU0060,IELTS,Beginner, john ,Bank Transfer,750000,100000,650000,Unpaid,active
+PAY01647,2025/03/13,March,STU0176,IELTS,Advanced,David,Cash,5000000,-50000,5050000,paid,Active
+PAY01648,24/04/2025,April,STU0065,TOEFL,Beginner,Sarah,transfer,650000,,,paid,Active
+PAY01649,2025-02-09,February,STU0056,English,Advanced,SARAH,E-Wallet,750000,100000,650000,Paid,Actve
+PAY01650,"Mar 02, 2025",March,STU0006,Math,Beginner,,Transfer,500000,0,500000,paid,Inactive
+PAY01651,"Apr 05, 2025",April,STU0383,Speaking,Advanced,Emily,Bank Transfer,500000,0,500000,Paid,Inactive
+PAY01652,2025-09-16,September,STU0271,TOEFL,Advanced,Linda,Bank Transfer,500000,-50000,550000,Paid,Active
+PAY01653,20/02/2025,February,STU0358,IELTS,Intermediate,Sarah,Transfer,5000000,,,Unpaid,Actve
+PAY01654,06/08/2025,August,STU0390,Grammar,Beginner, john ,Cash,5000000,25000,4975000,paid,Inactive
+PAY01655,"Sep 11, 2025",September,STU0043,Grammar,Intermediate,Sarah,transfer,700000,-50000,750000,Unpaid,Actve
+PAY01656,"Nov 04, 2025",November,STU0149,english,Beginner,Sarah,,750000,25000,725000,Unpaid,active
+PAY01657,2025-04-02,April,STU0225,Math,Beginner,Michael,transfer,750000,,,Unpaid,Active
+PAY01658,2025-03-28,March,STU0305,english,Beginner,Linda,,700000,25000,675000,Unpaid,Actve
+PAY01659,"May 23, 2025",May,STU0309,english,Intermediate,SARAH,Bank Transfer,750000,50000,700000,Paid,Actve
+PAY01660,2025-02-25,February,STU0322,IELTS,Beginner,Sarah, Cash ,700000,100000,600000,Paid,Active
+PAY01661,2025-09-13,September,STU0168,IELTS,Intermediate,,E-Wallet,650000,100000,550000,Paid,Active
+PAY01662,2025/12/05,December,STU0255,ENG,Advanced,David,E-Wallet,750000,25000,725000,Unpaid,Active
+PAY01663,2025/01/17,January,STU0437,english,Intermediate, john ,Cash,500000,100000,400000,Paid,Inactive
+PAY01664,"Oct 13, 2025",October,STU0160,english,Intermediate,Sarah,E-Wallet,650000,100000,550000,paid,Actve
+PAY01665,2025/12/04,December,STU0260,English,Intermediate,David,transfer,750000,-50000,800000,paid,Actve
+PAY01666,"Nov 12, 2025",November,STU0303,English,Beginner,Emily,Bank Transfer,700000,50000,650000,paid,Active
+PAY01667,"Nov 17, 2025",November,STU0183,english,Intermediate,John, Cash ,750000,0,750000,Paid,Inactive
+PAY01668,"May 01, 2025",May,STU0034,Speaking,Beginner,Emily,Transfer,5000000,0,5000000,Paid,active
+PAY01669,2025/01/20,January,STU0216,Speaking,Beginner, john ,E-Wallet,750000,-50000,800000,Paid,active
+PAY01670,2025/07/13,July,STU0251,Math,Advanced,Linda,Bank Transfer,700000,-50000,750000,Unpaid,active
+PAY01671,"Mar 27, 2025",March,STU0326,Math,Advanced,Linda,Bank Transfer,700000,100000,600000,Unpaid,Active
+PAY01672,2025/06/02,June,STU0048,Math,Advanced,Emily,Bank Transfer,650000,-50000,700000,Paid,Actve
+PAY01673,07/08/2025,August,STU0155,Speaking,Intermediate,SARAH,Bank Transfer,700000,0,700000,Paid,Actve
+PAY01674,"Jul 25, 2025",July,STU0391,IELTS,Beginner,SARAH,,5000000,-50000,5050000,Paid,Actve
+PAY01675,2025/04/20,April,STU0315,english,Advanced,John,E-Wallet,700000,,,Paid,active
+PAY01676,25/08/2025,August,STU0392,Speaking,Intermediate,Jhon,Bank Transfer,650000,25000,625000,Paid,Inactive
+PAY01677,"Jul 31, 2025",July,STU0352,TOEFL,Intermediate,Linda,Cash,700000,,,Paid,Inactive
+PAY01678,15/01/2025,January,STU0224,english,Advanced,John,Transfer,700000,100000,600000,Paid,active
+PAY01679,2025-03-11,March,STU0091,English,Advanced, john ,,700000,50000,650000,Paid,Active
+PAY01680,"Feb 12, 2025",February,STU0462,english,Intermediate,Sarah,transfer,5000000,50000,4950000,paid,Inactive
+PAY01681,2025-05-01,May,STU0062,Speaking,Intermediate,Sarah,Transfer,5000000,,,paid,Active
+PAY01682,"Jun 10, 2025",June,STU0384,TOEFL,Intermediate,Linda,Transfer,5000000,,,Paid,Inactive
+PAY01683,"Apr 20, 2025",April,STU0302,English,Intermediate,SARAH,Bank Transfer,750000,100000,650000,paid,Active
+PAY01684,2025/06/12,June,STU0143,IELTS,Intermediate, john , Cash ,750000,,,Unpaid,active
+PAY01685,2025-01-11,January,STU0344,TOEFL,Intermediate,SARAH,transfer,500000,,,Unpaid,active
+PAY01686,2025-12-17,December,STU0199,English,Intermediate,David,Bank Transfer,5000000,25000,4975000,Paid,Inactive
+PAY01687,02/06/2025,June,STU0451,english,Beginner,David,,650000,100000,550000,Paid,Actve
+PAY01688,2025/08/30,August,STU0471,Math,Beginner,David,E-Wallet,700000,,,Paid,active
+PAY01689,"Aug 04, 2025",August,STU0027,IELTS,Advanced, john ,,750000,,,paid,Inactive
+PAY01690,2025/01/02,January,STU0295,Math,Beginner,Michael,Transfer,650000,,,paid,Inactive
+PAY01691,2025/11/01,November,STU0377,IELTS,Intermediate,Michael, Cash ,700000,100000,600000,paid,active
+PAY01692,25/05/2025,May,STU0202,english,Advanced,Linda,Cash,500000,100000,400000,Paid,Inactive
+PAY01693,2025/02/15,February,STU0087,English,Intermediate,,transfer,650000,50000,600000,paid,active
+PAY01694,2025-03-18,March,STU0061,English,Advanced,SARAH,transfer,700000,25000,675000,Unpaid,Actve
+PAY01695,02/03/2025,March,STU0417,Speaking,Intermediate, john ,transfer,650000,25000,625000,Paid,Actve
+PAY01696,16/04/2025,April,STU0215,IELTS,Intermediate,Michael,Cash,700000,,,Unpaid,active
+PAY01697,2025/05/01,May,STU0332,ENG,Beginner,John,transfer,650000,50000,600000,Paid,active
+PAY01698,2025/12/21,December,STU0217,Speaking,Beginner,Sarah,E-Wallet,650000,,,Paid,Active
+PAY01699,20/06/2025,June,STU0481,English,Beginner,David,E-Wallet,750000,50000,700000,paid,Actve
+PAY01700,2025/06/04,June,STU0287,English,Advanced,Michael,Bank Transfer,700000,25000,675000,Paid,Actve
+PAY01701,2025/06/23,June,STU0272,english,Beginner,David,Cash,650000,0,650000,Unpaid,Active
+PAY01702,2025/03/07,March,STU0221,Speaking,Intermediate,,,700000,,,Unpaid,active
+PAY01703,12/08/2025,August,STU0392,IELTS,Advanced, john ,Cash,700000,,,Paid,Inactive
+PAY01704,28/01/2025,January,STU0084,ENG,Intermediate,Sarah,transfer,650000,0,650000,Paid,Actve
+PAY01705,2025/07/02,July,STU0369,IELTS,Beginner,Emily,Cash,750000,100000,650000,Paid,active
+PAY01706,03/04/2025,April,STU0340,TOEFL,Advanced,John,E-Wallet,5000000,50000,4950000,paid,Inactive
+PAY01707,2025-08-02,August,STU0455,Grammar,Beginner,David, Cash ,650000,100000,550000,paid,Active
+PAY01708,"Jul 21, 2025",July,STU0079,English,Beginner, john ,,5000000,0,5000000,paid,Actve
+PAY01709,"Aug 21, 2025",August,STU0497,English,Advanced,,transfer,5000000,,,Unpaid,Inactive
+PAY01710,2025-04-19,April,STU0381,Math,Advanced,,transfer,700000,50000,650000,Paid,Actve
+PAY01711,11/05/2025,May,STU0437,TOEFL,Beginner,Jhon,,650000,100000,550000,Unpaid,active
+PAY01712,28/11/2025,November,STU0222,Speaking,Advanced,,Transfer,500000,50000,450000,Unpaid,Active
+PAY01713,08/07/2025,July,STU0244,Speaking,Advanced,,transfer,750000,100000,650000,Paid,Actve
+PAY01714,08/07/2025,July,STU0021,Grammar,Intermediate,Linda, Cash ,750000,,,paid,Inactive
+PAY01715,2025-09-11,September,STU0465,ENG,Intermediate,Michael,Transfer,700000,100000,600000,paid,active
+PAY01716,2025/05/08,May,STU0040,English,Advanced,Sarah,E-Wallet,700000,-50000,750000,Unpaid,Actve
+PAY01717,2025/02/18,February,STU0300,Math,Advanced,John,Cash,5000000,50000,4950000,paid,Actve
+PAY01718,02/04/2025,April,STU0449,Speaking,Intermediate,, Cash ,750000,0,750000,Unpaid,Actve
+PAY01719,"Nov 16, 2025",November,STU0041,Speaking,Advanced,Sarah,transfer,700000,25000,675000,paid,Active
+PAY01720,2025/01/03,January,STU0245,ENG,Advanced,Jhon,,500000,0,500000,paid,Actve
+PAY01721,"Jun 05, 2025",June,STU0070,English,Beginner,Sarah,,750000,50000,700000,Paid,Inactive
+PAY01722,14/01/2025,January,STU0124,english,Advanced,SARAH,Transfer,750000,,,Paid,active
+PAY01723,26/08/2025,August,STU0086,IELTS,Advanced, john ,transfer,750000,100000,650000,Unpaid,Active
+PAY01724,19/08/2025,August,STU0427,english,Beginner,Emily,Cash,650000,50000,600000,Paid,Actve
+PAY01725,2025/08/01,August,STU0149,English,Intermediate,Jhon,transfer,5000000,-50000,5050000,paid,Actve
+PAY01726,2025-04-29,April,STU0162,Math,Intermediate,Jhon,transfer,5000000,0,5000000,Paid,Actve
+PAY01727,"Nov 15, 2025",November,STU0083,Speaking,Advanced,Linda,transfer,750000,,,Unpaid,Actve
+PAY01728,29/04/2025,April,STU0309,ENG,Beginner,David, Cash ,5000000,,,paid,Actve
+PAY01729,"Aug 02, 2025",August,STU0145,Math,Advanced, john ,Transfer,750000,25000,725000,Paid,Inactive
+PAY01730,2025/03/22,March,STU0253,Speaking,Beginner,Linda,E-Wallet,500000,100000,400000,Paid,Active
+PAY01731,"Jul 03, 2025",July,STU0424,English,Beginner,Emily,transfer,700000,,,Paid,Inactive
+PAY01732,03/03/2025,March,STU0402,Grammar,Beginner,SARAH,Bank Transfer,750000,50000,700000,Paid,Active
+PAY01733,2025-12-28,December,STU0387,Math,Beginner,,E-Wallet,750000,100000,650000,Paid,Active
+PAY01734,2025-09-17,September,STU0106,Grammar,Beginner,David, Cash ,650000,,,Unpaid,Actve
+PAY01735,20/02/2025,February,STU0063,TOEFL,Intermediate,Jhon,,700000,50000,650000,Paid,Inactive
+PAY01736,"Aug 31, 2025",August,STU0137,Grammar,Advanced,Jhon,Bank Transfer,700000,-50000,750000,paid,Inactive
+PAY01737,2025/03/19,March,STU0212,english,Intermediate,SARAH,,650000,25000,625000,paid,active
+PAY01738,2025/01/16,January,STU0265,Math,Beginner,Emily,Bank Transfer,650000,0,650000,Unpaid,Inactive
+PAY01739,2025-08-11,August,STU0329,IELTS,Advanced,John, Cash ,750000,0,750000,paid,active
+PAY01740,2025/08/03,August,STU0161,Grammar,Beginner,David,E-Wallet,5000000,50000,4950000,paid,Inactive
+PAY01741,2025/12/25,December,STU0279,ENG,Advanced,Emily,,750000,,,paid,Actve
+PAY01742,"Apr 12, 2025",April,STU0200,IELTS,Advanced,SARAH,Bank Transfer,500000,0,500000,Paid,Active
+PAY01743,"Sep 19, 2025",September,STU0082,English,Beginner,SARAH,E-Wallet,5000000,50000,4950000,Unpaid,Inactive
+PAY01744,2025/06/05,June,STU0431,Grammar,Intermediate,SARAH,Bank Transfer,5000000,0,5000000,Paid,Active
+PAY01745,2025-11-30,November,STU0003,ENG,Intermediate,Linda,,750000,50000,700000,paid,Inactive
+PAY01746,"Jun 29, 2025",June,STU0367,IELTS,Advanced,Jhon,E-Wallet,700000,,,paid,Inactive
+PAY01747,"Feb 23, 2025",February,STU0399,Grammar,Intermediate,Sarah,Transfer,5000000,-50000,5050000,paid,Actve
+PAY01748,2025-07-30,July,STU0067,ENG,Beginner, john ,Cash,500000,0,500000,Unpaid,Actve
+PAY01749,2025/10/29,October,STU0217,ENG,Advanced, john , Cash ,700000,-50000,750000,Unpaid,Inactive
+PAY01750,15/03/2025,March,STU0496,Math,Advanced,Linda,transfer,750000,,,Unpaid,Active
+PAY01751,"Mar 22, 2025",March,STU0057,Math,Intermediate,,Bank Transfer,500000,-50000,550000,Paid,Inactive
+PAY01752,"Mar 02, 2025",March,STU0249,English,Beginner,Michael,,700000,50000,650000,paid,Actve
+PAY01753,"Jan 25, 2025",January,STU0379,ENG,Beginner,Sarah,E-Wallet,700000,25000,675000,Unpaid,Active
+PAY01754,2025/01/23,January,STU0232,Grammar,Intermediate, john ,,750000,-50000,800000,paid,Inactive
+PAY01755,2025/03/12,March,STU0444,Grammar,Beginner,, Cash ,750000,,,paid,Actve
+PAY01756,18/07/2025,July,STU0491,ENG,Advanced,David, Cash ,750000,50000,700000,Paid,Inactive
+PAY01757,2025-12-29,December,STU0363,Speaking,Advanced,Sarah, Cash ,5000000,,,paid,Active
+PAY01758,2025-04-09,April,STU0244,English,Beginner,SARAH,Transfer,5000000,-50000,5050000,Paid,active
+PAY01759,16/04/2025,April,STU0274,Grammar,Intermediate,,Cash,5000000,100000,4900000,Unpaid,Active
+PAY01760,2025/06/24,June,STU0271,Grammar,Intermediate,David,Cash,650000,100000,550000,Paid,Active
+PAY01761,05/10/2025,October,STU0394,Math,Beginner,David,transfer,700000,25000,675000,paid,Inactive
+PAY01762,"Jan 31, 2025",January,STU0153,english,Beginner,Emily,Transfer,650000,0,650000,Unpaid,active
+PAY01763,2025/05/13,May,STU0386,TOEFL,Intermediate,SARAH,,500000,0,500000,paid,Actve
+PAY01764,"Feb 28, 2025",February,STU0209,Math,Intermediate,John,transfer,500000,50000,450000,paid,Inactive
+PAY01765,"Jan 10, 2025",January,STU0127,IELTS,Intermediate,,transfer,5000000,-50000,5050000,Unpaid,Active
+PAY01766,22/11/2025,November,STU0087,TOEFL,Advanced,Jhon,E-Wallet,650000,50000,600000,Unpaid,Active
+PAY01767,2025/01/01,January,STU0086,English,Beginner, john ,Bank Transfer,5000000,50000,4950000,paid,active
+PAY01768,2025/12/15,December,STU0431,Speaking,Beginner,Michael, Cash ,700000,,,paid,Active
+PAY01769,2025-06-03,June,STU0072,Speaking,Intermediate,Linda,E-Wallet,750000,,,paid,active
+PAY01770,"Dec 16, 2025",December,STU0126,Grammar,Intermediate,Linda,transfer,700000,,,paid,active
+PAY01771,09/01/2025,January,STU0462,English,Advanced,Michael,transfer,500000,-50000,550000,paid,Actve
+PAY01772,2025-07-21,July,STU0427,ENG,Advanced,Sarah,Bank Transfer,500000,-50000,550000,Unpaid,active
+PAY01773,18/07/2025,July,STU0480,TOEFL,Intermediate,John,Transfer,500000,0,500000,paid,Active
+PAY01774,"May 24, 2025",May,STU0321,Speaking,Advanced,Linda,Transfer,650000,0,650000,Unpaid,active
+PAY01775,"Jan 19, 2025",January,STU0108,English,Beginner,Jhon,Cash,750000,,,Unpaid,Actve
+PAY01776,29/03/2025,March,STU0290,IELTS,Beginner,,Transfer,5000000,,,paid,Active
+PAY01777,"Mar 07, 2025",March,STU0374,Speaking,Beginner,John, Cash ,5000000,25000,4975000,paid,active
+PAY01778,2025/12/15,December,STU0483,English,Intermediate,Jhon,,500000,100000,400000,Unpaid,active
+PAY01779,2025/03/04,March,STU0023,TOEFL,Beginner,David,transfer,750000,50000,700000,paid,Actve
+PAY01780,2025-06-11,June,STU0451,English,Advanced,Linda, Cash ,750000,25000,725000,Unpaid,Active
+PAY01781,08/05/2025,May,STU0321,Math,Beginner, john ,transfer,650000,50000,600000,Paid,active
+PAY01782,09/05/2025,May,STU0175,English,Intermediate,SARAH,,500000,100000,400000,Paid,Active
+PAY01783,2025/11/04,November,STU0064,Math,Beginner,John,transfer,500000,,,Unpaid,Active
+PAY01784,2025-03-07,March,STU0321,english,Beginner,Sarah, Cash ,750000,0,750000,Paid,Active
+PAY01785,2025/05/31,May,STU0211,TOEFL,Advanced,,Cash,750000,0,750000,Unpaid,Actve
+PAY01786,2025/08/26,August,STU0334,English,Intermediate,SARAH,Bank Transfer,5000000,-50000,5050000,paid,Inactive
+PAY01787,2025-02-25,February,STU0304,TOEFL,Advanced,Michael, Cash ,500000,-50000,550000,paid,active
+PAY01788,2025/07/01,July,STU0096,TOEFL,Beginner,John,Cash,750000,,,Paid,active
+PAY01789,2025/10/27,October,STU0160,IELTS,Beginner, john ,Bank Transfer,5000000,,,paid,active
+PAY01790,"May 30, 2025",May,STU0348,IELTS,Beginner,Linda,E-Wallet,500000,-50000,550000,paid,Active
+PAY01791,"Aug 05, 2025",August,STU0104,Math,Intermediate,Linda, Cash ,650000,25000,625000,Unpaid,Actve
+PAY01792,"Nov 04, 2025",November,STU0316,Speaking,Intermediate,Emily,Transfer,5000000,-50000,5050000,Paid,Actve
+PAY01793,2025/01/22,January,STU0355,TOEFL,Intermediate,,Transfer,650000,0,650000,Paid,Actve
+PAY01794,2025/06/19,June,STU0004,Grammar,Beginner,Sarah,Bank Transfer,650000,100000,550000,Paid,Active
+PAY01795,"Mar 14, 2025",March,STU0468,Grammar,Beginner,John,Transfer,750000,25000,725000,Paid,active
+PAY01796,31/03/2025,March,STU0434,TOEFL,Beginner,Linda,Cash,700000,,,Paid,active
+PAY01797,2025-02-21,February,STU0454,Math,Intermediate,Linda,Bank Transfer,650000,100000,550000,Unpaid,Inactive
+PAY01798,"Jul 09, 2025",July,STU0320,english,Advanced,Sarah,Cash,650000,-50000,700000,Paid,Inactive
+PAY01799,08/04/2025,April,STU0163,english,Advanced,Linda,Cash,5000000,100000,4900000,paid,Inactive
+PAY01800,"Oct 02, 2025",October,STU0323,Speaking,Beginner,SARAH,E-Wallet,650000,50000,600000,Unpaid,Inactive
+PAY01801,2025/02/11,February,STU0199,Grammar,Intermediate,SARAH,transfer,5000000,0,5000000,Paid,active
+PAY01802,"Dec 31, 2025",December,STU0490,ENG,Intermediate,David,E-Wallet,5000000,,,Unpaid,Active
+PAY01803,17/04/2025,April,STU0203,TOEFL,Intermediate,Jhon,transfer,650000,100000,550000,paid,Inactive
+PAY01804,"Jul 11, 2025",July,STU0044,Speaking,Intermediate,SARAH,Bank Transfer,5000000,0,5000000,Paid,Active
+PAY01805,"Aug 27, 2025",August,STU0210,Grammar,Intermediate,Emily,Bank Transfer,750000,100000,650000,Unpaid,Active
+PAY01806,2025/04/02,April,STU0184,Math,Intermediate,SARAH,E-Wallet,650000,50000,600000,paid,Active
+PAY01807,22/05/2025,May,STU0020,TOEFL,Intermediate,Linda, Cash ,500000,0,500000,Unpaid,active
+PAY01808,"Jun 04, 2025",June,STU0071,Speaking,Beginner,David,Bank Transfer,650000,,,Unpaid,Actve
+PAY01809,2025-07-27,July,STU0390,IELTS,Intermediate,Linda,Transfer,750000,,,paid,Inactive
+PAY01810,31/08/2025,August,STU0388,ENG,Advanced, john ,Bank Transfer,5000000,-50000,5050000,Paid,active
+PAY01811,2025/04/07,April,STU0437,English,Intermediate,Michael,E-Wallet,750000,25000,725000,Paid,active
+PAY01812,2025/01/05,January,STU0218,english,Advanced,SARAH,Bank Transfer,700000,50000,650000,Unpaid,Active
+PAY01813,2025-10-18,October,STU0170,english,Intermediate,Linda,transfer,650000,25000,625000,Paid,Actve
+PAY01814,2025/04/07,April,STU0232,Speaking,Beginner,Michael,Cash,500000,50000,450000,paid,Inactive
+PAY01815,2025/01/17,January,STU0467,english,Intermediate,Linda,Transfer,500000,25000,475000,Unpaid,Active
+PAY01816,2025-08-21,August,STU0168,english,Intermediate,Michael,Cash,700000,-50000,-750000,Paid,Actve
+PAY01817,2025-09-02,September,STU0106,Speaking,Intermediate, john ,Transfer,750000,25000,725000,paid,active
+PAY01818,28/10/2025,October,STU0142,TOEFL,Beginner,Michael,transfer,5000000,,,Paid,Actve
+PAY01819,06/11/2025,November,STU0451,ENG,Intermediate, john ,E-Wallet,5000000,50000,4950000,Paid,Active
+PAY01820,2025/05/28,May,STU0406,Speaking,Intermediate,,,700000,,,Paid,Actve
+PAY01821,08/05/2025,May,STU0197,IELTS,Advanced,,Cash,5000000,,,Unpaid,Active
+PAY01822,03/05/2025,May,STU0342,Math,Advanced,Linda,transfer,700000,,,Unpaid,Active
+PAY01823,2025-07-08,July,STU0167,english,Intermediate,Michael,Bank Transfer,500000,-50000,550000,Paid,Active
+PAY01824,2025-08-25,August,STU0384,ENG,Intermediate,Emily, Cash ,500000,,,Unpaid,Inactive
+PAY01825,2025-07-23,July,STU0470,IELTS,Intermediate, john ,transfer,500000,50000,450000,Unpaid,Active
+PAY01826,12/02/2025,February,STU0143,IELTS,Beginner,John,E-Wallet,750000,25000,725000,Paid,Inactive
+PAY01827,2025-05-31,May,STU0040,English,Advanced,David,Transfer,5000000,,,Unpaid,active
+PAY01828,02/04/2025,April,STU0227,English,Advanced,SARAH, Cash ,500000,,,paid,Active
+PAY01829,"Jul 19, 2025",July,STU0025,english,Beginner,Linda,Bank Transfer,750000,0,750000,Paid,Inactive
+PAY01830,2025-02-16,February,STU0173,TOEFL,Advanced,Sarah,Transfer,750000,0,750000,Paid,Inactive
+PAY01831,2025-03-27,March,STU0168,Grammar,Advanced,Linda,E-Wallet,750000,-50000,800000,Paid,Actve
+PAY01832,2025-08-08,August,STU0166,IELTS,Beginner,Jhon, Cash ,650000,25000,625000,Unpaid,Active
+PAY01833,19/07/2025,July,STU0418,Speaking,Advanced,,Bank Transfer,750000,25000,725000,Paid,Active
+PAY01834,2025/04/22,April,STU0053,IELTS,Intermediate,Sarah,E-Wallet,700000,-50000,750000,Unpaid,Actve
+PAY01835,14/12/2025,December,STU0453,Grammar,Advanced, john ,Cash,700000,25000,675000,Unpaid,Active
+PAY01836,2025/11/08,November,STU0120,English,Beginner,John,E-Wallet,750000,-50000,800000,Paid,active
+PAY01837,2025/05/02,May,STU0071,Grammar,Intermediate,David,Transfer,650000,-50000,700000,Paid,Actve
+PAY01838,2025-04-15,April,STU0485,ENG,Advanced,Emily,Transfer,650000,,,Unpaid,active
+PAY01839,2025-11-26,November,STU0148,English,Beginner,Emily,Bank Transfer,5000000,100000,4900000,Paid,Inactive
+PAY01840,2025-10-04,October,STU0114,english,Advanced,Emily,Transfer,650000,,,Unpaid,Active
+PAY01841,2025/02/03,February,STU0073,TOEFL,Beginner,Sarah,Transfer,500000,25000,475000,paid,Inactive
+PAY01842,2025-05-01,May,STU0085,TOEFL,Beginner,Jhon,Transfer,750000,,,paid,Inactive
+PAY01843,"Jun 05, 2025",June,STU0104,Speaking,Intermediate,Sarah,Bank Transfer,5000000,100000,4900000,Unpaid,Actve
+PAY01844,2025/03/27,March,STU0377,english,Beginner, john ,Cash,750000,100000,650000,Unpaid,Actve
+PAY01845,"Feb 12, 2025",February,STU0373,IELTS,Intermediate,Jhon,transfer,5000000,-50000,5050000,Unpaid,Actve
+PAY01846,2025/05/26,May,STU0171,IELTS,Advanced, john ,Transfer,5000000,-50000,5050000,Paid,Inactive
+PAY01847,2025-01-03,January,STU0252,english,Intermediate,Jhon, Cash ,5000000,,,Unpaid,Actve
+PAY01848,"Sep 08, 2025",September,STU0020,Math,Intermediate,,Transfer,5000000,0,5000000,Paid,Actve
+PAY01849,"May 11, 2025",May,STU0353,Grammar,Advanced,John, Cash ,5000000,,,Unpaid,Actve
+PAY01850,07/05/2025,May,STU0186,English,Advanced,Michael,Bank Transfer,750000,0,750000,paid,Actve
+PAY01851,15/12/2025,December,STU0488,IELTS,Beginner,Sarah,,700000,25000,675000,Paid,Actve
+PAY01852,2025-07-23,July,STU0085,english,Intermediate,David,E-Wallet,5000000,25000,4975000,paid,Actve
+PAY01853,"Oct 28, 2025",October,STU0056,Grammar,Beginner,David, Cash ,750000,,,Paid,Actve
+PAY01854,"Dec 24, 2025",December,STU0001,Math,Beginner,Jhon,E-Wallet,500000,25000,475000,Unpaid,active
+PAY01855,09/08/2025,August,STU0069,TOEFL,Intermediate,Michael,E-Wallet,650000,50000,600000,Paid,Actve
+PAY01856,18/10/2025,October,STU0094,TOEFL,Intermediate,Jhon,transfer,650000,25000,625000,paid,Active
+PAY01857,22/11/2025,November,STU0064,Speaking,Beginner,Emily,Cash,500000,50000,450000,paid,Inactive
+PAY01858,2025/09/02,September,STU0385,English,Advanced,,,500000,0,500000,Paid,Active
+PAY01859,2025-04-19,April,STU0493,Speaking,Intermediate, john ,,750000,-50000,800000,Unpaid,Actve
+PAY01860,"Jun 22, 2025",June,STU0482,Grammar,Advanced,Jhon,transfer,700000,50000,650000,paid,Active
+PAY01861,"Jul 02, 2025",July,STU0358,english,Advanced,Michael,Cash,500000,0,500000,paid,Active
+PAY01862,"Sep 29, 2025",September,STU0352,ENG,Advanced,Jhon, Cash ,650000,50000,600000,Paid,Active
+PAY01863,"Nov 23, 2025",November,STU0024,Grammar,Advanced, john ,Transfer,500000,,,paid,Actve
+PAY01864,2025-07-24,July,STU0483,ENG,Advanced,Sarah, Cash ,700000,100000,600000,Unpaid,active
+PAY01865,07/11/2025,November,STU0402,English,Beginner, john ,,650000,-50000,700000,Paid,active
+PAY01866,2025/12/11,December,STU0247,TOEFL,Beginner,Linda,Transfer,650000,100000,550000,paid,Active
+PAY01867,2025/02/24,February,STU0168,english,Intermediate,Linda, Cash ,500000,25000,475000,Unpaid,Actve
+PAY01868,2025-12-10,December,STU0252,Math,Advanced,Emily,,650000,-50000,700000,Paid,Active
+PAY01869,"Nov 26, 2025",November,STU0372,english,Advanced,SARAH,,750000,,,Unpaid,Inactive
+PAY01870,"Apr 25, 2025",April,STU0046,Grammar,Advanced,,Transfer,500000,50000,450000,paid,Active
+PAY01871,"Oct 21, 2025",October,STU0296,English,Intermediate,John,E-Wallet,650000,50000,600000,paid,Inactive
+PAY01872,2025/07/18,July,STU0479,IELTS,Advanced,,E-Wallet,700000,50000,650000,Paid,Active
+PAY01873,2025-07-22,July,STU0418,Speaking,Beginner, john , Cash ,5000000,100000,4900000,Unpaid,Inactive
+PAY01874,"Nov 04, 2025",November,STU0411,English,Advanced,Emily,Bank Transfer,650000,,,paid,Active
+PAY01875,2025/05/21,May,STU0495,english,Beginner,Emily,Transfer,650000,100000,550000,paid,Inactive
+PAY01876,2025-04-26,April,STU0154,IELTS,Beginner,SARAH,transfer,650000,100000,550000,Unpaid,Actve
+PAY01877,2025/12/14,December,STU0271,Speaking,Intermediate,Linda, Cash ,700000,100000,600000,paid,Actve
+PAY01878,19/02/2025,February,STU0028,Speaking,Intermediate,Michael,E-Wallet,700000,-50000,750000,Paid,Actve
+PAY01879,2025/12/23,December,STU0412,TOEFL,Advanced,John,Bank Transfer,700000,25000,675000,paid,Active
+PAY01880,14/12/2025,December,STU0087,English,Beginner,Emily,transfer,750000,100000,650000,Paid,Active
+PAY01881,"Mar 02, 2025",March,STU0322,english,Beginner,John,Cash,5000000,100000,4900000,Paid,Actve
+PAY01882,"Sep 08, 2025",September,STU0193,Math,Intermediate,Jhon,Bank Transfer,5000000,25000,4975000,paid,Actve
+PAY01883,2025-07-08,July,STU0251,TOEFL,Beginner,,E-Wallet,500000,0,500000,paid,Actve
+PAY01884,2025-05-21,May,STU0331,english,Intermediate,,Transfer,5000000,25000,4975000,Paid,active
+PAY01885,02/02/2025,February,STU0285,ENG,Beginner,SARAH,,750000,,,paid,Active
+PAY01886,2025-04-17,April,STU0003,ENG,Intermediate,Sarah,Cash,650000,-50000,700000,Paid,Inactive
+PAY01887,01/12/2025,December,STU0386,English,Beginner,Sarah,E-Wallet,500000,-50000,550000,Unpaid,active
+PAY01888,06/10/2025,October,STU0154,English,Advanced,David, Cash ,750000,,,paid,Actve
+PAY01889,2025/03/13,March,STU0181,TOEFL,Advanced,Sarah, Cash ,700000,-50000,750000,Paid,Inactive
+PAY01890,19/01/2025,January,STU0111,IELTS,Advanced,SARAH,Transfer,650000,50000,600000,paid,active
+PAY01891,23/05/2025,May,STU0131,Speaking,Intermediate,Michael,transfer,5000000,100000,4900000,Unpaid,Active
+PAY01892,2025/05/11,May,STU0323,Speaking,Advanced,Linda, Cash ,650000,-50000,700000,Unpaid,Inactive
+PAY01893,03/08/2025,August,STU0494,TOEFL,Beginner,David,Cash,700000,100000,600000,paid,Active
+PAY01894,2025/12/17,December,STU0186,Grammar,Intermediate,Michael,,500000,50000,450000,Paid,active
+PAY01895,2025-01-06,January,STU0054,Math,Beginner,SARAH, Cash ,750000,25000,725000,Unpaid,Actve
+PAY01896,"Feb 18, 2025",February,STU0312,Math,Beginner,Michael,Bank Transfer,5000000,50000,4950000,Unpaid,Inactive
+PAY01897,2025/06/26,June,STU0005,IELTS,Advanced,Michael,Transfer,750000,-50000,800000,Unpaid,active
+PAY01898,"Jan 28, 2025",January,STU0362,ENG,Beginner, john ,Bank Transfer,650000,,,Unpaid,active
+PAY01899,2025/05/22,May,STU0417,TOEFL,Intermediate,Sarah,Bank Transfer,5000000,,,Unpaid,active
+PAY01900,2025-02-16,February,STU0048,IELTS,Advanced,John,Cash,500000,,,paid,active
+PAY01901,2025/10/11,October,STU0478,IELTS,Intermediate, john ,E-Wallet,500000,100000,400000,paid,Active
+PAY01902,2025-07-27,July,STU0382,English,Advanced,Jhon, Cash ,5000000,25000,4975000,paid,active
+PAY01903,2025-05-06,May,STU0346,TOEFL,Beginner,Sarah,Bank Transfer,5000000,100000,4900000,Paid,active
+PAY01904,2025/01/27,January,STU0497,Math,Intermediate,Linda,,750000,100000,650000,paid,Active
+PAY01905,"May 29, 2025",May,STU0002,english,Beginner,David, Cash ,750000,50000,700000,paid,Active
+PAY01906,2025/08/26,August,STU0236,Grammar,Intermediate,Emily,Cash,500000,50000,-450000,Paid,active
+PAY01907,2025/04/06,April,STU0252,TOEFL,Beginner,SARAH,E-Wallet,700000,0,700000,Paid,Actve
+PAY01908,2025/03/05,March,STU0129,TOEFL,Intermediate,Jhon,Bank Transfer,500000,25000,475000,Unpaid,active
+PAY01909,08/08/2025,August,STU0225,ENG,Beginner,Michael,Bank Transfer,5000000,50000,4950000,paid,Actve
+PAY01910,"Jan 03, 2025",January,STU0021,IELTS,Intermediate,Jhon, Cash ,650000,0,650000,Unpaid,Active
+PAY01911,24/03/2025,March,STU0061,english,Intermediate,SARAH,transfer,750000,,,paid,Inactive
+PAY01912,2025/06/16,June,STU0432,english,Beginner,Sarah,Cash,5000000,,,Paid,Inactive
+PAY01913,"Mar 21, 2025",March,STU0122,English,Advanced,Emily,transfer,5000000,0,5000000,paid,Active
+PAY01914,2025/08/11,August,STU0390,english,Beginner,,Transfer,700000,50000,650000,paid,Inactive
+PAY01915,"May 08, 2025",May,STU0127,english,Beginner, john , Cash ,500000,50000,450000,Paid,Inactive
+PAY01916,07/04/2025,April,STU0020,Speaking,Beginner,Michael,transfer,650000,0,650000,Paid,Inactive
+PAY01917,2025-02-16,February,STU0359,TOEFL,Beginner,Emily,transfer,750000,100000,650000,Unpaid,Active
+PAY01918,2025/09/19,September,STU0187,Speaking,Intermediate,Jhon,Transfer,500000,50000,450000,Unpaid,Active
+PAY01919,2025-04-04,April,STU0165,TOEFL,Intermediate, john ,Bank Transfer,500000,0,500000,paid,Active
+PAY01920,09/08/2025,August,STU0156,Math,Beginner,John, Cash ,700000,100000,600000,paid,Inactive
+PAY01921,"Jun 19, 2025",June,STU0271,Grammar,Beginner,David,Transfer,700000,,,paid,Actve
+PAY01922,2025-02-14,February,STU0062,English,Advanced,Linda,Transfer,650000,,,paid,Actve
+PAY01923,2025-02-20,February,STU0372,ENG,Beginner,SARAH, Cash ,5000000,-50000,5050000,Paid,Active
+PAY01924,07/03/2025,March,STU0457,Grammar,Intermediate, john , Cash ,750000,-50000,800000,paid,Active
+PAY01925,2025-08-12,August,STU0488,English,Beginner,,Bank Transfer,750000,100000,650000,paid,Inactive
+PAY01926,2025-05-29,May,STU0356,TOEFL,Advanced,Jhon,transfer,5000000,0,5000000,paid,Active
+PAY01927,2025/03/26,March,STU0200,english,Advanced,David,Transfer,5000000,100000,4900000,Paid,Active
+PAY01928,23/03/2025,March,STU0476,ENG,Advanced,SARAH,Bank Transfer,5000000,,,Unpaid,Inactive
+PAY01929,"Jun 01, 2025",June,STU0024,TOEFL,Intermediate,John, Cash ,5000000,0,5000000,Paid,active
+PAY01930,"Mar 10, 2025",March,STU0422,TOEFL,Advanced,Sarah,Cash,500000,,,paid,active
+PAY01931,"Nov 20, 2025",November,STU0453,Speaking,Advanced,Michael,transfer,700000,0,700000,paid,active
+PAY01932,2025-06-16,June,STU0495,Speaking,Beginner,David,Cash,500000,50000,450000,paid,Active
+PAY01933,2025/12/19,December,STU0283,TOEFL,Intermediate,Linda,Bank Transfer,700000,,,Unpaid,Inactive
+PAY01934,2025/10/25,October,STU0372,english,Intermediate,Michael,transfer,650000,100000,550000,Paid,Actve
+PAY01935,2025/04/03,April,STU0252,IELTS,Advanced,David,Cash,650000,25000,625000,Unpaid,Inactive
+PAY01936,2025/04/01,April,STU0037,english,Beginner, john , Cash ,5000000,25000,4975000,Unpaid,Active
+PAY01937,27/09/2025,September,STU0197,English,Beginner,John,,500000,-50000,550000,paid,Active
+PAY01938,09/03/2025,March,STU0322,English,Beginner,Sarah,E-Wallet,500000,50000,450000,paid,active
+PAY01939,2025-12-29,December,STU0289,ENG,Beginner,David,Bank Transfer,650000,25000,625000,Unpaid,Inactive
+PAY01940,2025-05-05,May,STU0279,Math,Beginner,John,Cash,5000000,,,paid,active
+PAY01941,2025/02/22,February,STU0013,TOEFL,Intermediate,Jhon,Transfer,650000,0,650000,Unpaid,active
+PAY01942,2025/04/26,April,STU0057,TOEFL,Beginner,David,Bank Transfer,500000,100000,400000,Paid,active
+PAY01943,"Mar 02, 2025",March,STU0092,english,Advanced,Emily,E-Wallet,500000,0,500000,Paid,Actve
+PAY01944,"Mar 18, 2025",March,STU0054,Speaking,Intermediate,Emily,Bank Transfer,5000000,50000,4950000,paid,Active
+PAY01945,02/01/2025,January,STU0229,ENG,Beginner,Sarah,E-Wallet,650000,50000,600000,Unpaid,active
+PAY01946,2025-03-16,March,STU0198,Grammar,Intermediate, john ,transfer,700000,25000,675000,Unpaid,Actve
+PAY01947,"Nov 05, 2025",November,STU0197,english,Advanced, john ,E-Wallet,650000,,,paid,Actve
+PAY01948,30/09/2025,September,STU0216,TOEFL,Advanced,Sarah,Transfer,750000,0,750000,Unpaid,Active
+PAY01949,2025-04-15,April,STU0069,Math,Beginner,Emily,Bank Transfer,700000,-50000,750000,Paid,active
+PAY01950,24/08/2025,August,STU0424,TOEFL,Beginner,Michael,Cash,5000000,100000,4900000,paid,Inactive
+PAY01951,2025-07-13,July,STU0055,Math,Intermediate,,,750000,50000,700000,Paid,Active
+PAY01952,"Mar 17, 2025",March,STU0007,english,Beginner,Michael,transfer,650000,0,650000,paid,Inactive
+PAY01953,"Sep 28, 2025",September,STU0228,English,Intermediate,Sarah,Transfer,750000,100000,650000,Paid,Active
+PAY01954,06/11/2025,November,STU0427,english,Advanced, john ,E-Wallet,5000000,25000,-4975000,paid,active
+PAY01955,"Oct 20, 2025",October,STU0140,Math,Advanced,Jhon,Transfer,650000,100000,550000,paid,Inactive
+PAY01956,2025-07-25,July,STU0382,Math,Advanced, john ,transfer,650000,100000,550000,Unpaid,Actve
+PAY01957,14/07/2025,July,STU0100,Speaking,Beginner,Sarah,Cash,500000,50000,450000,Unpaid,active
+PAY01958,15/01/2025,January,STU0034,TOEFL,Advanced,John,,700000,25000,675000,Unpaid,Inactive
+PAY01959,10/10/2025,October,STU0292,English,Advanced, john ,Cash,500000,25000,475000,Paid,active
+PAY01960,"Feb 17, 2025",February,STU0491,english,Advanced,Linda,Bank Transfer,500000,50000,450000,Unpaid,active
+PAY01961,2025-03-08,March,STU0258,Math,Advanced,Michael,Cash,700000,100000,600000,paid,Actve
+PAY01962,2025-09-02,September,STU0238,Math,Advanced,Sarah, Cash ,700000,25000,675000,Paid,Inactive
+PAY01963,15/12/2025,December,STU0374,Grammar,Intermediate,Michael,Bank Transfer,650000,-50000,700000,Unpaid,active
+PAY01964,2025/11/16,November,STU0199,TOEFL,Beginner,,E-Wallet,500000,,,Paid,Inactive
+PAY01965,2025/10/18,October,STU0446,Speaking,Advanced,Sarah,transfer,500000,0,500000,Paid,Actve
+PAY01966,10/06/2025,June,STU0296,Grammar,Intermediate,Sarah,Cash,700000,25000,675000,Paid,Actve
+PAY01967,2025/05/13,May,STU0072,Math,Advanced, john ,Cash,700000,100000,600000,Unpaid,active
+PAY01968,2025/07/25,July,STU0188,Grammar,Intermediate,Sarah, Cash ,5000000,,,Unpaid,Actve
+PAY01969,2025-05-15,May,STU0405,TOEFL,Advanced,SARAH,Cash,5000000,,,Paid,Active
+PAY01970,2025/05/29,May,STU0038,TOEFL,Intermediate, john , Cash ,650000,-50000,700000,Paid,active
+PAY01971,2025/08/27,August,STU0093,Math,Intermediate,Jhon,Transfer,5000000,100000,4900000,Unpaid,active
+PAY01972,"Feb 03, 2025",February,STU0360,ENG,Beginner,David,transfer,700000,-50000,750000,Paid,Inactive
+PAY01973,29/08/2025,August,STU0308,english,Beginner,Emily,,650000,50000,600000,Unpaid,Actve
+PAY01974,2025-04-20,April,STU0351,english,Intermediate,David, Cash ,650000,0,650000,Paid,Active
+PAY01975,2025-03-14,March,STU0448,ENG,Intermediate,SARAH,Transfer,700000,100000,600000,paid,active
+PAY01976,2025-04-05,April,STU0386,Speaking,Beginner,Linda,Bank Transfer,500000,100000,400000,Unpaid,Actve
+PAY01977,01/09/2025,September,STU0293,english,Beginner,SARAH,,750000,50000,700000,paid,Inactive
+PAY01978,09/02/2025,February,STU0481,Grammar,Beginner,Michael,transfer,700000,,,Paid,Actve
+PAY01979,2025-06-12,June,STU0002,ENG,Beginner, john , Cash ,750000,50000,700000,paid,Active
+PAY01980,19/01/2025,January,STU0397,IELTS,Advanced,Jhon,Transfer,650000,100000,550000,Unpaid,Inactive
+PAY01981,2025-04-08,April,STU0460,Speaking,Advanced,Sarah, Cash ,700000,50000,-650000,Unpaid,Actve
+PAY01982,2025/07/31,July,STU0219,Grammar,Beginner,Michael,transfer,700000,50000,650000,Unpaid,active
+PAY01983,01/04/2025,April,STU0433,english,Advanced,David, Cash ,5000000,100000,4900000,paid,Active
+PAY01984,2025-02-14,February,STU0478,english,Beginner, john , Cash ,500000,,,paid,Active
+PAY01985,2025/11/21,November,STU0342,Speaking,Intermediate,Linda,Transfer,5000000,-50000,5050000,Unpaid,Actve
+PAY01986,28/02/2025,February,STU0407,ENG,Intermediate,Jhon,Cash,750000,0,750000,Unpaid,Inactive
+PAY01987,"Sep 17, 2025",September,STU0430,english,Advanced,Linda,Cash,700000,,,Unpaid,Active
+PAY01988,2025-01-08,January,STU0266,Grammar,Intermediate,Michael,E-Wallet,650000,50000,600000,Unpaid,Inactive
+PAY01989,2025/10/12,October,STU0425,English,Advanced,Jhon,Transfer,650000,-50000,700000,paid,Actve
+PAY01990,2025/03/30,March,STU0119,Math,Advanced,Michael,E-Wallet,700000,-50000,750000,Paid,Actve
+PAY01991,"Nov 18, 2025",November,STU0105,Math,Beginner,John,transfer,5000000,25000,4975000,Paid,Inactive
+PAY01992,2025-01-15,January,STU0376,IELTS,Intermediate,Emily,Transfer,5000000,100000,4900000,Paid,Inactive
+PAY01993,02/06/2025,June,STU0414,english,Intermediate,John,Bank Transfer,5000000,25000,4975000,Paid,Inactive
+PAY01994,2025-11-18,November,STU0475,Math,Beginner,Michael,Bank Transfer,5000000,0,5000000,Unpaid,Inactive
+PAY01995,2025-02-17,February,STU0107,english,Beginner, john ,,750000,50000,700000,Paid,Actve
+PAY01996,2025/02/07,February,STU0193,Grammar,Advanced, john ,,500000,25000,475000,Paid,Inactive
+PAY01997,2025-06-02,June,STU0311,English,Beginner,Emily,Bank Transfer,650000,,,Unpaid,Active
+PAY01998,"Mar 23, 2025",March,STU0275,English,Advanced,SARAH,,500000,25000,475000,Paid,Inactive
+PAY01999,2025-07-06,July,STU0113,Math,Advanced,Michael,Bank Transfer,650000,0,650000,Unpaid,Actve
+PAY02000,2025-04-13,April,STU0151,ENG,Advanced, john ,transfer,700000,,,paid,Actve
+PAY02001,"Apr 09, 2025",April,STU0455,Speaking,Intermediate,Sarah,E-Wallet,650000,25000,625000,paid,active
+PAY02002,26/03/2025,March,STU0217,Speaking,Intermediate,,Cash,750000,100000,650000,paid,Actve
+PAY02003,08/08/2025,August,STU0324,Math,Intermediate,Michael,Cash,5000000,50000,4950000,paid,active
+PAY02004,2025/10/28,October,STU0331,Grammar,Intermediate,John,Cash,700000,-50000,750000,Paid,active
+PAY02005,08/08/2025,August,STU0337,Grammar,Intermediate,Michael,,700000,25000,675000,Unpaid,Active
+PAY02006,"Jan 05, 2025",January,STU0239,Grammar,Beginner,SARAH,Cash,500000,,,Unpaid,active
+PAY02007,05/11/2025,November,STU0143,Math,Advanced,Jhon, Cash ,5000000,25000,4975000,Unpaid,active
+PAY02008,13/06/2025,June,STU0256,English,Intermediate,Jhon,Cash,650000,0,650000,Paid,Actve
+PAY02009,"Mar 29, 2025",March,STU0011,Speaking,Beginner,,Cash,5000000,100000,4900000,Unpaid,active
+PAY02010,2025/03/09,March,STU0021,Grammar,Advanced,John,Cash,500000,-50000,550000,Unpaid,Active
+PAY02011,"Aug 01, 2025",August,STU0205,Math,Advanced,Emily,transfer,700000,50000,650000,paid,Active
+PAY02012,"Jul 21, 2025",July,STU0496,Math,Intermediate,,Cash,750000,100000,650000,Paid,Inactive
+PAY02013,2025-01-25,January,STU0442,english,Beginner,Michael,Cash,650000,0,650000,Paid,active
+PAY02014,2025-10-03,October,STU0023,Math,Beginner,David,Cash,500000,50000,450000,Unpaid,active
+PAY02015,2025/12/19,December,STU0071,ENG,Beginner,Michael,Bank Transfer,700000,,,Paid,Actve
+PAY02016,2025/11/23,November,STU0296,ENG,Advanced, john ,Bank Transfer,500000,-50000,550000,Unpaid,Actve
+PAY02017,2025-04-26,April,STU0181,TOEFL,Advanced,Linda, Cash ,700000,50000,650000,Paid,Active
+PAY02018,2025-09-11,September,STU0240,english,Beginner, john ,Cash,650000,0,650000,Unpaid,Inactive
+PAY02019,"Oct 30, 2025",October,STU0079,Math,Beginner,Linda,Bank Transfer,700000,,,Unpaid,Actve
+PAY02020,14/11/2025,November,STU0217,IELTS,Advanced,David,,750000,25000,725000,paid,Active
+PAY02021,2025/03/17,March,STU0009,ENG,Beginner,David,Cash,500000,,,Unpaid,Actve
+PAY02022,"Jun 30, 2025",June,STU0221,TOEFL,Beginner,Jhon,E-Wallet,500000,-50000,550000,Unpaid,active
+PAY02023,2025/01/28,January,STU0333,english,Advanced,Jhon,Transfer,700000,50000,650000,Unpaid,Inactive
+PAY02024,26/07/2025,July,STU0253,english,Beginner,John, Cash ,5000000,50000,4950000,Paid,Active
+PAY02025,2025-04-23,April,STU0123,Math,Advanced,Sarah,Bank Transfer,500000,0,500000,Paid,Actve
+PAY02026,2025/07/20,July,STU0451,Speaking,Intermediate,Linda,Transfer,500000,25000,475000,Paid,active
+PAY02027,"Nov 23, 2025",November,STU0049,IELTS,Advanced,,transfer,5000000,50000,4950000,paid,active
+PAY02028,19/12/2025,December,STU0086,IELTS,Intermediate, john ,Transfer,650000,50000,600000,Paid,Actve
+PAY02029,"Aug 08, 2025",August,STU0452,Math,Beginner,John,E-Wallet,500000,25000,475000,Unpaid,Actve
+PAY02030,2025-10-26,October,STU0024,English,Advanced,David,,750000,25000,725000,Paid,Inactive
+PAY02031,2025-03-17,March,STU0172,ENG,Intermediate,Emily,E-Wallet,500000,50000,450000,Unpaid,Actve
+PAY02032,"May 10, 2025",May,STU0155,Grammar,Advanced,,transfer,750000,0,750000,Paid,active
+PAY02033,2025-12-18,December,STU0338,IELTS,Intermediate, john ,Cash,650000,100000,550000,Paid,Actve
+PAY02034,04/07/2025,July,STU0194,Math,Intermediate,SARAH,transfer,500000,25000,475000,paid,Inactive
+PAY02035,"May 16, 2025",May,STU0484,Speaking,Intermediate,Linda,Cash,700000,100000,600000,paid,active
+PAY02036,2025-11-10,November,STU0406,Grammar,Intermediate,Sarah,Cash,750000,100000,650000,Unpaid,Inactive
+PAY02037,27/08/2025,August,STU0341,IELTS,Intermediate, john ,Bank Transfer,5000000,50000,4950000,Paid,active
+PAY02038,2025/01/08,January,STU0304,Math,Beginner, john ,Bank Transfer,500000,25000,475000,Paid,Actve
+PAY02039,2025-06-30,June,STU0450,Speaking,Advanced,SARAH,Transfer,500000,50000,450000,Paid,active
+PAY02040,15/03/2025,March,STU0149,TOEFL,Beginner, john ,Bank Transfer,750000,-50000,800000,Paid,Actve
+PAY02041,2025/08/05,August,STU0306,Speaking,Beginner,,transfer,500000,50000,450000,paid,active
+PAY02042,24/10/2025,October,STU0284,TOEFL,Intermediate,David,Cash,650000,50000,600000,Unpaid,Actve
+PAY02043,07/10/2025,October,STU0270,ENG,Advanced,Emily,E-Wallet,750000,100000,650000,paid,active
+PAY02044,"Aug 28, 2025",August,STU0211,ENG,Beginner,SARAH,Cash,750000,100000,650000,Unpaid,Active
+PAY02045,"Mar 13, 2025",March,STU0066,Speaking,Beginner,Jhon,Transfer,650000,-50000,700000,Unpaid,Active
+PAY02046,2025/08/25,August,STU0425,Math,Intermediate,,Cash,500000,0,500000,Unpaid,Actve
+PAY02047,"Dec 20, 2025",December,STU0346,English,Advanced,Linda,E-Wallet,500000,0,500000,Paid,Actve
+PAY02048,11/03/2025,March,STU0369,English,Intermediate,, Cash ,650000,50000,600000,Paid,Active
+PAY02049,2025-02-04,February,STU0267,Math,Beginner,Linda,Cash,650000,-50000,700000,Unpaid,Active
+PAY02050,2025/09/16,September,STU0154,english,Intermediate,Michael,,750000,0,750000,Paid,active
+PAY02051,2025/11/10,November,STU0326,English,Beginner,Michael,,5000000,0,5000000,paid,Inactive
+PAY02052,29/03/2025,March,STU0342,Math,Advanced, john ,Bank Transfer,750000,100000,650000,paid,active
+PAY02053,2025/07/20,July,STU0218,IELTS,Beginner,David,transfer,500000,100000,400000,Paid,Actve
+PAY02054,"Jan 06, 2025",January,STU0337,ENG,Beginner,Emily,Transfer,500000,,,Unpaid,Actve
+PAY02055,2025-05-22,May,STU0441,TOEFL,Intermediate,SARAH,transfer,650000,50000,600000,paid,Active
+PAY02056,31/03/2025,March,STU0174,ENG,Advanced,Michael,Bank Transfer,700000,,,paid,active
+PAY02057,2025-07-21,July,STU0311,IELTS,Advanced,SARAH,,750000,100000,650000,paid,active
+PAY02058,"Mar 08, 2025",March,STU0317,english,Beginner,John,Cash,5000000,-50000,5050000,paid,Inactive
+PAY02059,2025-04-29,April,STU0244,Grammar,Beginner,Linda,Cash,500000,100000,400000,Paid,Actve
+PAY02060,2025-08-04,August,STU0020,Math,Intermediate,Emily,E-Wallet,500000,-50000,550000,paid,Active
+PAY02061,"Mar 31, 2025",March,STU0069,TOEFL,Beginner,David,transfer,500000,,,Unpaid,active
+PAY02062,26/04/2025,April,STU0415,TOEFL,Beginner,,Cash,650000,100000,550000,paid,Active
+PAY02063,2025-04-15,April,STU0209,Math,Intermediate,Michael, Cash ,650000,0,650000,paid,Actve
+PAY02064,08/04/2025,April,STU0183,IELTS,Beginner, john ,transfer,5000000,100000,4900000,paid,Actve
+PAY02065,2025-02-06,February,STU0061,ENG,Beginner,John,E-Wallet,650000,-50000,700000,paid,active
+PAY02066,12/01/2025,January,STU0184,Math,Beginner,David,Cash,700000,50000,650000,paid,Inactive
+PAY02067,"Sep 23, 2025",September,STU0358,Math,Advanced, john ,Bank Transfer,750000,-50000,800000,paid,Active
+PAY02068,"Jan 17, 2025",January,STU0455,English,Beginner,Linda,E-Wallet,750000,50000,700000,paid,active
+PAY02069,2025-12-06,December,STU0486,English,Intermediate,Sarah,transfer,650000,100000,550000,paid,Active
+PAY02070,2025/10/10,October,STU0054,English,Intermediate,SARAH,Transfer,650000,50000,600000,paid,active
+PAY02071,2025/08/09,August,STU0029,English,Beginner,SARAH,E-Wallet,700000,25000,675000,Unpaid,Active
+PAY02072,2025/10/10,October,STU0357,IELTS,Intermediate,Jhon,E-Wallet,500000,100000,400000,Paid,Active
+PAY02073,2025-08-13,August,STU0176,english,Beginner,Linda,Transfer,5000000,50000,4950000,Paid,Active
+PAY02074,2025/04/27,April,STU0411,English,Advanced,Linda,,5000000,-50000,5050000,Paid,Active
+PAY02075,30/01/2025,January,STU0161,Grammar,Advanced,Linda,Bank Transfer,750000,25000,725000,Paid,Actve
+PAY02076,2025-09-03,September,STU0279,TOEFL,Intermediate,Emily,,500000,0,500000,Paid,Actve
+PAY02077,"Jun 04, 2025",June,STU0126,Speaking,Intermediate,SARAH,E-Wallet,5000000,50000,4950000,Paid,Active
+PAY02078,2025/06/27,June,STU0105,IELTS,Advanced,Linda,Bank Transfer,5000000,100000,4900000,paid,Inactive
+PAY02079,"Mar 04, 2025",March,STU0358,ENG,Advanced, john ,Cash,650000,0,650000,Paid,Actve
+PAY02080,"Jan 18, 2025",January,STU0424,Math,Beginner,David,,700000,-50000,750000,paid,Actve
+PAY02081,2025-09-11,September,STU0115,TOEFL,Intermediate,Michael, Cash ,750000,100000,650000,Unpaid,Active
+PAY02082,"Dec 05, 2025",December,STU0480,English,Advanced,Emily,,500000,-50000,550000,Unpaid,Inactive
+PAY02083,"Jan 15, 2025",January,STU0401,English,Beginner,SARAH,transfer,5000000,100000,4900000,paid,active
+PAY02084,2025/10/01,October,STU0394,Speaking,Beginner,Jhon,transfer,750000,-50000,800000,paid,Inactive
+PAY02085,2025-03-09,March,STU0044,TOEFL,Advanced,David,Bank Transfer,700000,,,paid,Actve
+PAY02086,"Jan 20, 2025",January,STU0401,English,Beginner,David,E-Wallet,700000,50000,650000,paid,active
+PAY02087,16/05/2025,May,STU0005,ENG,Beginner,Emily,transfer,750000,100000,-650000,paid,Inactive
+PAY02088,2025-07-29,July,STU0313,Grammar,Beginner, john ,Transfer,5000000,0,5000000,Unpaid,active
+PAY02089,2025/05/13,May,STU0076,English,Beginner,Sarah, Cash ,650000,25000,625000,Paid,Inactive
+PAY02090,2025/12/17,December,STU0368,TOEFL,Beginner,David,Bank Transfer,5000000,50000,4950000,Paid,active
+PAY02091,2025-10-04,October,STU0040,ENG,Beginner,SARAH,Cash,5000000,25000,4975000,Paid,Inactive
+PAY02092,"Jun 16, 2025",June,STU0449,Speaking,Beginner,John,Bank Transfer,750000,0,750000,paid,active
+PAY02093,2025/06/21,June,STU0151,English,Beginner,Emily,Cash,700000,100000,600000,Unpaid,Inactive
+PAY02094,2025-10-30,October,STU0161,Grammar,Beginner,Jhon,,500000,-50000,550000,paid,Active
+PAY02095,03/12/2025,December,STU0040,TOEFL,Advanced,SARAH,E-Wallet,750000,,,paid,Actve
+PAY02096,2025-10-03,October,STU0338,ENG,Intermediate,David,Transfer,5000000,0,5000000,paid,active
+PAY02097,"May 05, 2025",May,STU0162,Math,Advanced,Linda,transfer,650000,50000,600000,paid,Actve
+PAY02098,2025-07-05,July,STU0469,Grammar,Advanced, john ,E-Wallet,700000,-50000,750000,Paid,Actve
+PAY02099,03/08/2025,August,STU0126,english,Advanced,, Cash ,5000000,25000,4975000,Paid,active
+PAY02100,"May 27, 2025",May,STU0216,IELTS,Advanced, john , Cash ,700000,0,700000,Paid,Inactive
+PAY02101,2025-08-21,August,STU0392,ENG,Advanced,Sarah,Transfer,650000,0,650000,Paid,Actve
+PAY02102,13/01/2025,January,STU0272,english,Intermediate,Emily,Transfer,500000,25000,475000,Unpaid,Inactive
+PAY02103,"Dec 31, 2025",December,STU0460,Grammar,Advanced,,E-Wallet,500000,50000,450000,Paid,Active
+PAY02104,"Feb 07, 2025",February,STU0380,english,Intermediate, john , Cash ,750000,100000,650000,Paid,Inactive
+PAY02105,2025-10-29,October,STU0190,ENG,Intermediate,Emily,transfer,650000,0,650000,Paid,active
+PAY02106,19/02/2025,February,STU0289,english,Intermediate,Emily,transfer,700000,100000,600000,Unpaid,Inactive
+PAY02107,2025-03-15,March,STU0295,Grammar,Beginner,Emily,Bank Transfer,650000,100000,550000,Paid,Active
+PAY02108,"May 28, 2025",May,STU0087,Speaking,Intermediate,,,750000,100000,650000,Paid,Inactive
+PAY02109,"Dec 08, 2025",December,STU0430,IELTS,Beginner,,Cash,650000,0,650000,paid,Inactive
+PAY02110,2025/01/04,January,STU0483,english,Advanced, john ,E-Wallet,500000,50000,450000,Paid,Actve
+PAY02111,2025-06-01,June,STU0253,Speaking,Beginner,Michael,Bank Transfer,500000,100000,400000,paid,Active
+PAY02112,2025-07-01,July,STU0081,Grammar,Intermediate, john , Cash ,650000,,,paid,Active
+PAY02113,"Dec 28, 2025",December,STU0362,Grammar,Beginner,SARAH, Cash ,500000,100000,400000,paid,Active
+PAY02114,2025-11-21,November,STU0447,TOEFL,Advanced,Linda,Bank Transfer,650000,25000,625000,Unpaid,Inactive
+PAY02115,06/09/2025,September,STU0326,Math,Advanced,Linda,Cash,750000,50000,700000,Unpaid,Active
+PAY02116,09/09/2025,September,STU0135,english,Advanced,,Transfer,650000,0,650000,paid,active
+PAY02117,05/09/2025,September,STU0343,ENG,Intermediate,Jhon,E-Wallet,700000,25000,675000,Unpaid,Actve
+PAY02118,2025-06-01,June,STU0460,Speaking,Intermediate, john ,Bank Transfer,650000,0,650000,Paid,Actve
+PAY02119,01/03/2025,March,STU0178,english,Advanced,Michael,,750000,50000,700000,Unpaid,Actve
+PAY02120,2025/11/04,November,STU0260,TOEFL,Intermediate,John,E-Wallet,650000,0,650000,Unpaid,active
+PAY02121,"Dec 12, 2025",December,STU0218,english,Intermediate,John,Bank Transfer,750000,100000,650000,Unpaid,Inactive
+PAY02122,2025-06-23,June,STU0294,IELTS,Advanced,Linda,,700000,100000,600000,paid,Active
+PAY02123,"Nov 11, 2025",November,STU0487,English,Intermediate,Sarah,,650000,-50000,700000,paid,active
+PAY02124,2025-06-30,June,STU0275,TOEFL,Beginner,SARAH,transfer,500000,-50000,550000,paid,Inactive
+PAY02125,29/05/2025,May,STU0284,TOEFL,Beginner,John,,700000,50000,650000,Paid,Active
+PAY02126,2025/09/14,September,STU0155,English,Beginner,Linda,Cash,750000,0,750000,Unpaid,Active
+PAY02127,2025/07/13,July,STU0442,Math,Beginner,Sarah,E-Wallet,650000,,,paid,Actve
+PAY02128,2025-01-11,January,STU0049,english,Beginner,,,5000000,-50000,5050000,Unpaid,active
+PAY02129,2025-08-06,August,STU0052,Speaking,Advanced,,transfer,700000,50000,650000,Unpaid,active
+PAY02130,2025-08-08,August,STU0248,Speaking,Advanced,SARAH,E-Wallet,650000,100000,550000,Paid,Actve
+PAY02131,2025/01/09,January,STU0366,Math,Intermediate,Linda,E-Wallet,750000,50000,700000,Paid,Actve
+PAY02132,2025/04/29,April,STU0330,Speaking,Intermediate,Michael,,700000,100000,600000,paid,Active
+PAY02133,18/02/2025,February,STU0043,IELTS,Intermediate,,,650000,100000,550000,Unpaid,Inactive
+PAY02134,2025/01/31,January,STU0173,IELTS,Beginner,Emily, Cash ,700000,100000,600000,paid,Actve
+PAY02135,"Jan 03, 2025",January,STU0280,ENG,Intermediate,Linda,Bank Transfer,650000,-50000,700000,Unpaid,Actve
+PAY02136,2025-09-21,September,STU0193,IELTS,Beginner,Michael,E-Wallet,500000,100000,400000,paid,Active
+PAY02137,27/03/2025,March,STU0218,ENG,Beginner,SARAH,transfer,750000,0,750000,Paid,Actve
+PAY02138,2025-07-24,July,STU0151,Speaking,Advanced,Emily,E-Wallet,700000,0,700000,Unpaid,Inactive
+PAY02139,"Mar 14, 2025",March,STU0315,Grammar,Advanced,,Bank Transfer,5000000,,,Unpaid,Actve
+PAY02140,"Apr 18, 2025",April,STU0425,ENG,Beginner,Emily,transfer,650000,25000,625000,Paid,Inactive
+PAY02141,2025-08-29,August,STU0103,Math,Advanced, john ,Bank Transfer,500000,50000,450000,Paid,Active
+PAY02142,2025/11/16,November,STU0326,TOEFL,Intermediate,John,Transfer,5000000,25000,4975000,Unpaid,active
+PAY02143,"Aug 07, 2025",August,STU0479,Speaking,Advanced,SARAH, Cash ,700000,-50000,750000,paid,Inactive
+PAY02144,09/02/2025,February,STU0092,Speaking,Advanced,Sarah,Transfer,500000,,,paid,Actve
+PAY02145,"Jun 19, 2025",June,STU0108,IELTS,Beginner,Linda,Transfer,5000000,,,Paid,Inactive
+PAY02146,15/03/2025,March,STU0459,English,Beginner,SARAH,,750000,0,750000,Unpaid,Actve
+PAY02147,2025/12/07,December,STU0061,TOEFL,Advanced,Jhon,transfer,700000,50000,650000,Unpaid,Actve
+PAY02148,"Jul 01, 2025",July,STU0453,TOEFL,Beginner,David, Cash ,5000000,50000,4950000,Paid,Actve
+PAY02149,2025/10/14,October,STU0351,Math,Advanced,Jhon, Cash ,750000,,,Unpaid,Inactive
+PAY02150,"Jan 13, 2025",January,STU0218,TOEFL,Advanced,SARAH,Transfer,750000,,,Unpaid,active
+PAY02151,2025-04-02,April,STU0100,English,Advanced,David,Bank Transfer,650000,100000,550000,Paid,active
+PAY02152,2025-05-10,May,STU0141,ENG,Intermediate,John, Cash ,5000000,50000,4950000,paid,active
+PAY02153,2025-05-21,May,STU0475,ENG,Advanced, john ,transfer,5000000,0,5000000,Paid,Actve
+PAY02154,2025-11-28,November,STU0458,IELTS,Advanced,Michael,,500000,50000,450000,Paid,Active
+PAY02155,2025-08-03,August,STU0032,Grammar,Beginner,SARAH,Bank Transfer,500000,100000,400000,Paid,Active
+PAY02156,"Jun 20, 2025",June,STU0188,English,Advanced,Jhon,transfer,650000,-50000,700000,paid,Active
+PAY02157,03/02/2025,February,STU0043,IELTS,Intermediate,John,Bank Transfer,5000000,25000,4975000,paid,Inactive
+PAY02158,2025/12/19,December,STU0429,English,Intermediate,David,E-Wallet,650000,,,Unpaid,Active
+PAY02159,2025/06/24,June,STU0477,ENG,Beginner,Sarah,Cash,5000000,,,Paid,Active
+PAY02160,"Apr 06, 2025",April,STU0393,IELTS,Beginner,Linda, Cash ,5000000,,,Unpaid,Actve
+PAY02161,11/02/2025,February,STU0462,TOEFL,Advanced,Michael,Bank Transfer,700000,,,Paid,Actve
+PAY02162,"Dec 28, 2025",December,STU0162,english,Beginner,Linda,Bank Transfer,650000,50000,600000,Paid,Inactive
+PAY02163,"Jun 01, 2025",June,STU0182,Grammar,Intermediate,SARAH,transfer,750000,50000,700000,paid,Inactive
+PAY02164,2025/01/19,January,STU0360,english,Intermediate,David,Transfer,650000,-50000,700000,Unpaid,active
+PAY02165,16/02/2025,February,STU0017,Math,Advanced,Michael,transfer,700000,25000,675000,Paid,Actve
+PAY02166,"Oct 28, 2025",October,STU0302,English,Intermediate,Sarah, Cash ,700000,-50000,750000,Unpaid,Active
+PAY02167,2025/03/23,March,STU0463,Math,Beginner,Emily,Bank Transfer,750000,50000,700000,Paid,Actve
+PAY02168,07/10/2025,October,STU0234,english,Advanced,Jhon,transfer,500000,100000,400000,Paid,active
+PAY02169,"Jul 11, 2025",July,STU0021,TOEFL,Advanced,Sarah,transfer,750000,,,Unpaid,active
+PAY02170,2025/10/23,October,STU0086,Speaking,Advanced,SARAH,Transfer,5000000,0,5000000,paid,Inactive
+PAY02171,"Mar 08, 2025",March,STU0393,IELTS,Intermediate, john ,transfer,500000,0,500000,Paid,Actve
+PAY02172,01/01/2025,January,STU0042,IELTS,Beginner,Linda,transfer,650000,25000,625000,Paid,Inactive
+PAY02173,"Mar 20, 2025",March,STU0052,ENG,Advanced,Jhon, Cash ,500000,100000,400000,Paid,Actve
+PAY02174,2025/12/09,December,STU0470,Math,Intermediate,Michael,Bank Transfer,750000,,,Paid,Actve
+PAY02175,"Jun 17, 2025",June,STU0037,Grammar,Intermediate,,Cash,750000,-50000,800000,Paid,Inactive
+PAY02176,"May 01, 2025",May,STU0001,english,Beginner,Linda,Transfer,700000,50000,650000,Unpaid,Inactive
+PAY02177,23/01/2025,January,STU0197,IELTS,Intermediate,Michael,Bank Transfer,700000,100000,600000,Unpaid,Actve
+PAY02178,2025/12/12,December,STU0216,IELTS,Beginner,Jhon, Cash ,500000,50000,450000,paid,Active
+PAY02179,2025-08-27,August,STU0336,english,Beginner,Michael,Bank Transfer,700000,,,Paid,Actve
+PAY02180,2025/12/18,December,STU0344,english,Intermediate,John,Bank Transfer,500000,100000,400000,Unpaid,active
+PAY02181,2025-11-21,November,STU0400,ENG,Advanced,Emily,,5000000,100000,4900000,paid,active
+PAY02182,27/02/2025,February,STU0446,Math,Beginner,John,Bank Transfer,750000,-50000,800000,paid,active
+PAY02183,2025/04/12,April,STU0021,Math,Intermediate, john ,Bank Transfer,750000,0,750000,Paid,active
+PAY02184,2025/05/10,May,STU0420,English,Advanced,David,Transfer,700000,,,Unpaid,active
+PAY02185,2025-08-02,August,STU0019,Math,Intermediate,John,E-Wallet,750000,50000,700000,paid,Actve
+PAY02186,08/05/2025,May,STU0373,IELTS,Advanced, john ,transfer,500000,-50000,550000,Unpaid,active
+PAY02187,23/08/2025,August,STU0040,Grammar,Intermediate,John,Transfer,5000000,-50000,5050000,paid,Active
+PAY02188,2025-07-15,July,STU0217,english,Beginner,Michael, Cash ,700000,,,Unpaid,Active
+PAY02189,2025-08-10,August,STU0156,TOEFL,Advanced,John,Bank Transfer,650000,-50000,700000,paid,Actve
+PAY02190,2025/04/21,April,STU0096,Speaking,Advanced,John,E-Wallet,700000,,,Unpaid,Inactive
+PAY02191,"Dec 14, 2025",December,STU0010,english,Advanced,Michael,Bank Transfer,700000,0,700000,Unpaid,Actve
+PAY02192,"Nov 03, 2025",November,STU0364,Grammar,Beginner,Sarah,E-Wallet,500000,25000,475000,Unpaid,Actve
+PAY02193,2025/10/29,October,STU0244,English,Intermediate,Emily,Bank Transfer,5000000,50000,4950000,Unpaid,Actve
+PAY02194,2025/03/19,March,STU0088,english,Intermediate,Jhon,Cash,750000,25000,725000,paid,Active
+PAY02195,2025/11/20,November,STU0383,Grammar,Intermediate,David,,5000000,50000,4950000,Unpaid,Actve
+PAY02196,2025/12/12,December,STU0086,Grammar,Advanced,Jhon,transfer,500000,25000,475000,Paid,active
+PAY02197,2025/10/12,October,STU0068,english,Advanced,Sarah,Cash,650000,100000,550000,Unpaid,Inactive
+PAY02198,2025-04-19,April,STU0082,english,Advanced,Jhon,Bank Transfer,5000000,50000,4950000,Paid,Actve
+PAY02199,"Nov 03, 2025",November,STU0341,Grammar,Advanced,SARAH,E-Wallet,700000,50000,650000,Unpaid,Inactive
+PAY02200,2025/07/26,July,STU0231,IELTS,Beginner,Jhon,Bank Transfer,750000,50000,700000,Paid,active
+PAY02201,26/08/2025,August,STU0215,english,Intermediate,Linda, Cash ,500000,100000,400000,Paid,Inactive
+PAY02202,2025-03-12,March,STU0485,English,Intermediate,,Transfer,5000000,-50000,5050000,Paid,Actve
+PAY02203,2025-12-17,December,STU0453,english,Advanced,SARAH,,700000,0,700000,Paid,Inactive
+PAY02204,"Aug 23, 2025",August,STU0365,TOEFL,Intermediate,Michael,Bank Transfer,650000,25000,625000,Paid,Active
+PAY02205,2025/04/16,April,STU0228,TOEFL,Beginner, john ,E-Wallet,750000,25000,725000,paid,Active
+PAY02206,"Nov 06, 2025",November,STU0493,Math,Beginner,John, Cash ,650000,25000,625000,paid,Actve
+PAY02207,2025/09/24,September,STU0491,Speaking,Advanced,SARAH,Cash,750000,0,750000,paid,Active
+PAY02208,2025/08/13,August,STU0425,English,Intermediate,Jhon, Cash ,500000,50000,450000,paid,Actve
+PAY02209,2025-08-08,August,STU0389,Math,Advanced,Michael,Bank Transfer,500000,25000,475000,Unpaid,active
+PAY02210,14/03/2025,March,STU0169,Math,Intermediate, john ,,750000,25000,725000,Paid,active
+PAY02211,"Jun 25, 2025",June,STU0359,Speaking,Advanced,David,E-Wallet,750000,50000,700000,Paid,Inactive
+PAY02212,"Mar 17, 2025",March,STU0289,Grammar,Advanced,David,Bank Transfer,500000,25000,475000,paid,Inactive
+PAY02213,"Oct 18, 2025",October,STU0151,IELTS,Advanced,Michael,Transfer,750000,,,paid,active
+PAY02214,"Jul 16, 2025",July,STU0299,Speaking,Beginner,,Cash,650000,0,650000,Unpaid,active
+PAY02215,2025/09/18,September,STU0498,Grammar,Advanced,Michael,E-Wallet,750000,-50000,800000,paid,active
+PAY02216,"Sep 25, 2025",September,STU0446,ENG,Beginner, john ,transfer,750000,100000,650000,Paid,Active
+PAY02217,25/06/2025,June,STU0143,Math,Advanced,Linda,Bank Transfer,700000,25000,675000,Unpaid,Actve
+PAY02218,2025-10-19,October,STU0187,English,Intermediate,Sarah,Bank Transfer,5000000,25000,4975000,paid,Active
+PAY02219,2025-05-19,May,STU0127,TOEFL,Intermediate,Michael, Cash ,500000,100000,400000,paid,Inactive
+PAY02220,2025/04/27,April,STU0137,Speaking,Beginner,Linda, Cash ,650000,0,650000,Paid,Inactive
+PAY02221,"Sep 25, 2025",September,STU0300,ENG,Intermediate,Sarah,E-Wallet,500000,25000,475000,Paid,active
+PAY02222,2025-11-21,November,STU0043,ENG,Beginner,Sarah,E-Wallet,650000,100000,550000,paid,Inactive
+PAY02223,2025/11/03,November,STU0221,Math,Advanced, john ,,700000,-50000,-750000,paid,Inactive
+PAY02224,2025/10/29,October,STU0308,Speaking,Intermediate,Michael,Bank Transfer,500000,50000,450000,paid,Actve
+PAY02225,"Sep 21, 2025",September,STU0128,Grammar,Intermediate,SARAH,E-Wallet,700000,50000,650000,Unpaid,Actve
+PAY02226,27/02/2025,February,STU0499,ENG,Intermediate,Michael,Transfer,750000,0,750000,Paid,Actve
+PAY02227,"Dec 11, 2025",December,STU0352,IELTS,Beginner,Sarah,,500000,100000,400000,Paid,Inactive
+PAY02228,"Jun 07, 2025",June,STU0351,Speaking,Advanced,Linda,E-Wallet,700000,-50000,750000,paid,Inactive
+PAY02229,15/06/2025,June,STU0437,IELTS,Advanced,Michael,Bank Transfer,650000,100000,550000,paid,Actve
+PAY02230,2025/12/01,December,STU0242,Speaking,Intermediate,Michael,Bank Transfer,700000,25000,675000,Unpaid,active
+PAY02231,2025/06/11,June,STU0391,english,Beginner,Jhon,Cash,700000,100000,600000,Unpaid,active
+PAY02232,27/11/2025,November,STU0361,TOEFL,Beginner,David,Bank Transfer,750000,50000,-700000,Unpaid,Active
+PAY02233,2025/06/14,June,STU0379,TOEFL,Beginner,,E-Wallet,750000,50000,700000,Unpaid,active
+PAY02234,2025-02-24,February,STU0246,ENG,Beginner,Jhon, Cash ,650000,25000,625000,paid,Actve
+PAY02235,"May 08, 2025",May,STU0052,English,Advanced,Emily,Bank Transfer,5000000,-50000,5050000,paid,active
+PAY02236,"Aug 13, 2025",August,STU0384,Math,Intermediate,Jhon,,500000,100000,400000,Paid,Inactive
+PAY02237,"Oct 29, 2025",October,STU0225,TOEFL,Intermediate,,E-Wallet,5000000,25000,4975000,paid,active
+PAY02238,"Oct 13, 2025",October,STU0035,Grammar,Intermediate, john , Cash ,500000,25000,475000,Paid,Inactive
+PAY02239,2025/06/14,June,STU0102,Speaking,Intermediate,, Cash ,650000,100000,550000,Paid,Inactive
+PAY02240,2025/03/03,March,STU0409,English,Advanced,John,E-Wallet,750000,100000,650000,Unpaid,Active
+PAY02241,2025/10/17,October,STU0168,ENG,Intermediate,,Bank Transfer,500000,-50000,550000,paid,Active
+PAY02242,2025-02-08,February,STU0409,Math,Advanced, john ,E-Wallet,5000000,0,5000000,paid,Inactive
+PAY02243,2025/02/07,February,STU0451,IELTS,Advanced,Emily,Cash,700000,100000,600000,Paid,active
+PAY02244,2025/08/21,August,STU0004,english,Beginner,John,Transfer,500000,100000,400000,Unpaid,Actve
+PAY02245,"Mar 19, 2025",March,STU0168,ENG,Advanced,Linda,,650000,-50000,700000,paid,active
+PAY02246,23/10/2025,October,STU0093,Math,Beginner,SARAH,E-Wallet,650000,25000,625000,Paid,Inactive
+PAY02247,"Oct 04, 2025",October,STU0476,TOEFL,Advanced,Linda,Transfer,500000,50000,450000,Unpaid,Inactive
+PAY02248,"Aug 06, 2025",August,STU0014,IELTS,Intermediate,Sarah,,650000,25000,625000,Unpaid,Active
+PAY02249,16/08/2025,August,STU0205,TOEFL,Beginner,Jhon,E-Wallet,750000,0,750000,Paid,Active
+PAY02250,2025-03-31,March,STU0251,Grammar,Advanced,Emily,transfer,650000,25000,625000,Paid,Inactive
+PAY02251,"Feb 16, 2025",February,STU0484,ENG,Beginner,John,transfer,750000,50000,700000,Unpaid,Actve
+PAY02252,"Feb 21, 2025",February,STU0223,Speaking,Beginner,Sarah, Cash ,700000,50000,650000,paid,Actve
+PAY02253,2025-08-30,August,STU0166,English,Beginner,Linda,Transfer,700000,,,paid,Active
+PAY02254,07/03/2025,March,STU0020,English,Advanced,Linda,,650000,,,paid,active
+PAY02255,2025/07/10,July,STU0480,IELTS,Advanced,Michael,Bank Transfer,650000,100000,550000,Paid,Inactive
+PAY02256,2025/01/16,January,STU0192,Speaking,Advanced,Emily,Cash,650000,50000,600000,Paid,active
+PAY02257,2025/01/15,January,STU0468,english,Beginner,SARAH,transfer,500000,,,paid,Inactive
+PAY02258,2025-03-22,March,STU0048,english,Beginner,Sarah,transfer,500000,50000,450000,Unpaid,Actve
+PAY02259,2025/10/02,October,STU0001,Speaking,Intermediate, john ,Bank Transfer,650000,-50000,700000,Paid,active
+PAY02260,"Dec 03, 2025",December,STU0245,ENG,Advanced,,Transfer,5000000,,,Paid,Inactive
+PAY02261,21/09/2025,September,STU0381,Math,Advanced,Jhon,Bank Transfer,650000,25000,625000,paid,Active
+PAY02262,08/05/2025,May,STU0155,Grammar,Advanced, john , Cash ,700000,25000,675000,paid,active
+PAY02263,"Mar 09, 2025",March,STU0297,English,Advanced,Jhon, Cash ,750000,50000,700000,Paid,Inactive
+PAY02264,2025-04-04,April,STU0407,TOEFL,Beginner,Jhon,Bank Transfer,650000,,,Paid,Actve
+PAY02265,"Sep 05, 2025",September,STU0498,english,Intermediate,Linda,transfer,650000,,,paid,active
+PAY02266,2025/10/07,October,STU0394,Grammar,Intermediate,Michael,Bank Transfer,500000,,,Unpaid,Actve
+PAY02267,2025/10/09,October,STU0391,Speaking,Beginner,Emily,transfer,500000,,,paid,Active
+PAY02268,06/10/2025,October,STU0425,Math,Beginner,SARAH, Cash ,500000,25000,475000,Unpaid,Inactive
+PAY02269,"Jun 27, 2025",June,STU0482,Math,Advanced,Michael,transfer,750000,100000,650000,paid,Inactive
+PAY02270,14/03/2025,March,STU0182,IELTS,Advanced,SARAH,E-Wallet,500000,25000,475000,Paid,active
+PAY02271,04/10/2025,October,STU0052,IELTS,Advanced,,Transfer,5000000,25000,4975000,paid,Inactive
+PAY02272,2025/10/04,October,STU0497,english,Intermediate,Jhon,E-Wallet,650000,50000,600000,Unpaid,Actve
+PAY02273,"Aug 28, 2025",August,STU0001,Math,Intermediate,SARAH, Cash ,650000,,,Unpaid,Inactive
+PAY02274,2025-11-10,November,STU0247,IELTS,Beginner,Jhon,,500000,100000,400000,Paid,Actve
+PAY02275,20/07/2025,July,STU0494,Speaking,Beginner,Jhon,Cash,650000,50000,600000,paid,Inactive
+PAY02276,2025/04/16,April,STU0168,English,Advanced,Sarah,E-Wallet,650000,,,Unpaid,Active
+PAY02277,2025/11/18,November,STU0421,Math,Advanced,,transfer,650000,,,Paid,Active
+PAY02278,"Jun 24, 2025",June,STU0131,Math,Advanced, john ,transfer,500000,100000,400000,paid,Inactive
+PAY02279,2025/12/30,December,STU0046,Grammar,Beginner, john ,,700000,25000,675000,paid,Actve
+PAY02280,2025-08-04,August,STU0376,Speaking,Intermediate,SARAH,Bank Transfer,500000,50000,450000,Unpaid,active
+PAY02281,2025-07-02,July,STU0249,TOEFL,Advanced, john ,Transfer,500000,0,500000,paid,Actve
+PAY02282,"Dec 07, 2025",December,STU0311,english,Advanced,SARAH,,500000,,,paid,Actve
+PAY02283,2025-01-22,January,STU0295,Math,Beginner,Linda,Bank Transfer,5000000,,,paid,Actve
+PAY02284,2025-07-21,July,STU0437,ENG,Advanced,SARAH,Cash,700000,,,Unpaid,Actve
+PAY02285,2025-12-09,December,STU0323,Grammar,Beginner,David,transfer,650000,-50000,700000,Paid,Actve
+PAY02286,"May 10, 2025",May,STU0128,Speaking,Intermediate,John,Bank Transfer,700000,50000,650000,Unpaid,active
+PAY02287,24/03/2025,March,STU0380,english,Intermediate,Michael,,5000000,-50000,5050000,Unpaid,Active
+PAY02288,"Jun 20, 2025",June,STU0429,TOEFL,Intermediate,David,Cash,5000000,-50000,5050000,paid,Active
+PAY02289,2025/11/24,November,STU0096,english,Beginner,David,,700000,-50000,750000,paid,Actve
+PAY02290,"Jun 29, 2025",June,STU0492,IELTS,Intermediate,John,Cash,750000,50000,700000,Paid,active
+PAY02291,"Sep 17, 2025",September,STU0317,Math,Beginner,Sarah,Cash,5000000,-50000,5050000,paid,Actve
+PAY02292,15/05/2025,May,STU0069,english,Beginner,David,E-Wallet,700000,-50000,750000,paid,Active
+PAY02293,15/06/2025,June,STU0080,Speaking,Beginner, john ,Transfer,750000,0,750000,paid,Inactive
+PAY02294,06/05/2025,May,STU0075,English,Intermediate,Linda,Cash,750000,,,paid,Actve
+PAY02295,2025/08/13,August,STU0099,english,Beginner,SARAH,E-Wallet,5000000,-50000,5050000,Unpaid,Actve
+PAY02296,"May 14, 2025",May,STU0461,TOEFL,Intermediate,SARAH,Bank Transfer,700000,100000,600000,Paid,Inactive
+PAY02297,14/06/2025,June,STU0470,ENG,Advanced,Emily,Cash,5000000,-50000,5050000,paid,Inactive
+PAY02298,28/06/2025,June,STU0028,ENG,Advanced, john ,transfer,750000,50000,700000,paid,Actve
+PAY02299,03/02/2025,February,STU0333,English,Intermediate, john ,,500000,-50000,550000,paid,Inactive
+PAY02300,"Feb 02, 2025",February,STU0130,English,Advanced,,transfer,500000,,,Unpaid,Inactive
+PAY02301,22/07/2025,July,STU0346,Speaking,Intermediate,Linda,E-Wallet,750000,50000,700000,paid,Actve
+PAY02302,"Mar 15, 2025",March,STU0387,Grammar,Advanced,Sarah,,500000,-50000,550000,Paid,Active
+PAY02303,2025/09/29,September,STU0308,IELTS,Beginner,John, Cash ,650000,,,Unpaid,Active
+PAY02304,2025-06-19,June,STU0486,english,Intermediate,Jhon, Cash ,500000,100000,400000,Unpaid,Inactive
+PAY02305,25/06/2025,June,STU0363,english,Intermediate, john ,Cash,500000,50000,450000,Paid,active
+PAY02306,25/07/2025,July,STU0325,Math,Intermediate, john ,,650000,50000,600000,Paid,active
+PAY02307,2025-01-11,January,STU0049,IELTS,Beginner,SARAH,Cash,5000000,0,5000000,Paid,active
+PAY02308,"Jul 16, 2025",July,STU0440,Math,Beginner,Linda, Cash ,500000,-50000,550000,paid,Actve
+PAY02309,04/04/2025,April,STU0468,IELTS,Advanced,Emily,E-Wallet,700000,0,700000,Paid,Actve
+PAY02310,28/12/2025,December,STU0228,English,Advanced,John,E-Wallet,5000000,25000,4975000,Paid,active
+PAY02311,2025-05-30,May,STU0266,IELTS,Beginner, john ,Transfer,700000,,,paid,Inactive
+PAY02312,"Nov 10, 2025",November,STU0200,ENG,Beginner,SARAH,Cash,750000,,,Unpaid,Inactive
+PAY02313,07/07/2025,July,STU0207,English,Intermediate,John,transfer,650000,100000,550000,paid,Active
+PAY02314,2025-09-24,September,STU0360,english,Advanced,Linda,Bank Transfer,700000,-50000,750000,Unpaid,Inactive
+PAY02315,18/08/2025,August,STU0223,english,Beginner, john ,Cash,700000,,,Unpaid,Active
+PAY02316,2025/06/14,June,STU0403,Speaking,Advanced,John,E-Wallet,5000000,100000,4900000,Paid,Inactive
+PAY02317,"Feb 15, 2025",February,STU0278,IELTS,Advanced,Emily, Cash ,5000000,,,Paid,Active
+PAY02318,"Jan 25, 2025",January,STU0276,English,Advanced,Jhon, Cash ,750000,25000,725000,paid,Inactive
+PAY02319,"Sep 18, 2025",September,STU0487,IELTS,Beginner,Emily,Cash,500000,25000,475000,paid,Inactive
+PAY02320,11/09/2025,September,STU0024,english,Beginner,Sarah,Bank Transfer,5000000,,,Paid,Inactive
+PAY02321,"Dec 04, 2025",December,STU0191,english,Beginner,Michael,Transfer,650000,100000,550000,paid,Inactive
+PAY02322,"Nov 15, 2025",November,STU0443,Speaking,Beginner,David,transfer,750000,,,paid,Active
+PAY02323,2025/08/01,August,STU0098,ENG,Intermediate,,Cash,750000,50000,700000,paid,Actve
+PAY02324,2025/01/22,January,STU0037,Math,Beginner,Michael,,650000,,,Unpaid,Active
+PAY02325,"Apr 04, 2025",April,STU0349,english,Intermediate,SARAH,Bank Transfer,650000,,,Unpaid,active
+PAY02326,2025-02-25,February,STU0285,ENG,Beginner,Michael,E-Wallet,750000,25000,725000,Paid,Actve
+PAY02327,2025-09-03,September,STU0199,IELTS,Beginner,Sarah,Transfer,500000,25000,475000,Unpaid,active
+PAY02328,13/08/2025,August,STU0340,TOEFL,Beginner,Emily,Cash,750000,-50000,800000,paid,Active
+PAY02329,"Mar 20, 2025",March,STU0103,English,Intermediate,Jhon,Transfer,700000,25000,675000,Unpaid,Active
+PAY02330,26/04/2025,April,STU0225,English,Intermediate,Sarah,,650000,50000,600000,Paid,active
+PAY02331,13/10/2025,October,STU0030,Math,Advanced,Sarah,transfer,650000,-50000,700000,paid,Active
+PAY02332,13/11/2025,November,STU0462,Math,Advanced,Linda,Cash,700000,50000,650000,Unpaid,Active
+PAY02333,2025-10-16,October,STU0115,English,Advanced,SARAH,Cash,750000,-50000,800000,Paid,Actve
+PAY02334,2025/10/20,October,STU0231,TOEFL,Advanced, john ,E-Wallet,700000,,,Unpaid,active
+PAY02335,2025/11/22,November,STU0451,Grammar,Beginner,Michael,Bank Transfer,750000,25000,725000,paid,Inactive
+PAY02336,"Jul 18, 2025",July,STU0222,Speaking,Beginner,John,transfer,650000,50000,600000,Unpaid,Inactive
+PAY02337,25/07/2025,July,STU0216,english,Intermediate, john ,transfer,700000,25000,675000,Unpaid,Actve
+PAY02338,"Jul 06, 2025",July,STU0371,TOEFL,Beginner,Linda, Cash ,700000,,,Paid,Inactive
+PAY02339,"Dec 04, 2025",December,STU0406,english,Intermediate,David,Transfer,750000,-50000,800000,Unpaid,Inactive
+PAY02340,2025-08-29,August,STU0464,english,Beginner,Linda,Transfer,5000000,,,Unpaid,Inactive
+PAY02341,2025/12/04,December,STU0227,English,Advanced,Linda,transfer,5000000,100000,4900000,paid,Inactive
+PAY02342,20/05/2025,May,STU0102,IELTS,Intermediate,Emily,transfer,750000,-50000,800000,Paid,Inactive
+PAY02343,"Sep 07, 2025",September,STU0322,English,Advanced,Sarah,,5000000,-50000,5050000,Paid,Active
+PAY02344,2025-01-11,January,STU0161,Grammar,Beginner,Michael,Transfer,500000,50000,450000,Unpaid,Active
+PAY02345,"Jul 05, 2025",July,STU0361,IELTS,Intermediate,David,Cash,5000000,100000,4900000,paid,Inactive
+PAY02346,19/03/2025,March,STU0317,english,Beginner,SARAH,E-Wallet,750000,0,750000,paid,Actve
+PAY02347,"Dec 25, 2025",December,STU0076,ENG,Beginner,John,Transfer,650000,0,650000,Unpaid,Actve
+PAY02348,2025/07/14,July,STU0419,Grammar,Intermediate,,E-Wallet,650000,0,650000,Paid,Actve
+PAY02349,2025/01/11,January,STU0044,Grammar,Beginner,Michael,Transfer,5000000,50000,4950000,paid,active
+PAY02350,2025/12/13,December,STU0405,TOEFL,Advanced,Emily,Bank Transfer,650000,0,650000,paid,Active
+PAY02351,2025/07/01,July,STU0214,IELTS,Intermediate,David,Transfer,500000,-50000,550000,paid,active
+PAY02352,2025-09-24,September,STU0027,TOEFL,Advanced,David,Bank Transfer,750000,50000,700000,Unpaid,Actve
+PAY02353,2025-06-22,June,STU0337,ENG,Advanced,Sarah,Bank Transfer,700000,,,paid,Active
+PAY02354,2025-03-08,March,STU0103,ENG,Intermediate,Jhon,Cash,5000000,0,5000000,paid,active
+PAY02355,2025/12/23,December,STU0438,english,Intermediate,Emily,Transfer,700000,50000,650000,Unpaid,active
+PAY02356,10/10/2025,October,STU0468,ENG,Advanced,Sarah,,750000,50000,700000,paid,active
+PAY02357,2025-09-18,September,STU0055,TOEFL,Beginner,Michael,Bank Transfer,500000,25000,475000,Paid,Inactive
+PAY02358,20/10/2025,October,STU0007,Grammar,Advanced,Sarah,Transfer,500000,0,-500000,paid,Actve
+PAY02359,"Nov 20, 2025",November,STU0361,IELTS,Beginner,Sarah,Transfer,500000,-50000,550000,Paid,Active
+PAY02360,2025/01/02,January,STU0041,english,Intermediate,SARAH,Transfer,650000,25000,625000,Unpaid,Inactive
+PAY02361,2025/12/29,December,STU0148,English,Intermediate,Michael,E-Wallet,5000000,,,Paid,Active
+PAY02362,01/04/2025,April,STU0295,TOEFL,Advanced,Sarah, Cash ,700000,25000,675000,Paid,Inactive
+PAY02363,"Apr 06, 2025",April,STU0429,Speaking,Advanced,Jhon,E-Wallet,650000,25000,625000,paid,active
+PAY02364,2025/04/22,April,STU0272,English,Advanced,David,Bank Transfer,700000,50000,650000,Paid,Active
+PAY02365,2025-02-01,February,STU0031,english,Beginner, john ,Cash,750000,50000,700000,paid,Active
+PAY02366,"Jun 13, 2025",June,STU0292,Speaking,Advanced,Emily,transfer,5000000,,,Unpaid,Actve
+PAY02367,2025/07/09,July,STU0382,TOEFL,Beginner,,Transfer,700000,100000,600000,Paid,active
+PAY02368,2025/07/29,July,STU0434,english,Intermediate, john ,transfer,750000,50000,700000,Paid,Inactive
+PAY02369,2025/07/17,July,STU0196,IELTS,Intermediate,Emily,Cash,500000,25000,475000,Unpaid,Inactive
+PAY02370,19/03/2025,March,STU0242,IELTS,Intermediate,Emily,Transfer,650000,0,-650000,Paid,Actve
+PAY02371,20/07/2025,July,STU0098,ENG,Advanced, john ,transfer,700000,-50000,750000,Unpaid,Inactive
+PAY02372,2025-09-07,September,STU0166,ENG,Advanced,David,Transfer,700000,0,700000,Paid,Actve
+PAY02373,2025/04/21,April,STU0324,IELTS,Intermediate,David, Cash ,750000,0,750000,paid,Actve
+PAY02374,2025-11-10,November,STU0175,Grammar,Advanced,Michael,Bank Transfer,5000000,25000,4975000,paid,Actve
+PAY02375,2025-02-02,February,STU0108,Grammar,Advanced,Linda,,750000,50000,700000,Unpaid,Actve
+PAY02376,"May 24, 2025",May,STU0462,IELTS,Intermediate,,Transfer,5000000,50000,4950000,paid,Inactive
+PAY02377,2025/05/08,May,STU0161,Math,Intermediate,Michael,E-Wallet,5000000,100000,4900000,Unpaid,Active
+PAY02378,2025/09/28,September,STU0485,Speaking,Beginner, john ,transfer,750000,-50000,800000,Paid,active
+PAY02379,31/12/2025,December,STU0115,English,Intermediate,Emily,,700000,0,700000,paid,Actve
+PAY02380,15/10/2025,October,STU0161,TOEFL,Advanced,Linda,E-Wallet,700000,50000,650000,paid,Active
+PAY02381,2025-06-01,June,STU0145,TOEFL,Intermediate,Jhon, Cash ,650000,-50000,700000,Paid,active
+PAY02382,14/05/2025,May,STU0334,english,Beginner,Emily,transfer,650000,50000,600000,Paid,Actve
+PAY02383,2025/11/17,November,STU0389,Grammar,Beginner,David,transfer,5000000,25000,4975000,Unpaid,Inactive
+PAY02384,2025/12/28,December,STU0166,English,Beginner,John,,700000,25000,675000,Unpaid,Actve
+PAY02385,08/07/2025,July,STU0014,english,Advanced,Emily,transfer,700000,,,Paid,active
+PAY02386,2025-11-10,November,STU0292,English,Advanced,John, Cash ,700000,50000,650000,paid,Inactive
+PAY02387,2025-09-12,September,STU0268,IELTS,Advanced,Linda,Cash,500000,25000,475000,Unpaid,active
+PAY02388,2025-06-23,June,STU0253,english,Advanced,John,E-Wallet,750000,50000,700000,Unpaid,Actve
+PAY02389,22/12/2025,December,STU0230,IELTS,Beginner,David,Transfer,5000000,0,5000000,Paid,Active
+PAY02390,2025-11-27,November,STU0116,ENG,Beginner,John,Transfer,500000,,,Paid,Inactive
+PAY02391,"Mar 12, 2025",March,STU0344,english,Beginner,SARAH,,700000,100000,600000,Unpaid,Actve
+PAY02392,2025/01/13,January,STU0302,English,Beginner,Linda,E-Wallet,5000000,0,5000000,Unpaid,Active
+PAY02393,2025-06-28,June,STU0425,IELTS,Intermediate,Linda,Transfer,5000000,50000,4950000,paid,Active
+PAY02394,"Nov 18, 2025",November,STU0199,IELTS,Beginner,,Bank Transfer,700000,-50000,750000,Unpaid,Inactive
+PAY02395,"Jun 17, 2025",June,STU0232,English,Intermediate,, Cash ,750000,0,750000,paid,Actve
+PAY02396,15/04/2025,April,STU0055,TOEFL,Beginner,, Cash ,500000,0,500000,paid,active
+PAY02397,20/12/2025,December,STU0028,TOEFL,Advanced,David,Transfer,5000000,50000,4950000,paid,Active
+PAY02398,2025-06-08,June,STU0106,ENG,Advanced,Jhon, Cash ,650000,25000,625000,Unpaid,Actve
+PAY02399,20/07/2025,July,STU0147,TOEFL,Beginner,,Cash,750000,100000,650000,Paid,Active
+PAY02400,2025-11-14,November,STU0156,ENG,Intermediate,,Transfer,500000,50000,450000,Paid,Active
+PAY02401,08/07/2025,July,STU0191,Math,Intermediate,Jhon, Cash ,650000,100000,550000,Paid,active
+PAY02402,2025-01-18,January,STU0477,TOEFL,Beginner,John,transfer,700000,25000,675000,Paid,Active
+PAY02403,2025-02-27,February,STU0297,Speaking,Intermediate,John, Cash ,650000,100000,550000,paid,Actve
+PAY02404,02/02/2025,February,STU0194,English,Beginner, john ,transfer,650000,0,650000,Unpaid,Actve
+PAY02405,2025-03-31,March,STU0492,Speaking,Advanced,David, Cash ,5000000,0,5000000,Unpaid,Inactive
+PAY02406,2025-05-17,May,STU0230,English,Advanced,John,,700000,25000,675000,paid,Actve
+PAY02407,2025/10/14,October,STU0025,Speaking,Intermediate,Sarah,E-Wallet,650000,,,Unpaid,Actve
+PAY02408,30/08/2025,August,STU0372,IELTS,Intermediate,Emily,transfer,700000,,,Paid,Actve
+PAY02409,2025/07/10,July,STU0345,ENG,Advanced,SARAH,transfer,700000,50000,650000,Unpaid,Actve
+PAY02410,"Feb 14, 2025",February,STU0331,ENG,Intermediate,SARAH,,650000,50000,600000,paid,Inactive
+PAY02411,"Jan 22, 2025",January,STU0175,IELTS,Advanced,Michael,,5000000,,,Paid,Actve
+PAY02412,2025/02/11,February,STU0267,Math,Advanced,John,Bank Transfer,500000,-50000,550000,paid,Inactive
+PAY02413,"Apr 27, 2025",April,STU0429,Grammar,Advanced,Jhon,E-Wallet,750000,0,750000,paid,Actve
+PAY02414,"Apr 23, 2025",April,STU0055,TOEFL,Advanced, john ,Transfer,750000,,,paid,Inactive
+PAY02415,2025-01-01,January,STU0356,Speaking,Beginner,Jhon,Bank Transfer,750000,25000,725000,Paid,Active
+PAY02416,2025-04-08,April,STU0107,IELTS,Advanced,Sarah,Cash,500000,0,500000,Unpaid,Actve
+PAY02417,2025/03/02,March,STU0358,Speaking,Intermediate,Jhon,Bank Transfer,700000,,,Paid,active
+PAY02418,2025/08/08,August,STU0252,English,Intermediate,Emily,Bank Transfer,5000000,-50000,5050000,Paid,active
+PAY02419,2025/12/25,December,STU0217,Grammar,Advanced, john ,Cash,750000,-50000,800000,Unpaid,Active
+PAY02420,2025-09-07,September,STU0043,TOEFL,Advanced,Sarah,transfer,750000,50000,700000,Unpaid,active
+PAY02421,2025/05/04,May,STU0398,ENG,Beginner,,transfer,500000,50000,450000,Paid,Active
+PAY02422,17/12/2025,December,STU0479,ENG,Beginner,SARAH,Transfer,5000000,,,Unpaid,active
+PAY02423,2025/12/23,December,STU0130,Math,Advanced,SARAH,transfer,5000000,,,Paid,Actve
+PAY02424,31/05/2025,May,STU0219,Math,Advanced,Michael,,500000,50000,450000,Paid,Inactive
+PAY02425,2025/09/04,September,STU0382,IELTS,Intermediate,John,Bank Transfer,650000,0,650000,Paid,Inactive
+PAY02426,2025/06/24,June,STU0359,Math,Beginner,Michael,Transfer,650000,,,Paid,Active
+PAY02427,2025/08/13,August,STU0363,Grammar,Advanced,SARAH,Cash,700000,,,Unpaid,Actve
+PAY02428,"Jan 18, 2025",January,STU0035,Math,Beginner,David, Cash ,750000,-50000,800000,Unpaid,Actve
+PAY02429,25/07/2025,July,STU0045,IELTS,Advanced,Linda,transfer,650000,0,650000,paid,active
+PAY02430,"Oct 13, 2025",October,STU0337,IELTS,Advanced,Jhon,Cash,750000,0,750000,paid,Active
+PAY02431,29/04/2025,April,STU0360,english,Beginner,Emily,Cash,650000,50000,600000,paid,Active
+PAY02432,"Feb 27, 2025",February,STU0451,IELTS,Intermediate,Linda,,5000000,-50000,-5050000,Unpaid,Inactive
+PAY02433,2025/04/07,April,STU0089,english,Advanced,SARAH,,750000,100000,650000,Paid,Inactive
+PAY02434,08/12/2025,December,STU0035,ENG,Advanced,Sarah,E-Wallet,5000000,25000,4975000,Paid,Inactive
+PAY02435,2025/11/17,November,STU0209,English,Intermediate,John,,700000,25000,675000,Unpaid,Actve
+PAY02436,15/01/2025,January,STU0429,TOEFL,Advanced,Michael,transfer,700000,100000,600000,paid,Actve
+PAY02437,27/11/2025,November,STU0255,Math,Intermediate,,Cash,650000,-50000,700000,Unpaid,Active
+PAY02438,2025-10-15,October,STU0143,english,Intermediate, john , Cash ,650000,,,Unpaid,active
+PAY02439,"Oct 02, 2025",October,STU0198,IELTS,Intermediate,Emily,Cash,700000,100000,600000,paid,Actve
+PAY02440,2025-06-25,June,STU0139,Speaking,Advanced,SARAH,Transfer,700000,,,Unpaid,active
+PAY02441,03/05/2025,May,STU0172,english,Intermediate,David,E-Wallet,700000,50000,650000,Unpaid,Inactive
+PAY02442,10/11/2025,November,STU0186,Grammar,Beginner, john ,E-Wallet,700000,25000,675000,paid,Inactive
+PAY02443,"Mar 02, 2025",March,STU0325,Grammar,Beginner, john ,Bank Transfer,650000,25000,625000,Paid,Actve
+PAY02444,"Sep 05, 2025",September,STU0075,Speaking,Advanced,Sarah,Bank Transfer,5000000,100000,4900000,Paid,Actve
+PAY02445,2025/10/09,October,STU0479,Speaking,Intermediate, john ,E-Wallet,500000,0,500000,paid,active
+PAY02446,2025/09/19,September,STU0219,ENG,Advanced,Sarah,transfer,650000,50000,600000,Unpaid,Actve
+PAY02447,2025-06-10,June,STU0390,English,Beginner,Sarah,Bank Transfer,650000,25000,625000,Paid,active
+PAY02448,2025-03-07,March,STU0339,English,Beginner,Sarah,Bank Transfer,750000,25000,725000,paid,active
+PAY02449,2025/05/26,May,STU0310,Speaking,Advanced,Emily,,650000,25000,625000,Paid,Inactive
+PAY02450,"Jan 12, 2025",January,STU0423,english,Beginner,SARAH,E-Wallet,650000,25000,625000,Paid,Inactive
+PAY02451,"Feb 16, 2025",February,STU0433,english,Beginner,Linda,transfer,750000,0,750000,paid,Inactive
+PAY02452,30/03/2025,March,STU0344,Speaking,Intermediate,,,700000,0,-700000,paid,Actve
+PAY02453,17/08/2025,August,STU0210,ENG,Intermediate,Michael, Cash ,650000,0,650000,Unpaid,Actve
+PAY02454,"Jan 12, 2025",January,STU0405,Grammar,Intermediate,John,transfer,650000,,,paid,Actve
+PAY02455,15/08/2025,August,STU0308,english,Beginner,Jhon,Transfer,700000,25000,675000,Paid,active
+PAY02456,2025/06/30,June,STU0461,TOEFL,Intermediate,,transfer,700000,25000,675000,Paid,Inactive
+PAY02457,2025-11-27,November,STU0200,Grammar,Intermediate,Jhon,Cash,750000,,,Unpaid,Actve
+PAY02458,2025/08/17,August,STU0118,Speaking,Intermediate,David,transfer,500000,100000,400000,Paid,Inactive
+PAY02459,23/04/2025,April,STU0390,TOEFL,Beginner,Michael,Cash,500000,100000,400000,paid,Active
+PAY02460,2025-05-09,May,STU0151,IELTS,Intermediate,David,,5000000,50000,4950000,Paid,Inactive
+PAY02461,"Jul 29, 2025",July,STU0447,Math,Advanced,John,E-Wallet,650000,-50000,700000,paid,Inactive
+PAY02462,2025/05/28,May,STU0414,TOEFL,Advanced,Sarah,Cash,750000,25000,725000,Paid,active
+PAY02463,2025-04-02,April,STU0371,IELTS,Beginner,SARAH,Transfer,750000,-50000,800000,Paid,Active
+PAY02464,16/06/2025,June,STU0257,English,Intermediate,Michael,Transfer,700000,-50000,750000,Paid,Actve
+PAY02465,21/03/2025,March,STU0294,Speaking,Intermediate,Linda,transfer,650000,-50000,700000,Paid,Active
+PAY02466,08/05/2025,May,STU0194,IELTS,Beginner,David,transfer,5000000,0,5000000,paid,Actve
+PAY02467,2025/12/13,December,STU0456,ENG,Advanced,SARAH,Bank Transfer,5000000,-50000,5050000,paid,Actve
+PAY02468,2025/05/09,May,STU0065,English,Beginner,Sarah,E-Wallet,650000,-50000,700000,Unpaid,active
+PAY02469,2025/03/01,March,STU0013,Grammar,Intermediate,Linda,,750000,100000,650000,Paid,Inactive
+PAY02470,11/08/2025,August,STU0384,IELTS,Advanced,David,transfer,750000,-50000,800000,Paid,Inactive
+PAY02471,09/01/2025,January,STU0239,ENG,Intermediate,Linda,transfer,750000,50000,700000,Paid,Actve
+PAY02472,27/01/2025,January,STU0152,Grammar,Beginner,Emily,transfer,650000,,,Unpaid,Actve
+PAY02473,"Feb 09, 2025",February,STU0021,ENG,Beginner,Emily,Bank Transfer,700000,-50000,750000,Paid,active
+PAY02474,17/09/2025,September,STU0365,Speaking,Beginner,John,E-Wallet,500000,0,500000,Paid,active
+PAY02475,2025/01/13,January,STU0236,Grammar,Advanced,Emily,Bank Transfer,750000,50000,700000,Unpaid,Active
+PAY02476,2025-09-22,September,STU0264,English,Advanced,SARAH, Cash ,750000,100000,650000,paid,Active
+PAY02477,2025/03/20,March,STU0375,Speaking,Beginner,Michael,,700000,,,Paid,Active
+PAY02478,2025/11/12,November,STU0023,Speaking,Beginner,Michael,Transfer,700000,100000,600000,Unpaid,Inactive
+PAY02479,02/08/2025,August,STU0470,TOEFL,Beginner,Sarah,Transfer,750000,-50000,800000,Paid,active
+PAY02480,2025-09-05,September,STU0085,ENG,Beginner,Sarah, Cash ,650000,100000,550000,Unpaid,active
+PAY02481,"Nov 12, 2025",November,STU0281,Grammar,Advanced,Emily,E-Wallet,750000,50000,700000,Paid,active
+PAY02482,01/11/2025,November,STU0140,Grammar,Advanced,David,transfer,650000,0,650000,paid,Actve
+PAY02483,"Jan 27, 2025",January,STU0285,TOEFL,Beginner,Linda,transfer,700000,0,700000,Paid,Active
+PAY02484,"Dec 24, 2025",December,STU0291,Grammar,Intermediate,Sarah,Transfer,750000,,,Paid,Actve
+PAY02485,2025-12-06,December,STU0418,english,Beginner,Jhon,transfer,700000,0,700000,Paid,active
+PAY02486,2025-07-09,July,STU0252,english,Advanced,Linda,transfer,700000,25000,675000,Unpaid,Inactive
+PAY02487,27/05/2025,May,STU0307,Grammar,Advanced,Jhon,,5000000,25000,4975000,Paid,Active
+PAY02488,2025-02-12,February,STU0253,Math,Advanced,Michael,Cash,500000,25000,475000,Paid,Actve
+PAY02489,2025-04-01,April,STU0188,Grammar,Advanced,,Cash,650000,50000,600000,Paid,Inactive
+PAY02490,"Jun 08, 2025",June,STU0043,English,Advanced,John,,500000,0,500000,Paid,Inactive
+PAY02491,2025/07/20,July,STU0316,Math,Advanced,David,Transfer,500000,50000,450000,Paid,Actve
+PAY02492,"Nov 07, 2025",November,STU0264,Math,Intermediate,,Transfer,650000,,,paid,active
+PAY02493,2025/01/17,January,STU0243,ENG,Intermediate,SARAH,Bank Transfer,700000,,,Unpaid,Actve
+PAY02494,03/08/2025,August,STU0124,ENG,Beginner,Michael,Cash,700000,,,Paid,Active
+PAY02495,2025-10-28,October,STU0065,IELTS,Advanced,Sarah,Bank Transfer,650000,0,650000,Unpaid,active
+PAY02496,24/10/2025,October,STU0477,Speaking,Advanced,Linda,transfer,750000,100000,650000,paid,Active
+PAY02497,06/07/2025,July,STU0026,English,Intermediate,Jhon,Transfer,750000,25000,725000,Unpaid,Actve
+PAY02498,2025/12/04,December,STU0168,english,Advanced,Emily,,700000,100000,600000,paid,Inactive
+PAY02499,04/01/2025,January,STU0449,Grammar,Beginner,John,Transfer,700000,100000,600000,Paid,Actve
+PAY02500,23/05/2025,May,STU0005,Grammar,Advanced,Emily,,650000,100000,550000,paid,active
+PAY02501,2025-06-22,June,STU0497,TOEFL,Beginner,Michael,Bank Transfer,500000,100000,400000,paid,active
+PAY02502,2025/09/29,September,STU0314,TOEFL,Intermediate,John,transfer,5000000,-50000,5050000,paid,active
+PAY02503,2025/10/03,October,STU0209,Math,Intermediate,Jhon,transfer,500000,50000,450000,paid,Inactive
+PAY02504,11/06/2025,June,STU0334,English,Beginner,,Bank Transfer,750000,50000,700000,Unpaid,active
+PAY02505,03/01/2025,January,STU0231,TOEFL,Intermediate,John,transfer,500000,25000,475000,Paid,Active
+PAY02506,2025/05/21,May,STU0376,Speaking,Advanced,John,transfer,500000,-50000,550000,paid,Inactive
+PAY02507,"Oct 01, 2025",October,STU0200,Grammar,Beginner,SARAH, Cash ,500000,25000,475000,Paid,Active
+PAY02508,2025/12/17,December,STU0485,ENG,Beginner,Sarah,Transfer,500000,50000,450000,paid,active
+PAY02509,"Mar 28, 2025",March,STU0219,TOEFL,Advanced,Michael,Bank Transfer,700000,100000,600000,Paid,active
+PAY02510,2025-06-08,June,STU0437,English,Beginner,Sarah,,500000,25000,475000,Unpaid,Inactive
+PAY02511,2025/02/28,February,STU0428,ENG,Advanced,Sarah,transfer,700000,0,700000,paid,active
+PAY02512,"Feb 12, 2025",February,STU0413,TOEFL,Advanced,David, Cash ,500000,50000,450000,Paid,Active
+PAY02513,02/02/2025,February,STU0418,TOEFL,Intermediate,Emily,Cash,650000,50000,600000,Unpaid,Actve
+PAY02514,2025-08-10,August,STU0098,ENG,Advanced,Sarah, Cash ,5000000,100000,4900000,Paid,Actve
+PAY02515,2025/10/13,October,STU0102,English,Beginner, john ,Transfer,750000,50000,700000,Paid,active
+PAY02516,"Jan 09, 2025",January,STU0004,Grammar,Intermediate,Sarah,Transfer,700000,100000,600000,Paid,Active
+PAY02517,31/10/2025,October,STU0283,Grammar,Beginner,,,750000,100000,650000,Paid,active
+PAY02518,"May 06, 2025",May,STU0440,Math,Beginner,David, Cash ,5000000,100000,4900000,Paid,active
+PAY02519,14/07/2025,July,STU0039,Grammar,Beginner, john ,Bank Transfer,700000,50000,650000,paid,active
+PAY02520,2025-07-28,July,STU0365,Math,Beginner,SARAH,E-Wallet,500000,50000,450000,paid,Active
+PAY02521,2025-07-05,July,STU0163,Math,Beginner,,Transfer,500000,50000,450000,paid,Active
+PAY02522,2025-04-29,April,STU0282,Math,Advanced,SARAH,E-Wallet,700000,50000,650000,paid,active
+PAY02523,"Oct 10, 2025",October,STU0021,Speaking,Intermediate,Sarah, Cash ,500000,100000,400000,Unpaid,active
+PAY02524,27/01/2025,January,STU0302,English,Beginner, john ,Cash,500000,0,500000,Unpaid,active
+PAY02525,2025-07-27,July,STU0288,TOEFL,Beginner,Emily,Transfer,700000,25000,675000,Paid,Active
+PAY02526,2025-11-19,November,STU0065,IELTS,Advanced,SARAH,Transfer,750000,25000,725000,Unpaid,Active
+PAY02527,"Dec 15, 2025",December,STU0097,ENG,Advanced,Linda,Cash,5000000,,,Unpaid,Inactive
+PAY02528,2025/11/10,November,STU0070,english,Advanced,Jhon,E-Wallet,650000,-50000,700000,Unpaid,active
+PAY02529,2025-05-08,May,STU0255,English,Beginner,Jhon,E-Wallet,750000,50000,700000,Paid,active
+PAY02530,20/12/2025,December,STU0298,Math,Advanced,Linda,Transfer,5000000,25000,4975000,paid,Active
+PAY02531,29/04/2025,April,STU0203,IELTS,Beginner,David,Cash,500000,,,paid,Active
+PAY02532,30/11/2025,November,STU0055,Grammar,Beginner, john ,Transfer,500000,,,Paid,Active
+PAY02533,"Jul 08, 2025",July,STU0349,Speaking,Intermediate,Linda,,750000,100000,650000,paid,Inactive
+PAY02534,2025/04/16,April,STU0440,TOEFL,Intermediate, john ,Bank Transfer,700000,25000,675000,Unpaid,Active
+PAY02535,2025-05-10,May,STU0401,English,Advanced, john ,E-Wallet,750000,100000,650000,Unpaid,Inactive
+PAY02536,2025-07-31,July,STU0091,english,Beginner, john ,,700000,25000,675000,paid,Active
+PAY02537,2025/10/28,October,STU0231,TOEFL,Advanced,David,,700000,50000,650000,Unpaid,Actve
+PAY02538,19/05/2025,May,STU0069,English,Beginner, john ,transfer,750000,25000,725000,Paid,Inactive
+PAY02539,"Feb 26, 2025",February,STU0051,Speaking,Advanced,SARAH,,700000,-50000,750000,Unpaid,Actve
+PAY02540,2025-01-11,January,STU0145,Speaking,Beginner,SARAH,,5000000,0,5000000,paid,Inactive
+PAY02541,2025/11/18,November,STU0011,Grammar,Advanced,SARAH,transfer,5000000,0,5000000,paid,active
+PAY02542,2025/01/01,January,STU0157,english,Intermediate,David,E-Wallet,650000,25000,625000,Paid,Actve
+PAY02543,"Dec 09, 2025",December,STU0101,TOEFL,Intermediate,John,,500000,100000,400000,Unpaid,active
+PAY02544,30/08/2025,August,STU0221,English,Advanced,Sarah,Cash,5000000,50000,4950000,paid,Inactive
+PAY02545,2025/04/29,April,STU0274,Math,Beginner,SARAH,transfer,500000,25000,475000,paid,Inactive
+PAY02546,24/04/2025,April,STU0132,English,Advanced,Jhon,Cash,650000,50000,600000,Unpaid,Actve
+PAY02547,2025-04-18,April,STU0048,Speaking,Advanced,SARAH, Cash ,700000,25000,675000,paid,Inactive
+PAY02548,2025/01/23,January,STU0388,English,Intermediate,Linda,,700000,-50000,750000,Unpaid,active
+PAY02549,2025-02-21,February,STU0295,Speaking,Beginner,Jhon, Cash ,5000000,-50000,5050000,Unpaid,active
+PAY02550,20/08/2025,August,STU0322,English,Advanced,David,Transfer,500000,,,Paid,Inactive
+PAY02551,2025-04-30,April,STU0102,IELTS,Intermediate, john ,Cash,650000,25000,625000,paid,Actve
+PAY02552,26/04/2025,April,STU0371,TOEFL,Intermediate,David,,500000,0,500000,paid,Actve
+PAY02553,2025-03-20,March,STU0088,Grammar,Beginner,SARAH,Transfer,650000,100000,550000,paid,Actve
+PAY02554,2025-02-25,February,STU0213,Math,Intermediate,Linda, Cash ,650000,25000,625000,Paid,active
+PAY02555,"Sep 24, 2025",September,STU0305,TOEFL,Intermediate,Jhon,Transfer,750000,25000,725000,paid,Actve
+PAY02556,"May 23, 2025",May,STU0376,English,Beginner,Jhon,Bank Transfer,700000,-50000,750000,Unpaid,Actve
+PAY02557,2025-02-16,February,STU0359,Math,Advanced, john ,transfer,650000,0,650000,paid,Inactive
+PAY02558,28/01/2025,January,STU0124,English,Advanced,,E-Wallet,5000000,25000,4975000,Paid,Inactive
+PAY02559,2025-10-03,October,STU0133,Speaking,Intermediate,SARAH,Transfer,700000,-50000,750000,Paid,Active
+PAY02560,2025/08/07,August,STU0113,Math,Advanced,Michael,E-Wallet,650000,25000,625000,Unpaid,Active
+PAY02561,2025-08-05,August,STU0142,Grammar,Beginner,John,,700000,100000,600000,Paid,Active
+PAY02562,2025-12-07,December,STU0388,Math,Beginner,Linda,transfer,500000,0,500000,Paid,Actve
+PAY02563,"Oct 03, 2025",October,STU0310,English,Advanced,Michael,Bank Transfer,500000,,,Unpaid,Actve
+PAY02564,2025-12-11,December,STU0150,Speaking,Beginner,Sarah,E-Wallet,5000000,,,Paid,Actve
+PAY02565,2025/05/28,May,STU0423,Speaking,Advanced,,,5000000,0,5000000,Paid,active
+PAY02566,2025/07/14,July,STU0014,English,Advanced,John,Cash,500000,-50000,550000,paid,active
+PAY02567,2025/05/06,May,STU0186,Speaking,Advanced,Michael,transfer,700000,,,Unpaid,Active
+PAY02568,2025/05/01,May,STU0165,Grammar,Advanced,John,Bank Transfer,650000,50000,600000,Unpaid,Inactive
+PAY02569,2025/10/23,October,STU0321,ENG,Beginner,Jhon,Transfer,500000,-50000,550000,Paid,Actve
+PAY02570,2025/11/05,November,STU0009,IELTS,Beginner,Sarah,Cash,5000000,50000,4950000,Unpaid,Active
+PAY02571,2025/03/04,March,STU0285,English,Intermediate,David,,700000,-50000,750000,paid,Inactive
+PAY02572,2025/10/08,October,STU0194,TOEFL,Advanced,Sarah,transfer,750000,25000,725000,Unpaid,Inactive
+PAY02573,2025-03-21,March,STU0348,Speaking,Advanced,Michael,E-Wallet,650000,,,paid,active
+PAY02574,"Jul 28, 2025",July,STU0215,IELTS,Intermediate,SARAH,transfer,650000,0,650000,Paid,Active
+PAY02575,"Jun 08, 2025",June,STU0421,english,Intermediate,Jhon,Transfer,500000,100000,400000,Unpaid,active
+PAY02576,2025-05-29,May,STU0370,Grammar,Intermediate,SARAH, Cash ,650000,100000,550000,Paid,active
+PAY02577,2025-04-09,April,STU0211,Speaking,Intermediate,SARAH,E-Wallet,500000,100000,400000,paid,Active
+PAY02578,2025-04-26,April,STU0257,IELTS,Intermediate,Emily, Cash ,700000,25000,675000,Paid,Actve
+PAY02579,2025-11-09,November,STU0328,English,Intermediate,Linda,Transfer,700000,0,700000,Paid,Inactive
+PAY02580,01/07/2025,July,STU0453,Math,Intermediate,Linda,,5000000,50000,4950000,Paid,Active
+PAY02581,2025-02-16,February,STU0370,Math,Advanced,John,E-Wallet,5000000,100000,4900000,Paid,Inactive
+PAY02582,2025-10-31,October,STU0208,Grammar,Beginner,John,transfer,650000,100000,550000,Paid,Active
+PAY02583,2025/02/12,February,STU0492,english,Advanced,SARAH,Cash,700000,100000,600000,Paid,Inactive
+PAY02584,2025-04-17,April,STU0399,english,Beginner,SARAH,Transfer,500000,-50000,550000,paid,Active
+PAY02585,2025/05/06,May,STU0255,Speaking,Advanced,David,,700000,100000,600000,paid,Active
+PAY02586,2025-08-01,August,STU0189,Grammar,Beginner,John,Cash,5000000,,,Unpaid,Active
+PAY02587,"Mar 05, 2025",March,STU0119,english,Advanced, john ,Bank Transfer,500000,-50000,550000,Paid,Inactive
+PAY02588,28/07/2025,July,STU0111,IELTS,Beginner,Linda,transfer,650000,,,Unpaid,active
+PAY02589,2025/06/22,June,STU0019,Speaking,Beginner,SARAH,E-Wallet,500000,0,500000,Unpaid,Active
+PAY02590,2025-07-07,July,STU0203,english,Intermediate,John,E-Wallet,700000,25000,675000,paid,Active
+PAY02591,01/03/2025,March,STU0484,TOEFL,Beginner,SARAH,Transfer,750000,0,750000,Unpaid,Actve
+PAY02592,2025-07-23,July,STU0234,Math,Intermediate,Linda,Cash,500000,100000,400000,Paid,Inactive
+PAY02593,"May 11, 2025",May,STU0261,IELTS,Intermediate,,Cash,700000,0,700000,Unpaid,Actve
+PAY02594,06/08/2025,August,STU0426,Speaking,Intermediate,John,Cash,5000000,25000,4975000,Paid,active
+PAY02595,2025-10-11,October,STU0176,Speaking,Beginner, john ,,5000000,100000,4900000,paid,Inactive
+PAY02596,2025-07-28,July,STU0315,Math,Beginner,Sarah, Cash ,650000,25000,625000,Unpaid,Actve
+PAY02597,2025-12-20,December,STU0290,Math,Intermediate,David,E-Wallet,5000000,0,5000000,Paid,Active
+PAY02598,"Aug 20, 2025",August,STU0307,english,Advanced,,,5000000,25000,4975000,Unpaid,active
+PAY02599,2025/10/10,October,STU0275,Grammar,Advanced,Jhon, Cash ,500000,-50000,550000,paid,Inactive
+PAY02600,"Mar 17, 2025",March,STU0396,Speaking,Advanced,,,5000000,0,5000000,Paid,Inactive
+PAY02601,2025-04-08,April,STU0073,english,Intermediate,,E-Wallet,650000,25000,625000,Paid,Actve
+PAY02602,2025-11-15,November,STU0328,Math,Intermediate,Jhon,Cash,5000000,100000,4900000,paid,Actve
+PAY02603,31/03/2025,March,STU0371,TOEFL,Advanced,,Transfer,700000,-50000,750000,Unpaid,active
+PAY02604,29/11/2025,November,STU0288,English,Intermediate,John,Bank Transfer,5000000,25000,4975000,Unpaid,Active
+PAY02605,2025/03/14,March,STU0435,IELTS,Intermediate,,,700000,0,700000,Unpaid,Inactive
+PAY02606,"Aug 11, 2025",August,STU0194,Grammar,Intermediate,Sarah,,500000,-50000,550000,Paid,Active
+PAY02607,2025/10/15,October,STU0352,IELTS,Beginner,SARAH,Bank Transfer,750000,0,750000,paid,active
+PAY02608,"Mar 03, 2025",March,STU0077,TOEFL,Advanced,David,,650000,50000,600000,paid,active
+PAY02609,2025-11-17,November,STU0115,English,Beginner,SARAH,transfer,500000,25000,475000,paid,Actve
+PAY02610,2025-07-19,July,STU0391,english,Advanced,Linda,Cash,500000,0,500000,Paid,Inactive
+PAY02611,"Nov 10, 2025",November,STU0193,English,Advanced,David,Cash,500000,0,500000,Unpaid,Active
+PAY02612,2025-06-14,June,STU0442,TOEFL,Advanced, john , Cash ,750000,100000,650000,Unpaid,Inactive
+PAY02613,"Jan 26, 2025",January,STU0009,ENG,Intermediate, john ,E-Wallet,650000,,,Unpaid,Actve
+PAY02614,2025-03-25,March,STU0391,english,Advanced,Michael,E-Wallet,750000,25000,725000,Paid,active
+PAY02615,2025-01-10,January,STU0243,english,Beginner,Michael,E-Wallet,750000,,,paid,Active
+PAY02616,2025-05-15,May,STU0135,Math,Beginner,Linda,Transfer,750000,-50000,800000,Unpaid,Inactive
+PAY02617,15/02/2025,February,STU0088,TOEFL,Intermediate,Jhon,Cash,700000,50000,650000,Unpaid,Active
+PAY02618,2025-08-26,August,STU0041,IELTS,Beginner,Jhon,Cash,650000,25000,625000,Paid,Actve
+PAY02619,"May 02, 2025",May,STU0294,Grammar,Intermediate,Sarah,Transfer,650000,100000,550000,Paid,Actve
+PAY02620,"Feb 08, 2025",February,STU0372,IELTS,Advanced,Emily,Cash,700000,50000,650000,Paid,Actve
+PAY02621,2025-05-31,May,STU0028,TOEFL,Intermediate,Linda, Cash ,500000,100000,400000,Unpaid,Active
+PAY02622,2025/07/23,July,STU0464,ENG,Advanced, john , Cash ,5000000,0,5000000,paid,Inactive
+PAY02623,2025-04-06,April,STU0450,ENG,Advanced,SARAH,,500000,25000,475000,Paid,Active
+PAY02624,18/11/2025,November,STU0215,IELTS,Advanced,SARAH,Bank Transfer,700000,-50000,750000,paid,Actve
+PAY02625,2025/12/18,December,STU0119,TOEFL,Beginner,SARAH,Transfer,650000,100000,550000,paid,active
+PAY02626,2025-07-29,July,STU0231,English,Intermediate,,E-Wallet,700000,25000,675000,paid,Actve
+PAY02627,2025-07-26,July,STU0207,ENG,Beginner,Jhon,E-Wallet,750000,100000,650000,Paid,Active
+PAY02628,2025-07-06,July,STU0338,IELTS,Beginner,Linda, Cash ,750000,-50000,800000,Unpaid,active
+PAY02629,12/12/2025,December,STU0338,Grammar,Beginner,Emily,E-Wallet,500000,100000,400000,Unpaid,Active
+PAY02630,"Dec 18, 2025",December,STU0038,IELTS,Beginner,,Transfer,750000,-50000,800000,Unpaid,Actve
+PAY02631,2025-08-22,August,STU0350,Speaking,Beginner,Jhon,E-Wallet,5000000,-50000,5050000,paid,active
+PAY02632,2025-10-07,October,STU0020,Grammar,Beginner,, Cash ,650000,25000,625000,paid,Inactive
+PAY02633,2025/12/06,December,STU0260,Speaking,Advanced,Michael,Bank Transfer,5000000,,,paid,active
+PAY02634,2025-11-09,November,STU0321,ENG,Beginner, john ,Cash,500000,50000,450000,Unpaid,Inactive
+PAY02635,2025/05/01,May,STU0277,IELTS,Beginner,,transfer,750000,100000,650000,Unpaid,Actve
+PAY02636,2025-02-09,February,STU0253,english,Advanced,Michael,,750000,100000,650000,paid,Actve
+PAY02637,2025/09/16,September,STU0296,TOEFL,Intermediate,John,,650000,25000,625000,paid,active
+PAY02638,2025-12-15,December,STU0321,TOEFL,Intermediate,John, Cash ,750000,,,Unpaid,Active
+PAY02639,"Dec 06, 2025",December,STU0170,ENG,Advanced,John,Cash,750000,100000,650000,paid,Active
+PAY02640,"Mar 27, 2025",March,STU0176,Grammar,Intermediate,David,Transfer,5000000,25000,4975000,paid,Actve
+PAY02641,2025/08/24,August,STU0418,Speaking,Beginner,Linda, Cash ,650000,25000,625000,Paid,active
+PAY02642,20/07/2025,July,STU0473,Math,Intermediate,Jhon,Transfer,650000,-50000,700000,Unpaid,Active
+PAY02643,"Dec 17, 2025",December,STU0370,ENG,Beginner,Emily,transfer,650000,-50000,700000,Paid,Inactive
+PAY02644,26/07/2025,July,STU0401,Grammar,Beginner,Linda,,650000,50000,600000,paid,Active
+PAY02645,2025/10/14,October,STU0331,ENG,Advanced,David,transfer,700000,50000,650000,paid,active
+PAY02646,"Jan 09, 2025",January,STU0134,TOEFL,Beginner,Linda,Bank Transfer,750000,,,paid,Active
+PAY02647,2025-12-12,December,STU0085,English,Beginner,SARAH,,500000,100000,400000,paid,active
+PAY02648,25/10/2025,October,STU0187,TOEFL,Intermediate,David,Cash,700000,0,700000,Unpaid,active
+PAY02649,2025-08-21,August,STU0111,IELTS,Intermediate,,Transfer,700000,50000,650000,Unpaid,Actve
+PAY02650,2025-09-26,September,STU0163,English,Beginner,,Bank Transfer,650000,100000,550000,Paid,Active
+PAY02651,2025-05-26,May,STU0197,Math,Advanced,,E-Wallet,500000,50000,450000,Unpaid,Active
+PAY02652,06/11/2025,November,STU0067,TOEFL,Advanced,SARAH,E-Wallet,750000,0,750000,Unpaid,Actve
+PAY02653,25/03/2025,March,STU0415,english,Intermediate,John,Bank Transfer,700000,-50000,750000,paid,Actve
+PAY02654,2025/08/19,August,STU0071,ENG,Advanced,Emily,E-Wallet,700000,50000,650000,Unpaid,active
+PAY02655,"Oct 05, 2025",October,STU0408,Grammar,Advanced,,Bank Transfer,5000000,100000,4900000,Paid,Inactive
+PAY02656,2025-06-05,June,STU0171,English,Beginner,John,Cash,500000,,,Paid,Inactive
+PAY02657,"Jun 07, 2025",June,STU0119,Math,Beginner,Michael, Cash ,650000,-50000,700000,Paid,active
+PAY02658,2025-06-12,June,STU0247,English,Advanced,Linda, Cash ,650000,0,650000,paid,Actve
+PAY02659,12/10/2025,October,STU0436,english,Intermediate,,E-Wallet,500000,50000,450000,paid,Actve
+PAY02660,2025/03/15,March,STU0327,ENG,Advanced,David, Cash ,650000,100000,550000,Unpaid,Inactive
+PAY02661,04/01/2025,January,STU0361,IELTS,Intermediate,David,Transfer,700000,-50000,750000,Paid,Inactive
+PAY02662,2025-03-30,March,STU0065,TOEFL,Advanced,Michael,,650000,25000,625000,paid,Active
+PAY02663,"Nov 17, 2025",November,STU0379,English,Beginner,SARAH,Transfer,5000000,0,5000000,Unpaid,active
+PAY02664,08/09/2025,September,STU0177,English,Advanced,Michael,,650000,,,Unpaid,Actve
+PAY02665,2025-09-23,September,STU0461,Grammar,Intermediate, john ,Bank Transfer,750000,25000,725000,Unpaid,active
+PAY02666,"Oct 15, 2025",October,STU0442,English,Intermediate,Michael,E-Wallet,750000,25000,725000,Paid,Actve
+PAY02667,15/07/2025,July,STU0445,IELTS,Advanced, john ,Cash,500000,100000,400000,paid,Actve
+PAY02668,2025-03-31,March,STU0227,TOEFL,Advanced,,Transfer,750000,,,Paid,active
+PAY02669,04/04/2025,April,STU0466,TOEFL,Advanced,Jhon,Transfer,650000,-50000,700000,Paid,Actve
+PAY02670,2025-06-17,June,STU0074,TOEFL,Beginner,Emily, Cash ,700000,25000,675000,Unpaid,Inactive
+PAY02671,23/10/2025,October,STU0137,english,Beginner, john , Cash ,700000,-50000,750000,paid,Actve
+PAY02672,10/09/2025,September,STU0483,English,Advanced,Emily,Bank Transfer,650000,100000,550000,Unpaid,Actve
+PAY02673,2025-11-09,November,STU0435,ENG,Beginner,Michael,E-Wallet,650000,100000,550000,Paid,Actve
+PAY02674,05/02/2025,February,STU0462,ENG,Advanced, john , Cash ,500000,50000,450000,Paid,Inactive
+PAY02675,"Sep 09, 2025",September,STU0485,TOEFL,Beginner,Michael,Cash,650000,-50000,700000,paid,Active
+PAY02676,"Mar 10, 2025",March,STU0442,English,Advanced,Linda,Transfer,750000,,,Paid,Active
+PAY02677,2025/05/16,May,STU0266,ENG,Intermediate,Linda, Cash ,5000000,,,paid,active
+PAY02678,"Dec 08, 2025",December,STU0202,English,Beginner,Linda,Cash,650000,25000,625000,Unpaid,active
+PAY02679,2025/05/01,May,STU0294,Grammar,Beginner, john ,Cash,500000,-50000,550000,Unpaid,Inactive
+PAY02680,2025-04-18,April,STU0086,Grammar,Advanced,John,Cash,500000,25000,475000,Unpaid,Inactive
+PAY02681,"Sep 02, 2025",September,STU0422,TOEFL,Beginner,,transfer,5000000,25000,4975000,Unpaid,Active
+PAY02682,2025/04/18,April,STU0075,english,Beginner,Michael, Cash ,500000,-50000,550000,Paid,Active
+PAY02683,17/04/2025,April,STU0492,ENG,Intermediate, john ,,500000,,,paid,Inactive
+PAY02684,2025-01-28,January,STU0060,Math,Intermediate,Jhon,Cash,5000000,,,Paid,Inactive
+PAY02685,2025-01-22,January,STU0070,Grammar,Advanced,SARAH,,5000000,,,Unpaid,Inactive
+PAY02686,12/04/2025,April,STU0221,english,Intermediate,Linda,E-Wallet,500000,50000,450000,Paid,Inactive
+PAY02687,"Aug 22, 2025",August,STU0402,Speaking,Beginner,Sarah,Cash,5000000,0,5000000,Unpaid,Active
+PAY02688,2025/10/13,October,STU0441,English,Advanced,Emily,Transfer,5000000,25000,4975000,Paid,active
+PAY02689,12/07/2025,July,STU0434,Grammar,Intermediate,Jhon,,500000,-50000,550000,Paid,Active
+PAY02690,"Apr 20, 2025",April,STU0422,English,Beginner,Linda,transfer,650000,,,Paid,Inactive
+PAY02691,22/05/2025,May,STU0277,Grammar,Intermediate,David,,750000,50000,700000,Paid,Inactive
+PAY02692,"Jan 14, 2025",January,STU0014,IELTS,Intermediate,John,transfer,500000,,,Paid,active
+PAY02693,11/11/2025,November,STU0143,English,Beginner,,E-Wallet,750000,25000,725000,Paid,Actve
+PAY02694,2025/02/13,February,STU0117,IELTS,Beginner,David,E-Wallet,750000,-50000,800000,paid,Active
+PAY02695,"Jun 25, 2025",June,STU0351,English,Beginner,David,Cash,700000,25000,675000,Paid,Active
+PAY02696,2025-03-05,March,STU0208,ENG,Advanced, john ,Bank Transfer,5000000,50000,4950000,Unpaid,active
+PAY02697,2025-11-15,November,STU0399,Grammar,Intermediate,David,transfer,700000,100000,600000,Paid,Inactive
+PAY02698,2025/05/09,May,STU0129,ENG,Intermediate,John,Cash,500000,25000,475000,Paid,Active
+PAY02699,2025-03-02,March,STU0467,english,Advanced,Linda,Cash,500000,25000,475000,Unpaid,Actve
+PAY02700,2025-05-22,May,STU0022,English,Advanced,Sarah,,750000,25000,725000,paid,active
+PAY02701,2025-08-18,August,STU0369,Math,Intermediate,John,transfer,650000,-50000,700000,Paid,Inactive
+PAY02702,2025-09-18,September,STU0028,ENG,Advanced,Linda,Bank Transfer,750000,100000,650000,Paid,Active
+PAY02703,"May 28, 2025",May,STU0103,english,Beginner,Sarah, Cash ,5000000,50000,4950000,Paid,Active
+PAY02704,2025/01/09,January,STU0271,Grammar,Intermediate,Jhon, Cash ,650000,50000,600000,Unpaid,active
+PAY02705,2025-09-12,September,STU0171,TOEFL,Advanced,Linda,E-Wallet,650000,0,650000,Unpaid,Inactive
+PAY02706,"Aug 14, 2025",August,STU0077,Math,Intermediate,,Cash,750000,100000,650000,paid,Inactive
+PAY02707,2025/03/12,March,STU0137,english,Intermediate,Jhon,Cash,500000,0,500000,Unpaid,active
+PAY02708,2025-11-17,November,STU0302,ENG,Advanced, john ,Cash,500000,0,500000,Unpaid,Active
+PAY02709,"Jan 11, 2025",January,STU0483,Math,Advanced,,,5000000,25000,4975000,paid,active
+PAY02710,2025-10-21,October,STU0363,Math,Intermediate,Michael,Cash,700000,25000,675000,Unpaid,Active
+PAY02711,"Oct 29, 2025",October,STU0203,ENG,Advanced,Linda, Cash ,5000000,100000,4900000,Paid,Inactive
+PAY02712,2025/08/26,August,STU0285,Speaking,Beginner,Jhon,transfer,500000,100000,400000,Paid,Inactive
+PAY02713,2025/04/21,April,STU0293,Speaking,Beginner,Linda,,700000,0,700000,Paid,active
+PAY02714,12/08/2025,August,STU0264,Speaking,Advanced,,Cash,650000,,,paid,Actve
+PAY02715,2025-01-08,January,STU0435,IELTS,Beginner,Linda,transfer,700000,25000,675000,Paid,Actve
+PAY02716,04/10/2025,October,STU0431,IELTS,Advanced,John, Cash ,500000,0,500000,paid,active
+PAY02717,2025-02-18,February,STU0385,ENG,Beginner,Sarah,Cash,650000,50000,600000,Unpaid,Active
+PAY02718,"Oct 03, 2025",October,STU0436,Math,Advanced,Jhon,Bank Transfer,5000000,0,5000000,Unpaid,Inactive
+PAY02719,2025-03-24,March,STU0378,TOEFL,Advanced, john ,E-Wallet,750000,50000,700000,Unpaid,Actve
+PAY02720,06/01/2025,January,STU0024,english,Intermediate,Emily,transfer,500000,0,500000,paid,Active
+PAY02721,03/04/2025,April,STU0305,english,Beginner,Sarah,Transfer,750000,-50000,800000,paid,Actve
+PAY02722,"Dec 12, 2025",December,STU0287,IELTS,Intermediate,Jhon,E-Wallet,650000,-50000,700000,paid,Actve
+PAY02723,2025-12-07,December,STU0118,Math,Intermediate,Sarah,,700000,0,700000,paid,Actve
+PAY02724,"Feb 27, 2025",February,STU0283,TOEFL,Beginner, john ,Bank Transfer,750000,0,750000,paid,Inactive
+PAY02725,2025/06/20,June,STU0236,english,Beginner,David, Cash ,700000,0,700000,Paid,Actve
+PAY02726,"Dec 26, 2025",December,STU0128,Speaking,Advanced,Jhon,Cash,5000000,100000,4900000,Unpaid,Actve
+PAY02727,"Sep 19, 2025",September,STU0079,Grammar,Beginner,Jhon,Transfer,650000,0,650000,Paid,active
+PAY02728,24/10/2025,October,STU0065,English,Advanced,,,750000,50000,700000,Paid,active
+PAY02729,2025/10/01,October,STU0315,English,Intermediate,Michael,Bank Transfer,5000000,,,Unpaid,Actve
+PAY02730,2025/03/19,March,STU0012,Math,Beginner,David,Cash,5000000,-50000,5050000,Paid,Active
+PAY02731,28/10/2025,October,STU0308,IELTS,Beginner,Jhon,Cash,700000,,,Paid,Inactive
+PAY02732,2025/09/01,September,STU0128,English,Intermediate,Emily,E-Wallet,500000,50000,450000,paid,Active
+PAY02733,"Jul 25, 2025",July,STU0490,Speaking,Intermediate, john ,Transfer,500000,25000,475000,Unpaid,Active
+PAY02734,2025-11-12,November,STU0447,TOEFL,Advanced,David,Bank Transfer,750000,50000,700000,Paid,Actve
+PAY02735,2025-07-25,July,STU0467,Math,Advanced,Michael, Cash ,750000,,,Unpaid,Active
+PAY02736,2025-10-07,October,STU0075,Math,Intermediate,Sarah,transfer,750000,100000,650000,Unpaid,Actve
+PAY02737,2025-09-22,September,STU0471,english,Advanced,Jhon,Bank Transfer,650000,50000,600000,paid,Actve
+PAY02738,12/11/2025,November,STU0282,ENG,Intermediate,SARAH,transfer,5000000,100000,4900000,paid,active
+PAY02739,2025-12-19,December,STU0161,English,Beginner,Sarah,E-Wallet,700000,50000,650000,Paid,Inactive
+PAY02740,2025/01/30,January,STU0196,English,Intermediate,Sarah,Cash,700000,25000,675000,Unpaid,Active
+PAY02741,2025-08-05,August,STU0395,english,Beginner,Jhon,Bank Transfer,650000,-50000,700000,Paid,Actve
+PAY02742,30/12/2025,December,STU0168,Grammar,Advanced,John,transfer,500000,-50000,550000,Unpaid,Active
+PAY02743,2025-01-26,January,STU0155,IELTS,Intermediate,SARAH,E-Wallet,5000000,,,Unpaid,Inactive
+PAY02744,"Jan 25, 2025",January,STU0141,english,Intermediate, john ,transfer,750000,100000,650000,Paid,active
+PAY02745,"Aug 12, 2025",August,STU0477,Speaking,Intermediate,Jhon,,650000,0,650000,Unpaid,Actve
+PAY02746,"Aug 15, 2025",August,STU0401,Speaking,Intermediate,Linda,Transfer,5000000,0,5000000,paid,Active
+PAY02747,06/08/2025,August,STU0208,english,Beginner,Michael,,650000,50000,600000,Unpaid,active
+PAY02748,"Dec 25, 2025",December,STU0172,Grammar,Beginner,John,Cash,500000,0,500000,paid,Actve
+PAY02749,24/03/2025,March,STU0093,ENG,Intermediate, john , Cash ,500000,25000,475000,paid,Actve
+PAY02750,2025/06/09,June,STU0200,English,Beginner,Sarah,Transfer,650000,50000,600000,Unpaid,Active
+PAY02751,"Feb 17, 2025",February,STU0265,english,Beginner,John,,5000000,50000,4950000,paid,Active
+PAY02752,2025/02/25,February,STU0247,ENG,Advanced,Michael,Transfer,5000000,-50000,5050000,Paid,Inactive
+PAY02753,"Oct 23, 2025",October,STU0140,ENG,Beginner,Jhon,,750000,0,750000,Unpaid,Inactive
+PAY02754,2025/11/23,November,STU0471,IELTS,Beginner,Linda,E-Wallet,500000,25000,475000,Unpaid,Inactive
+PAY02755,"Sep 03, 2025",September,STU0302,english,Advanced,John,transfer,650000,100000,550000,paid,active
+PAY02756,22/11/2025,November,STU0090,Speaking,Beginner,Sarah, Cash ,700000,50000,650000,paid,Inactive
+PAY02757,"Sep 15, 2025",September,STU0487,Speaking,Beginner,John, Cash ,700000,50000,650000,Unpaid,active
+PAY02758,"Jun 06, 2025",June,STU0379,IELTS,Beginner,Sarah,Cash,700000,,,Paid,Inactive
+PAY02759,2025/03/20,March,STU0378,ENG,Advanced,, Cash ,700000,-50000,750000,Paid,Actve
+PAY02760,2025/08/13,August,STU0331,IELTS,Intermediate,Michael,Cash,650000,25000,625000,Paid,Actve
+PAY02761,17/12/2025,December,STU0007,English,Beginner,,,500000,100000,400000,Unpaid,Inactive
+PAY02762,"Jan 22, 2025",January,STU0017,english,Advanced,Linda,Bank Transfer,700000,,,paid,Inactive
+PAY02763,17/05/2025,May,STU0007,English,Advanced,Sarah,E-Wallet,700000,25000,675000,Paid,Actve
+PAY02764,2025/08/14,August,STU0035,english,Intermediate,Michael,Bank Transfer,5000000,50000,4950000,Unpaid,active
+PAY02765,"Dec 10, 2025",December,STU0423,TOEFL,Advanced,Emily, Cash ,700000,50000,650000,Paid,Actve
+PAY02766,05/11/2025,November,STU0055,English,Advanced,Emily,Transfer,750000,,,paid,Active
+PAY02767,2025/03/17,March,STU0448,english,Advanced,,E-Wallet,5000000,-50000,5050000,Unpaid,Inactive
+PAY02768,2025-12-20,December,STU0360,IELTS,Intermediate,Sarah,Bank Transfer,700000,50000,650000,Unpaid,Inactive
+PAY02769,2025/05/10,May,STU0442,english,Advanced,David,Transfer,650000,0,650000,Unpaid,Inactive
+PAY02770,15/04/2025,April,STU0121,TOEFL,Advanced,Sarah,Transfer,5000000,100000,4900000,Paid,Actve
+PAY02771,2025/01/16,January,STU0089,English,Advanced,,E-Wallet,650000,-50000,700000,Paid,Inactive
+PAY02772,2025-03-16,March,STU0118,IELTS,Beginner,John,Cash,500000,0,-500000,paid,Actve
+PAY02773,2025/08/25,August,STU0016,ENG,Advanced,Jhon,Cash,750000,0,750000,Paid,Active
+PAY02774,01/06/2025,June,STU0148,English,Advanced,Linda,E-Wallet,700000,100000,600000,Unpaid,active
+PAY02775,29/11/2025,November,STU0025,ENG,Intermediate,Jhon,,500000,-50000,550000,paid,Inactive
+PAY02776,"Apr 10, 2025",April,STU0302,Grammar,Advanced,Sarah,Cash,700000,100000,600000,Paid,Inactive
+PAY02777,2025/01/09,January,STU0419,Speaking,Intermediate,,transfer,750000,25000,-725000,Unpaid,Active
+PAY02778,2025-06-19,June,STU0460,english,Intermediate,David,Cash,500000,100000,400000,Paid,Active
+PAY02779,2025/11/28,November,STU0363,Math,Advanced,Linda,Bank Transfer,700000,50000,650000,Paid,Actve
+PAY02780,"Oct 05, 2025",October,STU0473,Speaking,Advanced, john ,Cash,500000,100000,400000,paid,Active
+PAY02781,08/07/2025,July,STU0151,IELTS,Intermediate,SARAH, Cash ,750000,100000,650000,paid,Actve
+PAY02782,2025/03/23,March,STU0271,TOEFL,Advanced,Jhon,E-Wallet,5000000,100000,4900000,paid,Active
+PAY02783,2025/08/30,August,STU0190,english,Beginner,Emily,transfer,5000000,0,5000000,Paid,Actve
+PAY02784,2025-07-13,July,STU0483,Math,Beginner,Jhon, Cash ,5000000,25000,4975000,Unpaid,Actve
+PAY02785,20/11/2025,November,STU0041,English,Advanced,Emily,Transfer,750000,0,750000,Paid,Actve
+PAY02786,"Jul 04, 2025",July,STU0061,ENG,Intermediate, john ,Bank Transfer,5000000,50000,4950000,paid,Active
+PAY02787,10/12/2025,December,STU0095,Math,Beginner,SARAH, Cash ,750000,50000,700000,paid,Inactive
+PAY02788,2025-05-24,May,STU0482,IELTS,Intermediate,David,Transfer,5000000,,,Paid,Inactive
+PAY02789,2025/11/05,November,STU0231,English,Advanced,David, Cash ,700000,-50000,750000,paid,active
+PAY02790,17/05/2025,May,STU0151,Grammar,Intermediate,John,Bank Transfer,500000,-50000,550000,Unpaid,Inactive
+PAY02791,02/01/2025,January,STU0001,English,Advanced,John,Cash,650000,50000,600000,paid,Actve
+PAY02792,"Apr 23, 2025",April,STU0236,IELTS,Beginner,Michael,Bank Transfer,750000,50000,700000,Unpaid,Inactive
+PAY02793,15/09/2025,September,STU0370,Speaking,Beginner,John,Cash,5000000,-50000,5050000,Unpaid,Inactive
+PAY02794,"Mar 24, 2025",March,STU0215,Math,Intermediate,SARAH,,750000,25000,725000,Unpaid,Active
+PAY02795,2025-09-04,September,STU0329,English,Beginner,Sarah,E-Wallet,500000,50000,450000,Unpaid,Active
+PAY02796,09/11/2025,November,STU0337,Math,Intermediate,Michael,transfer,750000,0,750000,Paid,Active
+PAY02797,05/07/2025,July,STU0070,TOEFL,Beginner,John,transfer,750000,0,750000,Paid,Actve
+PAY02798,"Oct 31, 2025",October,STU0132,Math,Advanced,,,500000,0,500000,Unpaid,active
+PAY02799,"Dec 24, 2025",December,STU0291,ENG,Intermediate,,E-Wallet,650000,,,paid,Inactive
+PAY02800,"Jul 31, 2025",July,STU0490,ENG,Beginner,Jhon,,650000,-50000,700000,paid,Active
+PAY02801,16/11/2025,November,STU0416,Math,Beginner,Sarah,Cash,750000,25000,725000,Unpaid,active
+PAY02802,24/01/2025,January,STU0207,TOEFL,Advanced,Michael,Cash,700000,-50000,750000,Unpaid,active
+PAY02803,"Apr 20, 2025",April,STU0452,TOEFL,Intermediate,Michael,transfer,750000,50000,700000,paid,Active
+PAY02804,"Jul 27, 2025",July,STU0220,ENG,Beginner,,E-Wallet,5000000,100000,4900000,Paid,active
+PAY02805,03/06/2025,June,STU0163,TOEFL,Intermediate,David,transfer,5000000,50000,4950000,Paid,Active
+PAY02806,"Jun 19, 2025",June,STU0475,Speaking,Advanced,John,transfer,500000,100000,400000,Unpaid,Actve
+PAY02807,"Nov 14, 2025",November,STU0204,IELTS,Beginner,,Transfer,700000,0,700000,paid,Active
+PAY02808,2025-11-01,November,STU0167,Math,Beginner, john , Cash ,5000000,50000,4950000,paid,active
+PAY02809,2025-01-15,January,STU0052,ENG,Advanced,Jhon,Cash,650000,0,650000,paid,Active
+PAY02810,"Mar 14, 2025",March,STU0350,english,Beginner,Michael,Transfer,700000,,,paid,Active
+PAY02811,"Jul 27, 2025",July,STU0478,Speaking,Advanced,Sarah, Cash ,650000,50000,600000,Paid,Active
+PAY02812,12/02/2025,February,STU0402,Grammar,Beginner,John,Transfer,650000,100000,550000,Unpaid,Active
+PAY02813,"Feb 10, 2025",February,STU0369,IELTS,Intermediate,,Bank Transfer,500000,50000,450000,Unpaid,active
+PAY02814,2025/01/17,January,STU0253,Math,Intermediate,Linda,,700000,0,700000,Paid,Actve
+PAY02815,2025-11-01,November,STU0346,Grammar,Advanced,John,Transfer,700000,,,paid,Active
+PAY02816,2025-01-25,January,STU0319,TOEFL,Intermediate,John,Transfer,750000,50000,700000,paid,Active
+PAY02817,"Jan 02, 2025",January,STU0450,TOEFL,Intermediate,John,E-Wallet,700000,25000,675000,paid,active
+PAY02818,2025-02-02,February,STU0466,Math,Beginner,Emily,E-Wallet,5000000,50000,4950000,paid,Inactive
+PAY02819,"Oct 07, 2025",October,STU0352,Grammar,Beginner,John,Bank Transfer,700000,25000,675000,Unpaid,Active
+PAY02820,2025-01-18,January,STU0296,English,Advanced,John,transfer,750000,100000,650000,paid,Actve
+PAY02821,2025-10-08,October,STU0225,ENG,Intermediate,John,,500000,-50000,550000,paid,Inactive
+PAY02822,"Sep 03, 2025",September,STU0112,TOEFL,Advanced,David,Bank Transfer,650000,,,paid,active
+PAY02823,2025-04-26,April,STU0194,IELTS,Intermediate,Emily,Cash,500000,100000,400000,Paid,Inactive
+PAY02824,"Nov 21, 2025",November,STU0195,Grammar,Intermediate,Michael,transfer,500000,0,500000,Paid,active
+PAY02825,2025/02/24,February,STU0032,IELTS,Advanced,, Cash ,5000000,50000,4950000,Paid,Inactive
+PAY02826,"Apr 24, 2025",April,STU0378,English,Advanced,John, Cash ,700000,0,700000,Unpaid,Active
+PAY02827,02/07/2025,July,STU0277,english,Advanced,David,Transfer,500000,,,Paid,Inactive
+PAY02828,2025-03-01,March,STU0407,IELTS,Advanced,John,Bank Transfer,750000,100000,650000,paid,active
+PAY02829,"Aug 22, 2025",August,STU0279,ENG,Intermediate,,,5000000,-50000,5050000,Paid,Active
+PAY02830,2025/03/29,March,STU0119,TOEFL,Intermediate,Michael,,700000,25000,675000,Paid,Inactive
+PAY02831,"Aug 23, 2025",August,STU0131,ENG,Intermediate,John, Cash ,700000,-50000,750000,paid,Inactive
+PAY02832,2025/01/01,January,STU0432,IELTS,Beginner,SARAH,Cash,500000,0,500000,Paid,Inactive
+PAY02833,09/08/2025,August,STU0372,IELTS,Beginner,Emily,E-Wallet,500000,,,Paid,Actve
+PAY02834,"Jan 03, 2025",January,STU0396,Math,Advanced,Jhon,Transfer,5000000,0,5000000,paid,active
+PAY02835,2025-06-20,June,STU0238,ENG,Beginner,Sarah,transfer,5000000,50000,4950000,paid,Active
+PAY02836,2025-12-29,December,STU0392,TOEFL,Beginner,SARAH,transfer,700000,25000,675000,paid,Inactive
+PAY02837,2025/09/18,September,STU0493,Speaking,Beginner,Sarah,E-Wallet,650000,-50000,700000,Paid,Inactive
+PAY02838,02/09/2025,September,STU0110,Speaking,Advanced,Michael, Cash ,500000,0,500000,Paid,Inactive
+PAY02839,06/12/2025,December,STU0143,ENG,Intermediate,Linda, Cash ,500000,50000,450000,Paid,Active
+PAY02840,2025/02/03,February,STU0101,English,Advanced,Michael, Cash ,700000,-50000,750000,paid,Active
+PAY02841,2025-03-07,March,STU0366,IELTS,Beginner,Michael,Transfer,650000,0,650000,paid,Actve
+PAY02842,"Sep 12, 2025",September,STU0125,Grammar,Advanced,Linda,Cash,650000,,,Paid,Active
+PAY02843,"Aug 02, 2025",August,STU0101,English,Advanced,John,Bank Transfer,500000,100000,400000,paid,Inactive
+PAY02844,2025/08/14,August,STU0300,Math,Advanced,SARAH,Transfer,750000,50000,700000,Paid,Active
+PAY02845,2025-12-17,December,STU0350,Math,Intermediate,David,transfer,650000,-50000,700000,paid,Active
+PAY02846,23/03/2025,March,STU0432,Speaking,Beginner,,transfer,500000,0,500000,Unpaid,Inactive
+PAY02847,2025-03-19,March,STU0008,English,Intermediate,Jhon,E-Wallet,650000,0,650000,Unpaid,Actve
+PAY02848,2025/07/21,July,STU0202,IELTS,Beginner,,E-Wallet,500000,100000,400000,Unpaid,active
+PAY02849,2025-07-05,July,STU0391,Speaking,Intermediate,John,transfer,700000,-50000,750000,Unpaid,Actve
+PAY02850,"Apr 11, 2025",April,STU0291,english,Intermediate,John,Bank Transfer,5000000,25000,4975000,paid,Actve
+PAY02851,2025/03/27,March,STU0198,IELTS,Intermediate,Sarah,Cash,650000,25000,625000,Unpaid,Inactive
+PAY02852,11/05/2025,May,STU0425,Grammar,Advanced,SARAH, Cash ,750000,,,Unpaid,active
+PAY02853,11/12/2025,December,STU0263,English,Advanced, john ,E-Wallet,500000,,,paid,Active
+PAY02854,2025/11/15,November,STU0160,Math,Advanced,,E-Wallet,650000,,,paid,Actve
+PAY02855,15/05/2025,May,STU0123,IELTS,Advanced,David,transfer,650000,-50000,700000,Paid,active
+PAY02856,2025-12-08,December,STU0126,Speaking,Beginner,John,,700000,-50000,750000,paid,Inactive
+PAY02857,2025-02-09,February,STU0208,English,Intermediate,David,Bank Transfer,700000,,,Unpaid,Actve
+PAY02858,"Dec 20, 2025",December,STU0206,Speaking,Advanced,Emily,Transfer,750000,50000,700000,Unpaid,Inactive
+PAY02859,"Aug 12, 2025",August,STU0139,english,Intermediate,,,5000000,100000,4900000,paid,Actve
+PAY02860,2025/02/02,February,STU0091,Grammar,Intermediate,Emily,Cash,650000,50000,600000,paid,Active
+PAY02861,"Oct 21, 2025",October,STU0418,Grammar,Beginner,Jhon,E-Wallet,5000000,50000,4950000,Paid,active
+PAY02862,2025/07/10,July,STU0094,Math,Beginner,John,transfer,750000,50000,700000,Unpaid,Inactive
+PAY02863,"May 03, 2025",May,STU0198,Math,Intermediate,John, Cash ,5000000,0,5000000,Unpaid,Inactive
+PAY02864,07/05/2025,May,STU0163,Speaking,Beginner,John,transfer,750000,0,750000,paid,Actve
+PAY02865,2025/04/23,April,STU0349,English,Beginner,SARAH, Cash ,650000,0,650000,paid,Active
+PAY02866,"Sep 11, 2025",September,STU0041,Grammar,Advanced,SARAH,transfer,650000,25000,625000,Paid,active
+PAY02867,12/06/2025,June,STU0337,Speaking,Advanced,Michael,transfer,650000,50000,600000,paid,Actve
+PAY02868,"May 13, 2025",May,STU0100,IELTS,Advanced,John, Cash ,750000,0,750000,paid,Actve
+PAY02869,24/06/2025,June,STU0068,english,Intermediate,Emily,transfer,650000,100000,550000,Paid,Inactive
+PAY02870,2025-08-28,August,STU0331,English,Advanced,Emily,,500000,50000,450000,Paid,Actve
+PAY02871,2025-10-02,October,STU0266,English,Beginner,John,Transfer,500000,50000,450000,Unpaid,Inactive
+PAY02872,2025-03-07,March,STU0340,TOEFL,Beginner,Jhon,Cash,700000,25000,675000,paid,active
+PAY02873,2025-04-27,April,STU0322,Math,Intermediate,Michael,Cash,650000,100000,550000,Paid,Active
+PAY02874,2025/04/12,April,STU0079,english,Beginner,John,E-Wallet,5000000,50000,4950000,paid,Inactive
+PAY02875,2025/10/22,October,STU0192,Grammar,Advanced,Linda,Transfer,650000,50000,600000,Paid,Inactive
+PAY02876,2025/03/19,March,STU0458,IELTS,Beginner,David,Bank Transfer,650000,,,Unpaid,Inactive
+PAY02877,01/07/2025,July,STU0045,Grammar,Beginner, john ,transfer,650000,25000,625000,Paid,Active
+PAY02878,2025/10/10,October,STU0311,ENG,Beginner,SARAH,,500000,-50000,550000,Paid,Inactive
+PAY02879,2025-07-15,July,STU0080,english,Beginner,Emily, Cash ,500000,0,500000,paid,Inactive
+PAY02880,13/10/2025,October,STU0432,english,Advanced,David,E-Wallet,500000,100000,400000,Unpaid,Actve
+PAY02881,02/09/2025,September,STU0068,IELTS,Beginner,Linda, Cash ,700000,100000,600000,Paid,Inactive
+PAY02882,2025-03-24,March,STU0079,Grammar,Advanced,,Transfer,500000,-50000,550000,paid,Inactive
+PAY02883,"Apr 02, 2025",April,STU0421,Grammar,Beginner,Emily, Cash ,750000,0,750000,Paid,Actve
+PAY02884,2025/05/05,May,STU0059,English,Intermediate,Jhon, Cash ,650000,0,650000,Unpaid,active
+PAY02885,23/02/2025,February,STU0118,Speaking,Beginner,SARAH,Bank Transfer,500000,100000,400000,Paid,Active
+PAY02886,2025-12-04,December,STU0339,English,Advanced,David, Cash ,650000,100000,550000,Unpaid,Inactive
+PAY02887,2025/10/20,October,STU0375,Speaking,Intermediate,John,Bank Transfer,700000,100000,600000,Unpaid,active
+PAY02888,2025-10-19,October,STU0189,Math,Intermediate,David,Cash,650000,,,Paid,active
+PAY02889,2025/06/18,June,STU0344,Math,Advanced,Jhon,E-Wallet,700000,0,700000,Paid,active
+PAY02890,2025/08/19,August,STU0412,English,Beginner,John,Bank Transfer,700000,25000,675000,Paid,Actve
+PAY02891,2025-03-23,March,STU0255,Math,Beginner,Sarah,Transfer,500000,-50000,550000,Unpaid,Active
+PAY02892,14/04/2025,April,STU0273,ENG,Intermediate,John,E-Wallet,750000,-50000,800000,paid,Actve
+PAY02893,2025-04-21,April,STU0248,TOEFL,Beginner,,,650000,100000,550000,Paid,Inactive
+PAY02894,2025/08/13,August,STU0357,ENG,Advanced,SARAH,transfer,500000,100000,400000,Unpaid,Inactive
+PAY02895,23/11/2025,November,STU0104,Math,Advanced,Sarah, Cash ,5000000,,,Unpaid,active
+PAY02896,08/06/2025,June,STU0403,Grammar,Beginner,Linda,Cash,500000,-50000,550000,Paid,Active
+PAY02897,2025-03-23,March,STU0013,Grammar,Intermediate,Jhon,Bank Transfer,5000000,0,5000000,Unpaid,Actve
+PAY02898,2025/05/26,May,STU0072,english,Advanced, john ,transfer,500000,,,Unpaid,active
+PAY02899,2025/10/06,October,STU0230,ENG,Intermediate,Sarah,transfer,750000,100000,650000,Paid,Actve
+PAY02900,2025/06/27,June,STU0017,English,Intermediate,Linda,Bank Transfer,500000,50000,450000,Unpaid,Inactive
+PAY02901,29/08/2025,August,STU0500,Speaking,Advanced,Jhon,E-Wallet,500000,-50000,550000,Paid,Actve
+PAY02902,2025-08-14,August,STU0184,IELTS,Advanced,Jhon,Transfer,500000,,,Unpaid,Inactive
+PAY02903,"Jan 26, 2025",January,STU0092,Grammar,Intermediate,Sarah,Transfer,5000000,100000,4900000,paid,Inactive
+PAY02904,2025/08/25,August,STU0041,Grammar,Advanced,David,E-Wallet,650000,100000,550000,paid,active
+PAY02905,2025/11/10,November,STU0223,TOEFL,Intermediate,Emily,,700000,50000,650000,Unpaid,active
+PAY02906,"Apr 24, 2025",April,STU0157,Math,Intermediate,,E-Wallet,700000,0,700000,paid,Inactive
+PAY02907,08/11/2025,November,STU0146,TOEFL,Advanced,David,transfer,700000,50000,650000,Unpaid,Active
+PAY02908,27/09/2025,September,STU0169,english,Beginner,, Cash ,650000,25000,625000,Unpaid,Inactive
+PAY02909,"Oct 22, 2025",October,STU0496,English,Advanced, john ,Transfer,500000,25000,475000,Paid,Inactive
+PAY02910,2025/02/28,February,STU0461,Grammar,Beginner,David, Cash ,500000,100000,400000,paid,Actve
+PAY02911,"Jul 09, 2025",July,STU0399,IELTS,Beginner,Linda,Cash,750000,-50000,800000,Paid,active
+PAY02912,2025/05/23,May,STU0076,TOEFL,Advanced,John,,700000,100000,600000,Paid,Inactive
+PAY02913,2025-07-02,July,STU0443,ENG,Intermediate,Jhon,,650000,0,650000,Unpaid,Actve
+PAY02914,"Apr 08, 2025",April,STU0430,ENG,Beginner,SARAH,transfer,5000000,50000,4950000,Paid,Inactive
+PAY02915,"Feb 05, 2025",February,STU0133,Grammar,Intermediate,Jhon,Transfer,700000,-50000,750000,Paid,Active
+PAY02916,"Apr 25, 2025",April,STU0094,TOEFL,Intermediate,Michael, Cash ,500000,25000,475000,paid,Inactive
+PAY02917,18/01/2025,January,STU0094,Speaking,Intermediate,Linda, Cash ,650000,50000,600000,Paid,Active
+PAY02918,04/06/2025,June,STU0259,english,Advanced,John,Cash,750000,,,paid,active
+PAY02919,30/12/2025,December,STU0299,English,Beginner,Sarah, Cash ,5000000,50000,4950000,paid,Actve
+PAY02920,"Aug 13, 2025",August,STU0020,Speaking,Beginner,Emily,Cash,500000,100000,400000,Paid,Inactive
+PAY02921,"Oct 02, 2025",October,STU0287,Speaking,Intermediate,Jhon,Bank Transfer,500000,25000,475000,Paid,Actve
+PAY02922,22/06/2025,June,STU0079,TOEFL,Beginner,Michael,Cash,650000,25000,625000,Paid,active
+PAY02923,2025-07-25,July,STU0118,English,Beginner,Linda,Bank Transfer,650000,25000,625000,Unpaid,Actve
+PAY02924,2025-08-14,August,STU0402,ENG,Intermediate,John,transfer,500000,,,Unpaid,Inactive
+PAY02925,"Sep 02, 2025",September,STU0030,IELTS,Intermediate,Emily,Transfer,700000,25000,675000,Paid,Active
+PAY02926,30/03/2025,March,STU0418,ENG,Beginner,Linda,Cash,5000000,-50000,5050000,Paid,active
+PAY02927,2025-03-09,March,STU0035,English,Beginner, john , Cash ,650000,-50000,700000,Paid,Inactive
+PAY02928,05/12/2025,December,STU0030,ENG,Advanced,Jhon,,700000,0,700000,Unpaid,Actve
+PAY02929,2025/02/22,February,STU0212,Math,Advanced,,,750000,50000,700000,Paid,active
+PAY02930,2025/01/26,January,STU0275,ENG,Beginner, john , Cash ,700000,,,Paid,active
+PAY02931,2025-09-16,September,STU0021,Grammar,Intermediate,Jhon,,650000,25000,625000,paid,active
+PAY02932,"Dec 31, 2025",December,STU0485,TOEFL,Intermediate,Linda, Cash ,5000000,,,Paid,Actve
+PAY02933,2025-10-21,October,STU0045,English,Beginner,SARAH,transfer,650000,0,650000,paid,Active
+PAY02934,"May 01, 2025",May,STU0381,English,Advanced,Sarah,transfer,5000000,100000,4900000,Paid,Actve
+PAY02935,2025-05-30,May,STU0054,Speaking,Advanced,Emily,Transfer,650000,-50000,700000,paid,active
+PAY02936,2025/02/26,February,STU0464,ENG,Intermediate,David,Transfer,500000,25000,475000,Paid,Actve
+PAY02937,04/04/2025,April,STU0077,IELTS,Beginner,Jhon,Transfer,500000,50000,450000,Unpaid,active
+PAY02938,"Dec 17, 2025",December,STU0491,TOEFL,Beginner,John, Cash ,5000000,,,paid,Inactive
+PAY02939,"Apr 14, 2025",April,STU0464,English,Intermediate,SARAH,,700000,50000,650000,paid,Actve
+PAY02940,"Sep 18, 2025",September,STU0412,IELTS,Beginner,Emily,E-Wallet,500000,50000,450000,paid,Actve
+PAY02941,"Sep 17, 2025",September,STU0161,TOEFL,Advanced, john ,transfer,500000,-50000,550000,Unpaid,Inactive
+PAY02942,2025/07/23,July,STU0307,Grammar,Intermediate,Linda,Bank Transfer,650000,25000,625000,Paid,Actve
+PAY02943,2025/09/12,September,STU0184,IELTS,Beginner,Jhon,Cash,700000,25000,675000,Unpaid,active
+PAY02944,2025-10-05,October,STU0335,Grammar,Advanced,Michael,Transfer,650000,-50000,700000,paid,active
+PAY02945,2025-03-01,March,STU0078,Grammar,Intermediate,,transfer,700000,100000,600000,Paid,Actve
+PAY02946,2025/05/06,May,STU0424,Speaking,Advanced,Michael,Cash,650000,,,Unpaid,Actve
+PAY02947,"Feb 08, 2025",February,STU0331,Grammar,Beginner,Linda,Transfer,700000,-50000,750000,paid,Active
+PAY02948,2025-04-25,April,STU0437,TOEFL,Advanced,Michael,Cash,500000,50000,450000,paid,Active
+PAY02949,01/04/2025,April,STU0191,Speaking,Advanced,Sarah, Cash ,500000,25000,475000,Unpaid,Inactive
+PAY02950,2025/08/11,August,STU0153,English,Beginner,,Cash,5000000,100000,4900000,paid,active
+PAY02951,2025-05-15,May,STU0385,IELTS,Advanced,John,Cash,750000,50000,700000,Unpaid,Inactive
+PAY02952,2025/10/19,October,STU0126,Grammar,Advanced,Emily,,750000,,,paid,Actve
+PAY02953,2025/11/23,November,STU0397,Math,Advanced,Jhon, Cash ,700000,100000,600000,Paid,Inactive
+PAY02954,01/06/2025,June,STU0477,english,Beginner,Michael,Cash,500000,-50000,550000,Paid,Inactive
+PAY02955,"Jan 09, 2025",January,STU0314,Speaking,Advanced,Linda,,500000,0,500000,Paid,active
+PAY02956,2025-09-06,September,STU0229,IELTS,Intermediate,,E-Wallet,500000,100000,400000,paid,active
+PAY02957,2025-10-22,October,STU0057,English,Beginner,Linda,transfer,650000,-50000,700000,Unpaid,Actve
+PAY02958,11/01/2025,January,STU0480,TOEFL,Advanced,Michael,E-Wallet,500000,0,-500000,Unpaid,Inactive
+PAY02959,2025/10/06,October,STU0324,English,Intermediate,Michael,Bank Transfer,650000,0,-650000,Paid,Inactive
+PAY02960,2025-10-09,October,STU0474,english,Advanced,Michael, Cash ,700000,-50000,750000,paid,Active
+PAY02961,2025/01/31,January,STU0084,ENG,Intermediate,Linda,,750000,-50000,800000,Paid,Inactive
+PAY02962,12/10/2025,October,STU0345,TOEFL,Beginner, john ,transfer,5000000,-50000,5050000,paid,Active
+PAY02963,"Sep 16, 2025",September,STU0468,english,Beginner,Jhon,transfer,500000,,,Paid,Inactive
+PAY02964,"Aug 11, 2025",August,STU0098,IELTS,Advanced,SARAH,,500000,0,500000,Paid,Inactive
+PAY02965,26/04/2025,April,STU0261,TOEFL,Intermediate,Michael,transfer,500000,,,paid,Active
+PAY02966,2025/09/28,September,STU0377,English,Intermediate, john ,transfer,700000,,,Unpaid,Active
+PAY02967,2025-11-30,November,STU0423,IELTS,Beginner,SARAH,E-Wallet,750000,,,Paid,active
+PAY02968,2025-05-07,May,STU0228,english,Beginner, john ,E-Wallet,5000000,25000,4975000,paid,Active
+PAY02969,2025/06/30,June,STU0278,Speaking,Intermediate, john ,Transfer,5000000,-50000,5050000,paid,Active
+PAY02970,2025/03/19,March,STU0421,english,Advanced,Jhon,,750000,50000,700000,Paid,active
+PAY02971,2025-10-22,October,STU0158,IELTS,Intermediate,Emily,Transfer,650000,50000,600000,paid,active
+PAY02972,2025/12/10,December,STU0454,IELTS,Advanced,,Cash,500000,100000,400000,Unpaid,active
+PAY02973,2025/11/18,November,STU0303,Speaking,Beginner, john ,E-Wallet,650000,-50000,700000,paid,Actve
+PAY02974,2025-09-06,September,STU0305,ENG,Intermediate, john ,Bank Transfer,5000000,0,5000000,paid,active
+PAY02975,"Dec 18, 2025",December,STU0261,TOEFL,Advanced,SARAH,,750000,50000,700000,Unpaid,Active
+PAY02976,2025/07/30,July,STU0266,Grammar,Beginner,Jhon, Cash ,650000,50000,600000,paid,Active
+PAY02977,"Jul 14, 2025",July,STU0149,Grammar,Beginner,,Transfer,5000000,-50000,5050000,paid,Actve
+PAY02978,"Jan 06, 2025",January,STU0017,IELTS,Intermediate,Michael,transfer,650000,0,650000,Paid,Actve
+PAY02979,"Jul 24, 2025",July,STU0010,IELTS,Intermediate,SARAH,,5000000,-50000,5050000,Unpaid,active
+PAY02980,2025-09-24,September,STU0277,TOEFL,Advanced,John,Bank Transfer,650000,0,650000,Unpaid,active
+PAY02981,08/12/2025,December,STU0135,Math,Advanced,Emily,transfer,5000000,-50000,5050000,Paid,Active
+PAY02982,2025/03/18,March,STU0109,English,Advanced,Emily, Cash ,700000,0,700000,Unpaid,Actve
+PAY02983,"Feb 22, 2025",February,STU0487,Grammar,Intermediate,David,Cash,650000,0,650000,paid,active
+PAY02984,17/10/2025,October,STU0460,Speaking,Intermediate, john ,E-Wallet,750000,-50000,800000,Paid,Actve
+PAY02985,2025-01-10,January,STU0450,English,Beginner,Sarah, Cash ,5000000,100000,4900000,Paid,Actve
+PAY02986,2025-07-10,July,STU0152,Speaking,Intermediate,Michael,E-Wallet,500000,25000,475000,paid,Active
+PAY02987,2025/07/21,July,STU0217,english,Intermediate,Michael,Bank Transfer,700000,,,Paid,Actve
+PAY02988,14/03/2025,March,STU0313,english,Intermediate,Michael,Bank Transfer,500000,50000,450000,Unpaid,Inactive
+PAY02989,05/04/2025,April,STU0121,TOEFL,Advanced,David,transfer,500000,-50000,-550000,Paid,active
+PAY02990,"Sep 13, 2025",September,STU0148,Grammar,Intermediate,,Transfer,750000,100000,650000,paid,Actve
+PAY02991,17/06/2025,June,STU0161,English,Intermediate,Sarah,Transfer,500000,25000,475000,Unpaid,active
+PAY02992,28/06/2025,June,STU0442,English,Beginner,Linda,transfer,500000,25000,475000,Paid,Inactive
+PAY02993,2025-02-16,February,STU0328,IELTS,Advanced, john ,transfer,750000,25000,725000,Paid,Actve
+PAY02994,19/05/2025,May,STU0365,Grammar,Advanced,Emily,Transfer,5000000,50000,4950000,Paid,active
+PAY02995,"Mar 29, 2025",March,STU0052,english,Beginner,SARAH,Bank Transfer,650000,,,Unpaid,active
+PAY02996,2025-11-11,November,STU0470,English,Advanced,John,Bank Transfer,750000,0,750000,Unpaid,Active
+PAY02997,2025/05/13,May,STU0118,Grammar,Advanced,Linda,Bank Transfer,750000,50000,700000,Paid,active
+PAY02998,"Aug 13, 2025",August,STU0298,Speaking,Advanced,,transfer,500000,100000,400000,Paid,active
+PAY02999,29/05/2025,May,STU0262,English,Beginner,Linda,Cash,500000,50000,450000,paid,Inactive
+PAY03000,2025-08-04,August,STU0423,IELTS,Intermediate,John,E-Wallet,500000,,,Unpaid,Inactive
+PAY01001,2025-11-24,November,STU0115,IELTS,Advanced,Sarah, Cash ,500000,,,paid,Active
+PAY01002,2025/10/30,October,STU0120,English,Advanced,Linda, Cash ,500000,0,500000,paid,Actve
+PAY01003,2025/04/23,April,STU0004,IELTS,Advanced,Jhon,Bank Transfer,5000000,50000,4950000,Unpaid,Inactive
+PAY01004,"Apr 21, 2025",April,STU0184,Grammar,Advanced,David,,500000,0,500000,Paid,Actve
+PAY01005,2025-10-02,October,STU0425,Grammar,Advanced,Linda, Cash ,750000,0,750000,Paid,Active
+PAY01006,05/12/2025,December,STU0444,Math,Intermediate,David,transfer,700000,0,700000,paid,active
+PAY01007,"Mar 25, 2025",March,STU0360,Math,Advanced,Michael,E-Wallet,700000,25000,675000,paid,Inactive
+PAY01008,2025/03/25,March,STU0328,TOEFL,Advanced,Emily,,750000,50000,700000,Paid,Inactive
+PAY01009,"Jan 17, 2025",January,STU0468,Grammar,Beginner, john ,transfer,750000,50000,700000,paid,Actve
+PAY01010,"Mar 15, 2025",March,STU0276,Speaking,Advanced,,transfer,650000,25000,625000,paid,Actve
+PAY01011,05/07/2025,July,STU0387,English,Beginner,Michael, Cash ,650000,-50000,700000,Paid,Actve
+PAY01012,2025-11-02,November,STU0240,Speaking,Advanced,John, Cash ,750000,100000,650000,paid,Active
+PAY01013,"Dec 16, 2025",December,STU0081,ENG,Beginner,David,E-Wallet,700000,0,700000,Paid,Active
+PAY01014,"Nov 17, 2025",November,STU0192,IELTS,Advanced,SARAH,Cash,5000000,-50000,5050000,paid,active
+PAY01015,2025-09-08,September,STU0426,Speaking,Beginner,John,Transfer,500000,50000,450000,paid,Active
+PAY01016,2025/02/13,February,STU0066,ENG,Advanced,Michael,Bank Transfer,500000,-50000,550000,paid,Actve
+PAY01017,19/04/2025,April,STU0333,Grammar,Intermediate,SARAH,transfer,700000,100000,600000,Paid,Inactive
+PAY01018,2025-04-26,April,STU0118,TOEFL,Beginner,Sarah, Cash ,700000,0,700000,paid,Active
+PAY01019,2025-04-28,April,STU0122,Speaking,Advanced, john ,Transfer,500000,50000,450000,paid,Inactive
+PAY01020,2025/10/20,October,STU0098,Math,Beginner,Jhon,Bank Transfer,650000,100000,550000,Unpaid,Actve

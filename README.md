@@ -368,8 +368,19 @@ Identifying duplicate records in the dataset.
 
 Final cleaned dataset after applying data preprocessing using Pandas.
 
-![Clean Dataset](images/clean_dataset.png)
-![Clean Dataset](images/clean_dataset_csv.png)
+### 📊 Clean Dataset Preview
+
+The cleaned dataset after handling missing values, duplicates, inconsistent formats, and data transformation.
+
+![Clean Dataset Preview](images/clean_dataset.png)
+
+---
+
+### 📁 Exported Clean Dataset (CSV)
+
+The final cleaned dataset exported into CSV format for further analysis and visualization.
+
+![Clean Dataset CSV](images/clean_dataset_csv.png)
 ---
 ---
 
@@ -378,7 +389,7 @@ Final cleaned dataset after applying data preprocessing using Pandas.
 Clone this repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-cleaning-with-pandas.git
+git clone https://github.com/endah-nurfebriyanti/data-cleaning-with-pandas.git
 ```
 
 Move into the project directory.
@@ -401,7 +412,7 @@ Watch the complete step-by-step tutorial on YouTube:
 
 📺 **Data Cleaning with Pandas using Google Colab**
 
-👉 https://youtu.be/YOUR_VIDEO_LINK
+👉 https://www.youtube.com/watch?v=ypavKTChIGs
 
 In this tutorial, you'll learn:
 

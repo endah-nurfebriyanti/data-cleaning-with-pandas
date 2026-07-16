@@ -340,44 +340,37 @@ After completing the cleaning process:
 
 # 🖼 Repository Preview
 
-### Dirty Dataset
+## Dirty Dataset
 
-> *(Insert screenshot here)*
+Initial dataset before cleaning process.
 
-```
-images/dataset_preview.png
-```
+![Dirty Dataset](images/dataset_preview.png)
 
 ---
 
-### Missing Values
+## Missing Values
 
-> *(Insert screenshot here)*
+Checking missing values before preprocessing.
 
-```
-images/missing_values.png
-```
+![Missing Values](images/missing_values.png)
 
 ---
 
-### Duplicate Records
+## Duplicate Records
 
-> *(Insert screenshot here)*
+Identifying duplicate records in the dataset.
 
-```
-images/duplicate_rows.png
-```
+![Duplicate Records](images/duplicate_rows.png)
 
 ---
 
-### Clean Dataset
+## Clean Dataset
 
-> *(Insert screenshot here)*
+Final cleaned dataset after applying data preprocessing using Pandas.
 
-```
-images/clean_dataset.png
-```
+![Clean Dataset](images/clean_dataset.png)
 
+---
 ---
 
 # 🚀 How to Run

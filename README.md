@@ -368,8 +368,8 @@ Identifying duplicate records in the dataset.
 
 Final cleaned dataset after applying data preprocessing using Pandas.
 
-![Clean Dataset](images/clean_dataset.png)
-
+![Clean Dataset](images/clean_dataset1.png)
+![Clean Dataset](images/clean_dataset2.png)
 ---
 ---
 

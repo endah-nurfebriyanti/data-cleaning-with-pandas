@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-red?logo=pandas)
-![Google Colab](https://img.shields.io/badge/Google-Colab-orange?logo=googlecolab)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/endah-nurfebriyanti/data-cleaning-with-pandas/blob/main/Data_Clean_Tutorial.ipynb)
 
 A complete beginner-friendly **Data Cleaning Tutorial** using **Python Pandas** in **Google Colab**.
 
